@@ -1,0 +1,5998 @@
+18:30:27.344598 start to receive
+receive char...
+receive bits...
+compensation is  0
+18:30:27.747576 start to read serial port
+18:30:27.751311 finish reading serial port
+it used  0.00313210487366 seconds
+18:30:27.752571 346
+compensation is  0.00313210487366
+18:30:28.151145 start to read serial port
+18:30:28.161478 finish reading serial port
+it used  0.00978493690491 seconds
+18:30:28.162534 687
+[2, 0]
+receive bits...
+compensation is  0.00978493690491
+18:30:28.555526 start to read serial port
+18:30:28.561674 finish reading serial port
+it used  0.00523686408997 seconds
+18:30:28.563227 662
+compensation is  0.00523686408997
+18:30:28.960096 start to read serial port
+18:30:28.961775 finish reading serial port
+it used  0.000924825668335 seconds
+18:30:28.963403 1023
+[0, -2]
+receive bits...
+compensation is  0.000924825668335
+18:30:29.366050 start to read serial port
+18:30:29.371942 finish reading serial port
+it used  0.00509810447693 seconds
+18:30:29.373581 1023
+compensation is  0.00509810447693
+18:30:29.770518 start to read serial port
+18:30:29.771942 finish reading serial port
+it used  0.000696897506714 seconds
+18:30:29.773586 662
+[-2, 0]
+receive bits...
+compensation is  0.000696897506714
+18:30:30.176573 start to read serial port
+18:30:30.182121 finish reading serial port
+it used  0.00479102134705 seconds
+18:30:30.183573 346
+compensation is  0.00479102134705
+18:30:30.580908 start to read serial port
+18:30:30.582368 finish reading serial port
+it used  0.000434160232544 seconds
+18:30:30.583867 687
+[2, 0]
+receive bits...
+compensation is  0.000434160232544
+18:30:30.987012 start to read serial port
+18:30:30.992390 finish reading serial port
+it used  0.0046329498291 seconds
+18:30:30.994018 1023
+compensation is  0.0046329498291
+18:30:31.391364 start to read serial port
+18:30:31.392799 finish reading serial port
+it used  0.00049901008606 seconds
+18:30:31.394329 662
+[-2, 0]
+receive bits...
+compensation is  0.00049901008606
+18:30:31.797465 start to read serial port
+18:30:31.801361 finish reading serial port
+it used  0.00289392471313 seconds
+18:30:31.802803 1023
+compensation is  0.00289392471313
+18:30:32.201947 start to read serial port
+18:30:32.211471 finish reading serial port
+it used  0.00874519348145 seconds
+18:30:32.213021 662
+[-2, 0]
+receive bits...
+compensation is  0.00874519348145
+18:30:32.606795 start to read serial port
+18:30:32.611596 finish reading serial port
+it used  0.00420999526978 seconds
+18:30:32.612636 1023
+compensation is  0.00420999526978
+18:30:33.009882 start to read serial port
+18:30:33.011591 finish reading serial port
+it used  0.00147294998169 seconds
+18:30:33.012557 662
+[-2, 0]
+
+Hh
+receive char...
+receive bits...
+compensation is  0.00147294998169
+18:30:33.414063 start to read serial port
+18:30:33.421799 finish reading serial port
+it used  0.00713205337524 seconds
+18:30:33.423117 347
+compensation is  0.00713205337524
+18:30:33.817209 start to read serial port
+18:30:33.821831 finish reading serial port
+it used  0.00432801246643 seconds
+18:30:33.823131 687
+[2, 0]
+receive bits...
+compensation is  0.00432801246643
+18:30:34.221301 start to read serial port
+18:30:34.222545 finish reading serial port
+it used  0.000588893890381 seconds
+18:30:34.224151 662
+compensation is  0.000588893890381
+18:30:34.624746 start to read serial port
+18:30:34.632081 finish reading serial port
+it used  0.00711703300476 seconds
+18:30:34.633609 1023
+[0, -2]
+receive bits...
+compensation is  0.00711703300476
+18:30:35.028659 start to read serial port
+18:30:35.032143 finish reading serial port
+it used  0.00323104858398 seconds
+18:30:35.033195 1023
+compensation is  0.00323104858398
+18:30:35.431042 start to read serial port
+18:30:35.432246 finish reading serial port
+it used  0.000981092453003 seconds
+18:30:35.433470 662
+[-2, 0]
+receive bits...
+compensation is  0.000981092453003
+18:30:35.834351 start to read serial port
+18:30:35.842353 finish reading serial port
+it used  0.00749897956848 seconds
+18:30:35.843331 1023
+compensation is  0.00749897956848
+18:30:36.237044 start to read serial port
+18:30:36.242358 finish reading serial port
+it used  0.00507211685181 seconds
+18:30:36.243353 663
+[-2, 0]
+receive bits...
+compensation is  0.00507211685181
+18:30:36.640217 start to read serial port
+18:30:36.641121 finish reading serial port
+it used  0.00066089630127 seconds
+18:30:36.642212 347
+compensation is  0.00066089630127
+18:30:37.042756 start to read serial port
+18:30:37.051327 finish reading serial port
+it used  0.0083441734314 seconds
+18:30:37.052386 687
+[2, 0]
+receive bits...
+compensation is  0.0083441734314
+18:30:37.445819 start to read serial port
+18:30:37.451431 finish reading serial port
+it used  0.00536322593689 seconds
+18:30:37.452456 1023
+compensation is  0.00536322593689
+18:30:37.848260 start to read serial port
+18:30:37.851410 finish reading serial port
+it used  0.00288891792297 seconds
+18:30:37.852931 662
+[-2, 0]
+receive bits...
+compensation is  0.00288891792297
+18:30:38.252281 start to read serial port
+18:30:38.261590 finish reading serial port
+it used  0.00906181335449 seconds
+18:30:38.262611 347
+compensation is  0.00906181335449
+18:30:38.654745 start to read serial port
+18:30:38.661642 finish reading serial port
+it used  0.0063169002533 seconds
+18:30:38.662955 687
+[2, 0]
+
+Ee
+receive char...
+receive bits...
+compensation is  0.0063169002533
+18:30:39.059098 start to read serial port
+18:30:39.061689 finish reading serial port
+it used  0.00204610824585 seconds
+18:30:39.062296 348
+compensation is  0.00204610824585
+18:30:39.461535 start to read serial port
+18:30:39.471896 finish reading serial port
+it used  0.0101780891418 seconds
+18:30:39.473135 688
+[2, 0]
+receive bits...
+compensation is  0.0101780891418
+18:30:39.864789 start to read serial port
+18:30:39.871947 finish reading serial port
+it used  0.00695109367371 seconds
+18:30:39.873645 663
+compensation is  0.00695109367371
+18:30:40.267867 start to read serial port
+18:30:40.272065 finish reading serial port
+it used  0.0040340423584 seconds
+18:30:40.272278 1023
+[0, -2]
+receive bits...
+compensation is  0.0040340423584
+18:30:40.669106 start to read serial port
+18:30:40.672104 finish reading serial port
+it used  0.00284194946289 seconds
+18:30:40.672314 1023
+compensation is  0.00284194946289
+18:30:41.070202 start to read serial port
+18:30:41.072098 finish reading serial port
+it used  0.00170612335205 seconds
+18:30:41.072312 663
+[-2, 0]
+receive bits...
+compensation is  0.00170612335205
+18:30:41.471463 start to read serial port
+18:30:41.472631 finish reading serial port
+it used  0.000921010971069 seconds
+18:30:41.472881 347
+compensation is  0.000921010971069
+18:30:41.872688 start to read serial port
+18:30:41.882315 finish reading serial port
+it used  0.00943493843079 seconds
+18:30:41.882533 687
+[2, 0]
+receive bits...
+compensation is  0.00943493843079
+18:30:42.273977 start to read serial port
+18:30:42.282331 finish reading serial port
+it used  0.00817108154297 seconds
+18:30:42.282539 348
+compensation is  0.00817108154297
+18:30:42.675057 start to read serial port
+18:30:42.682371 finish reading serial port
+it used  0.00715589523315 seconds
+18:30:42.682576 688
+[2, 0]
+receive bits...
+compensation is  0.00715589523315
+18:30:43.076267 start to read serial port
+18:30:43.081239 finish reading serial port
+it used  0.00480604171753 seconds
+18:30:43.081458 1023
+compensation is  0.00480604171753
+18:30:43.477355 start to read serial port
+18:30:43.481237 finish reading serial port
+it used  0.00369811058044 seconds
+18:30:43.481453 663
+[-2, 0]
+receive bits...
+compensation is  0.00369811058044
+18:30:43.878618 start to read serial port
+18:30:43.881351 finish reading serial port
+it used  0.00256419181824 seconds
+18:30:43.881570 1023
+compensation is  0.00256419181824
+18:30:44.279752 start to read serial port
+18:30:44.281404 finish reading serial port
+it used  0.00147700309753 seconds
+18:30:44.281618 662
+[-2, 0]
+
+Ll
+receive char...
+receive bits...
+compensation is  0.00147700309753
+18:30:44.681133 start to read serial port
+18:30:44.691491 finish reading serial port
+it used  0.0101969242096 seconds
+18:30:44.691697 348
+compensation is  0.0101969242096
+18:30:45.082257 start to read serial port
+18:30:45.091576 finish reading serial port
+it used  0.00909399986267 seconds
+18:30:45.091805 688
+[2, 0]
+receive bits...
+compensation is  0.00909399986267
+18:30:45.483594 start to read serial port
+18:30:45.491600 finish reading serial port
+it used  0.007807970047 seconds
+18:30:45.491813 663
+compensation is  0.007807970047
+18:30:45.884716 start to read serial port
+18:30:45.891702 finish reading serial port
+it used  0.00679993629456 seconds
+18:30:45.891904 1023
+[0, -2]
+receive bits...
+compensation is  0.00679993629456
+18:30:46.285965 start to read serial port
+18:30:46.291745 finish reading serial port
+it used  0.00559306144714 seconds
+18:30:46.291943 1023
+compensation is  0.00559306144714
+18:30:46.687069 start to read serial port
+18:30:46.691764 finish reading serial port
+it used  0.00447797775269 seconds
+18:30:46.691978 663
+[-2, 0]
+receive bits...
+compensation is  0.00447797775269
+18:30:47.088376 start to read serial port
+18:30:47.091793 finish reading serial port
+it used  0.00318908691406 seconds
+18:30:47.091999 348
+compensation is  0.00318908691406
+18:30:47.489514 start to read serial port
+18:30:47.491821 finish reading serial port
+it used  0.00213813781738 seconds
+18:30:47.492019 688
+[2, 0]
+receive bits...
+compensation is  0.00213813781738
+18:30:47.890736 start to read serial port
+18:30:47.891997 finish reading serial port
+it used  0.0010941028595 seconds
+18:30:47.892201 348
+compensation is  0.0010941028595
+18:30:48.291808 start to read serial port
+18:30:48.302055 finish reading serial port
+it used  0.0100848674774 seconds
+18:30:48.302254 688
+[2, 0]
+receive bits...
+compensation is  0.0100848674774
+18:30:48.693028 start to read serial port
+18:30:48.702159 finish reading serial port
+it used  0.00897288322449 seconds
+18:30:48.702357 1023
+compensation is  0.00897288322449
+18:30:49.094106 start to read serial port
+18:30:49.102152 finish reading serial port
+it used  0.00785303115845 seconds
+18:30:49.102356 663
+[-2, 0]
+receive bits...
+compensation is  0.00785303115845
+18:30:49.495382 start to read serial port
+18:30:49.502263 finish reading serial port
+it used  0.00667810440063 seconds
+18:30:49.502464 1023
+compensation is  0.00667810440063
+18:30:49.896485 start to read serial port
+18:30:49.902257 finish reading serial port
+it used  0.00556397438049 seconds
+18:30:49.902459 663
+[-2, 0]
+
+Ll
+receive char...
+receive bits...
+compensation is  0.00556397438049
+18:30:50.297862 start to read serial port
+18:30:50.302303 finish reading serial port
+it used  0.00424289703369 seconds
+18:30:50.302509 348
+compensation is  0.00424289703369
+18:30:50.698976 start to read serial port
+18:30:50.701098 finish reading serial port
+it used  0.00193285942078 seconds
+18:30:50.701301 688
+[2, 0]
+receive bits...
+compensation is  0.00193285942078
+18:30:51.100233 start to read serial port
+18:30:51.101453 finish reading serial port
+it used  0.00101494789124 seconds
+18:30:51.101658 663
+compensation is  0.00101494789124
+18:30:51.501358 start to read serial port
+18:30:51.511378 finish reading serial port
+it used  0.00985884666443 seconds
+18:30:51.511578 1023
+[0, -2]
+receive bits...
+compensation is  0.00985884666443
+18:30:51.902563 start to read serial port
+18:30:51.911429 finish reading serial port
+it used  0.00870084762573 seconds
+18:30:51.911631 1023
+compensation is  0.00870084762573
+18:30:52.303629 start to read serial port
+18:30:52.311414 finish reading serial port
+it used  0.00761795043945 seconds
+18:30:52.311615 663
+[-2, 0]
+receive bits...
+compensation is  0.00761795043945
+18:30:52.704856 start to read serial port
+18:30:52.711462 finish reading serial port
+it used  0.00643920898438 seconds
+18:30:52.711682 348
+compensation is  0.00643920898438
+18:30:53.105975 start to read serial port
+18:30:53.111512 finish reading serial port
+it used  0.00534105300903 seconds
+18:30:53.111717 688
+[2, 0]
+receive bits...
+compensation is  0.00534105300903
+18:30:53.507254 start to read serial port
+18:30:53.511556 finish reading serial port
+it used  0.00411701202393 seconds
+18:30:53.511752 348
+compensation is  0.00411701202393
+18:30:53.908343 start to read serial port
+18:30:53.911612 finish reading serial port
+it used  0.00306510925293 seconds
+18:30:53.911813 688
+[2, 0]
+receive bits...
+compensation is  0.00306510925293
+18:30:54.309595 start to read serial port
+18:30:54.311654 finish reading serial port
+it used  0.00187301635742 seconds
+18:30:54.311850 349
+compensation is  0.00187301635742
+18:30:54.710671 start to read serial port
+18:30:54.711785 finish reading serial port
+it used  0.000957012176514 seconds
+18:30:54.711972 688
+[2, 0]
+receive bits...
+compensation is  0.000957012176514
+18:30:55.111879 start to read serial port
+18:30:55.121941 finish reading serial port
+it used  0.00987386703491 seconds
+18:30:55.122153 349
+compensation is  0.00987386703491
+18:30:55.512979 start to read serial port
+18:30:55.521968 finish reading serial port
+it used  0.00883102416992 seconds
+18:30:55.522164 689
+[2, 0]
+
+Oo
+receive char...
+receive bits...
+compensation is  0.00883102416992
+18:30:55.914301 start to read serial port
+18:30:55.922084 finish reading serial port
+it used  0.0076150894165 seconds
+18:30:55.922288 1023
+compensation is  0.0076150894165
+18:30:56.315383 start to read serial port
+18:30:56.322059 finish reading serial port
+it used  0.00650787353516 seconds
+18:30:56.322257 663
+[-2, 0]
+receive bits...
+compensation is  0.00650787353516
+18:30:56.716626 start to read serial port
+18:30:56.722103 finish reading serial port
+it used  0.00530886650085 seconds
+18:30:56.722302 349
+compensation is  0.00530886650085
+18:30:57.117718 start to read serial port
+18:30:57.122168 finish reading serial port
+it used  0.00422787666321 seconds
+18:30:57.122374 688
+[2, 0]
+receive bits...
+compensation is  0.00422787666321
+18:30:57.519021 start to read serial port
+18:30:57.522264 finish reading serial port
+it used  0.00303411483765 seconds
+18:30:57.522465 1023
+compensation is  0.00303411483765
+18:30:57.920134 start to read serial port
+18:30:57.922259 finish reading serial port
+it used  0.00194001197815 seconds
+18:30:57.922461 663
+[-2, 0]
+receive bits...
+compensation is  0.00194001197815
+18:30:58.321368 start to read serial port
+18:30:58.322623 finish reading serial port
+it used  0.00107192993164 seconds
+18:30:58.322819 1023
+compensation is  0.00107192993164
+18:30:58.722454 start to read serial port
+18:30:58.731180 finish reading serial port
+it used  0.00857090950012 seconds
+18:30:58.731376 664
+[-2, 0]
+receive bits...
+compensation is  0.00857090950012
+18:30:59.123645 start to read serial port
+18:30:59.131304 finish reading serial port
+it used  0.00748991966248 seconds
+18:30:59.131504 1023
+compensation is  0.00748991966248
+18:30:59.524725 start to read serial port
+18:30:59.531293 finish reading serial port
+it used  0.00639510154724 seconds
+18:30:59.531496 663
+[-2, 0]
+receive bits...
+compensation is  0.00639510154724
+18:30:59.925978 start to read serial port
+18:30:59.931403 finish reading serial port
+it used  0.00525808334351 seconds
+18:30:59.931607 1023
+compensation is  0.00525808334351
+18:31:00.327097 start to read serial port
+18:31:00.331396 finish reading serial port
+it used  0.0040819644928 seconds
+18:31:00.331603 663
+[-2, 0]
+receive bits...
+compensation is  0.0040819644928
+18:31:00.728395 start to read serial port
+18:31:00.731492 finish reading serial port
+it used  0.00291609764099 seconds
+18:31:00.731687 1023
+compensation is  0.00291609764099
+18:31:01.129533 start to read serial port
+18:31:01.131499 finish reading serial port
+it used  0.00170397758484 seconds
+18:31:01.131720 663
+[-2, 0]
+
+
+receive char...
+receive bits...
+compensation is  0.00170397758484
+18:31:01.531019 start to read serial port
+18:31:01.531709 finish reading serial port
+it used  0.000447034835815 seconds
+18:31:01.531886 349
+compensation is  0.000447034835815
+18:31:01.932142 start to read serial port
+18:31:01.941709 finish reading serial port
+it used  0.0093789100647 seconds
+18:31:01.941915 688
+[2, 0]
+receive bits...
+compensation is  0.0093789100647
+18:31:02.333380 start to read serial port
+18:31:02.341752 finish reading serial port
+it used  0.0081901550293 seconds
+18:31:02.341949 663
+compensation is  0.0081901550293
+18:31:02.734447 start to read serial port
+18:31:02.741874 finish reading serial port
+it used  0.00725603103638 seconds
+18:31:02.742084 1023
+[0, -2]
+receive bits...
+compensation is  0.00725603103638
+18:31:03.135685 start to read serial port
+18:31:03.141916 finish reading serial port
+it used  0.00605821609497 seconds
+18:31:03.142123 1023
+compensation is  0.00605821609497
+18:31:03.536755 start to read serial port
+18:31:03.541892 finish reading serial port
+it used  0.00498104095459 seconds
+18:31:03.542091 664
+[-2, 0]
+receive bits...
+compensation is  0.00498104095459
+18:31:03.937973 start to read serial port
+18:31:03.942014 finish reading serial port
+it used  0.00382208824158 seconds
+18:31:03.942219 1023
+compensation is  0.00382208824158
+18:31:04.339120 start to read serial port
+18:31:04.341988 finish reading serial port
+it used  0.00269985198975 seconds
+18:31:04.342191 663
+[-2, 0]
+receive bits...
+compensation is  0.00269985198975
+18:31:04.740369 start to read serial port
+18:31:04.742047 finish reading serial port
+it used  0.00151300430298 seconds
+18:31:04.742244 349
+compensation is  0.00151300430298
+18:31:05.141454 start to read serial port
+18:31:05.142185 finish reading serial port
+it used  0.000473976135254 seconds
+18:31:05.142370 688
+[2, 0]
+receive bits...
+compensation is  0.000473976135254
+18:31:05.542743 start to read serial port
+18:31:05.552272 finish reading serial port
+it used  0.00931906700134 seconds
+18:31:05.552476 349
+compensation is  0.00931906700134
+18:31:05.943851 start to read serial port
+18:31:05.952321 finish reading serial port
+it used  0.00830101966858 seconds
+18:31:05.952526 688
+[2, 0]
+receive bits...
+compensation is  0.00830101966858
+18:31:06.345058 start to read serial port
+18:31:06.351171 finish reading serial port
+it used  0.00595688819885 seconds
+18:31:06.351363 1023
+compensation is  0.00595688819885
+18:31:06.746120 start to read serial port
+18:31:06.751171 finish reading serial port
+it used  0.00484800338745 seconds
+18:31:06.751381 663
+[-2, 0]
+
+Ff
+receive char...
+receive bits...
+compensation is  0.00484800338745
+18:31:07.147497 start to read serial port
+18:31:07.151221 finish reading serial port
+it used  0.00354909896851 seconds
+18:31:07.151433 349
+compensation is  0.00354909896851
+18:31:07.548581 start to read serial port
+18:31:07.551256 finish reading serial port
+it used  0.00251817703247 seconds
+18:31:07.551452 688
+[2, 0]
+receive bits...
+compensation is  0.00251817703247
+18:31:07.949782 start to read serial port
+18:31:07.951305 finish reading serial port
+it used  0.00134491920471 seconds
+18:31:07.951512 664
+compensation is  0.00134491920471
+18:31:08.350948 start to read serial port
+18:31:08.351638 finish reading serial port
+it used  0.000507116317749 seconds
+18:31:08.351813 1023
+[0, -2]
+receive bits...
+compensation is  0.000507116317749
+18:31:08.752214 start to read serial port
+18:31:08.761523 finish reading serial port
+it used  0.00911498069763 seconds
+18:31:08.761719 349
+compensation is  0.00911498069763
+18:31:09.153298 start to read serial port
+18:31:09.161588 finish reading serial port
+it used  0.00808000564575 seconds
+18:31:09.161788 688
+[2, 0]
+receive bits...
+compensation is  0.00808000564575
+18:31:09.554599 start to read serial port
+18:31:09.561686 finish reading serial port
+it used  0.00688719749451 seconds
+18:31:09.561886 1023
+compensation is  0.00688719749451
+18:31:09.955709 start to read serial port
+18:31:09.961681 finish reading serial port
+it used  0.00579214096069 seconds
+18:31:09.961889 664
+[-2, 0]
+receive bits...
+compensation is  0.00579214096069
+18:31:10.356984 start to read serial port
+18:31:10.361784 finish reading serial port
+it used  0.00463509559631 seconds
+18:31:10.361984 1023
+compensation is  0.00463509559631
+18:31:10.758060 start to read serial port
+18:31:10.761782 finish reading serial port
+it used  0.00347900390625 seconds
+18:31:10.761994 664
+[-2, 0]
+receive bits...
+compensation is  0.00347900390625
+18:31:11.159418 start to read serial port
+18:31:11.161823 finish reading serial port
+it used  0.00223803520203 seconds
+18:31:11.162028 349
+compensation is  0.00223803520203
+18:31:11.560486 start to read serial port
+18:31:11.561933 finish reading serial port
+it used  0.00129008293152 seconds
+18:31:11.562130 688
+[2, 0]
+receive bits...
+compensation is  0.00129008293152
+18:31:11.961757 start to read serial port
+18:31:11.972158 finish reading serial port
+it used  0.010214805603 seconds
+18:31:11.972372 1023
+compensation is  0.010214805603
+18:31:12.362912 start to read serial port
+18:31:12.372133 finish reading serial port
+it used  0.00903987884521 seconds
+18:31:12.372346 664
+[-2, 0]
+
+Rr
+receive char...
+receive bits...
+compensation is  0.00903987884521
+18:31:12.764290 start to read serial port
+18:31:12.772173 finish reading serial port
+it used  0.00771808624268 seconds
+18:31:12.772374 349
+compensation is  0.00771808624268
+18:31:13.165381 start to read serial port
+18:31:13.172218 finish reading serial port
+it used  0.00664806365967 seconds
+18:31:13.172418 688
+[2, 0]
+receive bits...
+compensation is  0.00664806365967
+18:31:13.566645 start to read serial port
+18:31:13.572258 finish reading serial port
+it used  0.00542902946472 seconds
+18:31:13.572454 664
+compensation is  0.00542902946472
+18:31:13.967720 start to read serial port
+18:31:13.972377 finish reading serial port
+it used  0.00446391105652 seconds
+18:31:13.972583 1023
+[0, -2]
+receive bits...
+compensation is  0.00446391105652
+18:31:14.368982 start to read serial port
+18:31:14.371217 finish reading serial port
+it used  0.00204586982727 seconds
+18:31:14.371414 1023
+compensation is  0.00204586982727
+18:31:14.770057 start to read serial port
+18:31:14.771316 finish reading serial port
+it used  0.00110006332397 seconds
+18:31:14.771511 664
+[-2, 0]
+receive bits...
+compensation is  0.00110006332397
+18:31:15.171314 start to read serial port
+18:31:15.181313 finish reading serial port
+it used  0.00982785224915 seconds
+18:31:15.181522 349
+compensation is  0.00982785224915
+18:31:15.572402 start to read serial port
+18:31:15.581342 finish reading serial port
+it used  0.00878095626831 seconds
+18:31:15.581537 688
+[2, 0]
+receive bits...
+compensation is  0.00878095626831
+18:31:15.973608 start to read serial port
+18:31:15.981409 finish reading serial port
+it used  0.00763392448425 seconds
+18:31:15.981614 350
+compensation is  0.00763392448425
+18:31:16.374687 start to read serial port
+18:31:16.381451 finish reading serial port
+it used  0.00658011436462 seconds
+18:31:16.381647 688
+[2, 0]
+receive bits...
+compensation is  0.00658011436462
+18:31:16.775930 start to read serial port
+18:31:16.781493 finish reading serial port
+it used  0.00537800788879 seconds
+18:31:16.781691 350
+compensation is  0.00537800788879
+18:31:17.177011 start to read serial port
+18:31:17.181550 finish reading serial port
+it used  0.00433087348938 seconds
+18:31:17.181756 689
+[2, 0]
+receive bits...
+compensation is  0.00433087348938
+18:31:17.578280 start to read serial port
+18:31:17.581591 finish reading serial port
+it used  0.00313210487366 seconds
+18:31:17.581785 350
+compensation is  0.00313210487366
+18:31:17.979374 start to read serial port
+18:31:17.981641 finish reading serial port
+it used  0.00207686424255 seconds
+18:31:17.981841 689
+[2, 0]
+
+Oo
+receive char...
+receive bits...
+compensation is  0.00207686424255
+18:31:18.380709 start to read serial port
+18:31:18.381849 finish reading serial port
+it used  0.00097393989563 seconds
+18:31:18.382050 350
+compensation is  0.00097393989563
+18:31:18.781763 start to read serial port
+18:31:18.791860 finish reading serial port
+it used  0.00993204116821 seconds
+18:31:18.792050 689
+[2, 0]
+receive bits...
+compensation is  0.00993204116821
+18:31:19.182952 start to read serial port
+18:31:19.191916 finish reading serial port
+it used  0.0088050365448 seconds
+18:31:19.192115 664
+compensation is  0.0088050365448
+18:31:19.584028 start to read serial port
+18:31:19.592017 finish reading serial port
+it used  0.00782489776611 seconds
+18:31:19.592211 1023
+[0, -2]
+receive bits...
+compensation is  0.00782489776611
+18:31:19.985256 start to read serial port
+18:31:19.992089 finish reading serial port
+it used  0.00663185119629 seconds
+18:31:19.992291 1023
+compensation is  0.00663185119629
+18:31:20.386362 start to read serial port
+18:31:20.392060 finish reading serial port
+it used  0.00551104545593 seconds
+18:31:20.392258 664
+[-2, 0]
+receive bits...
+compensation is  0.00551104545593
+18:31:20.787637 start to read serial port
+18:31:20.792114 finish reading serial port
+it used  0.00428581237793 seconds
+18:31:20.792321 350
+compensation is  0.00428581237793
+18:31:21.188738 start to read serial port
+18:31:21.192154 finish reading serial port
+it used  0.00325298309326 seconds
+18:31:21.192352 689
+[2, 0]
+receive bits...
+compensation is  0.00325298309326
+18:31:21.589943 start to read serial port
+18:31:21.592206 finish reading serial port
+it used  0.00209283828735 seconds
+18:31:21.592402 350
+compensation is  0.00209283828735
+18:31:21.991008 start to read serial port
+18:31:22.001133 finish reading serial port
+it used  0.0099630355835 seconds
+18:31:22.001333 689
+[2, 0]
+receive bits...
+compensation is  0.0099630355835
+18:31:22.392206 start to read serial port
+18:31:22.401239 finish reading serial port
+it used  0.00886607170105 seconds
+18:31:22.401434 1023
+compensation is  0.00886607170105
+18:31:22.793287 start to read serial port
+18:31:22.801223 finish reading serial port
+it used  0.00777506828308 seconds
+18:31:22.801421 664
+[-2, 0]
+receive bits...
+compensation is  0.00777506828308
+18:31:23.194514 start to read serial port
+18:31:23.201277 finish reading serial port
+it used  0.00657200813293 seconds
+18:31:23.201482 350
+compensation is  0.00657200813293
+18:31:23.595609 start to read serial port
+18:31:23.601318 finish reading serial port
+it used  0.00552892684937 seconds
+18:31:23.601513 689
+[2, 0]
+
+Mm
+receive char...
+receive bits...
+compensation is  0.00552892684937
+18:31:23.996946 start to read serial port
+18:31:24.001461 finish reading serial port
+it used  0.00431489944458 seconds
+18:31:24.001662 1023
+compensation is  0.00431489944458
+18:31:24.398038 start to read serial port
+18:31:24.401418 finish reading serial port
+it used  0.00314402580261 seconds
+18:31:24.401619 664
+[-2, 0]
+receive bits...
+compensation is  0.00314402580261
+18:31:24.799309 start to read serial port
+18:31:24.801463 finish reading serial port
+it used  0.00199198722839 seconds
+18:31:24.801655 350
+compensation is  0.00199198722839
+18:31:25.200371 start to read serial port
+18:31:25.201653 finish reading serial port
+it used  0.00110197067261 seconds
+18:31:25.201854 689
+[2, 0]
+receive bits...
+compensation is  0.00110197067261
+18:31:25.601626 start to read serial port
+18:31:25.611758 finish reading serial port
+it used  0.00997018814087 seconds
+18:31:25.611954 1023
+compensation is  0.00997018814087
+18:31:26.002731 start to read serial port
+18:31:26.011750 finish reading serial port
+it used  0.00884914398193 seconds
+18:31:26.011953 664
+[-2, 0]
+receive bits...
+compensation is  0.00884914398193
+18:31:26.404011 start to read serial port
+18:31:26.411842 finish reading serial port
+it used  0.00762891769409 seconds
+18:31:26.412040 1023
+compensation is  0.00762891769409
+18:31:26.805180 start to read serial port
+18:31:26.811856 finish reading serial port
+it used  0.00647401809692 seconds
+18:31:26.812064 664
+[-2, 0]
+receive bits...
+compensation is  0.00647401809692
+18:31:27.206542 start to read serial port
+18:31:27.211957 finish reading serial port
+it used  0.00523400306702 seconds
+18:31:27.212161 1023
+compensation is  0.00523400306702
+18:31:27.607676 start to read serial port
+18:31:27.611935 finish reading serial port
+it used  0.00407600402832 seconds
+18:31:27.612137 664
+[-2, 0]
+receive bits...
+compensation is  0.00407600402832
+18:31:28.009034 start to read serial port
+18:31:28.012057 finish reading serial port
+it used  0.00284695625305 seconds
+18:31:28.012264 1023
+compensation is  0.00284695625305
+18:31:28.410187 start to read serial port
+18:31:28.412029 finish reading serial port
+it used  0.00165510177612 seconds
+18:31:28.412223 664
+[-2, 0]
+receive bits...
+compensation is  0.00165510177612
+18:31:28.811517 start to read serial port
+18:31:28.812263 finish reading serial port
+it used  0.000502109527588 seconds
+18:31:28.812442 1023
+compensation is  0.000502109527588
+18:31:29.212718 start to read serial port
+18:31:29.222265 finish reading serial port
+it used  0.00934481620789 seconds
+18:31:29.222464 664
+[-2, 0]
+
+
+receive char...
+receive bits...
+compensation is  0.00934481620789
+18:31:29.614046 start to read serial port
+18:31:29.622306 finish reading serial port
+it used  0.00805902481079 seconds
+18:31:29.622501 350
+compensation is  0.00805902481079
+18:31:30.015140 start to read serial port
+18:31:30.021164 finish reading serial port
+it used  0.00585103034973 seconds
+18:31:30.021373 688
+[2, 0]
+receive bits...
+compensation is  0.00585103034973
+18:31:30.416399 start to read serial port
+18:31:30.421200 finish reading serial port
+it used  0.00463199615479 seconds
+18:31:30.421399 664
+compensation is  0.00463199615479
+18:31:30.817455 start to read serial port
+18:31:30.821317 finish reading serial port
+it used  0.00369906425476 seconds
+18:31:30.821511 1023
+[0, -2]
+receive bits...
+compensation is  0.00369906425476
+18:31:31.218703 start to read serial port
+18:31:31.221305 finish reading serial port
+it used  0.00243592262268 seconds
+18:31:31.221506 350
+compensation is  0.00243592262268
+18:31:31.619762 start to read serial port
+18:31:31.621331 finish reading serial port
+it used  0.00141406059265 seconds
+18:31:31.621525 689
+[2, 0]
+receive bits...
+compensation is  0.00141406059265
+18:31:32.021091 start to read serial port
+18:31:32.031544 finish reading serial port
+it used  0.0102660655975 seconds
+18:31:32.031750 1023
+compensation is  0.0102660655975
+18:31:32.422206 start to read serial port
+18:31:32.431513 finish reading serial port
+it used  0.0091118812561 seconds
+18:31:32.431707 664
+[-2, 0]
+receive bits...
+compensation is  0.0091118812561
+18:31:32.823462 start to read serial port
+18:31:32.831624 finish reading serial port
+it used  0.00797414779663 seconds
+18:31:32.831819 1023
+compensation is  0.00797414779663
+18:31:33.224533 start to read serial port
+18:31:33.231608 finish reading serial port
+it used  0.00689506530762 seconds
+18:31:33.231811 664
+[-2, 0]
+receive bits...
+compensation is  0.00689506530762
+18:31:33.625753 start to read serial port
+18:31:33.631655 finish reading serial port
+it used  0.00574398040771 seconds
+18:31:33.631848 350
+compensation is  0.00574398040771
+18:31:34.026796 start to read serial port
+18:31:34.031713 finish reading serial port
+it used  0.00474905967712 seconds
+18:31:34.031915 689
+[2, 0]
+receive bits...
+compensation is  0.00474905967712
+18:31:34.428011 start to read serial port
+18:31:34.431759 finish reading serial port
+it used  0.0035240650177 seconds
+18:31:34.431959 351
+compensation is  0.0035240650177
+18:31:34.829125 start to read serial port
+18:31:34.831790 finish reading serial port
+it used  0.00247693061829 seconds
+18:31:34.831989 689
+[2, 0]
+
+Ss
+receive char...
+receive bits...
+compensation is  0.00247693061829
+18:31:35.230458 start to read serial port
+18:31:35.231953 finish reading serial port
+it used  0.00132513046265 seconds
+18:31:35.232163 351
+compensation is  0.00132513046265
+18:31:35.631607 start to read serial port
+18:31:35.642028 finish reading serial port
+it used  0.0102548599243 seconds
+18:31:35.642234 689
+[2, 0]
+receive bits...
+compensation is  0.0102548599243
+18:31:36.032867 start to read serial port
+18:31:36.042089 finish reading serial port
+it used  0.00904679298401 seconds
+18:31:36.042297 664
+compensation is  0.00904679298401
+18:31:36.433953 start to read serial port
+18:31:36.442189 finish reading serial port
+it used  0.008052110672 seconds
+18:31:36.442383 1023
+[0, -2]
+receive bits...
+compensation is  0.008052110672
+18:31:36.835162 start to read serial port
+18:31:36.842226 finish reading serial port
+it used  0.00687003135681 seconds
+18:31:36.842416 1023
+compensation is  0.00687003135681
+18:31:37.236241 start to read serial port
+18:31:37.242218 finish reading serial port
+it used  0.00581312179565 seconds
+18:31:37.242421 664
+[-2, 0]
+receive bits...
+compensation is  0.00581312179565
+18:31:37.637441 start to read serial port
+18:31:37.641072 finish reading serial port
+it used  0.00343990325928 seconds
+18:31:37.641266 1023
+compensation is  0.00343990325928
+18:31:38.038532 start to read serial port
+18:31:38.041068 finish reading serial port
+it used  0.00231981277466 seconds
+18:31:38.041269 664
+[-2, 0]
+receive bits...
+compensation is  0.00231981277466
+18:31:38.439793 start to read serial port
+18:31:38.441219 finish reading serial port
+it used  0.00124907493591 seconds
+18:31:38.441417 350
+compensation is  0.00124907493591
+18:31:38.840897 start to read serial port
+18:31:38.851283 finish reading serial port
+it used  0.0102369785309 seconds
+18:31:38.851482 689
+[2, 0]
+receive bits...
+compensation is  0.0102369785309
+18:31:39.242134 start to read serial port
+18:31:39.251404 finish reading serial port
+it used  0.00909090042114 seconds
+18:31:39.251609 1023
+compensation is  0.00909090042114
+18:31:39.643218 start to read serial port
+18:31:39.651382 finish reading serial port
+it used  0.00798797607422 seconds
+18:31:39.651576 664
+[-2, 0]
+receive bits...
+compensation is  0.00798797607422
+18:31:40.044461 start to read serial port
+18:31:40.051445 finish reading serial port
+it used  0.00679612159729 seconds
+18:31:40.051653 350
+compensation is  0.00679612159729
+18:31:40.445547 start to read serial port
+18:31:40.451485 finish reading serial port
+it used  0.00577187538147 seconds
+18:31:40.451686 689
+[2, 0]
+
+Ee
+receive char...
+receive bits...
+compensation is  0.00577187538147
+18:31:40.846847 start to read serial port
+18:31:40.851532 finish reading serial port
+it used  0.00452208518982 seconds
+18:31:40.851735 351
+compensation is  0.00452208518982
+18:31:41.247904 start to read serial port
+18:31:41.251577 finish reading serial port
+it used  0.00350499153137 seconds
+18:31:41.251783 689
+[2, 0]
+receive bits...
+compensation is  0.00350499153137
+18:31:41.649133 start to read serial port
+18:31:41.651627 finish reading serial port
+it used  0.00233101844788 seconds
+18:31:41.651824 665
+compensation is  0.00233101844788
+18:31:42.050215 start to read serial port
+18:31:42.051770 finish reading serial port
+it used  0.00138592720032 seconds
+18:31:42.051972 1023
+[0, -2]
+receive bits...
+compensation is  0.00138592720032
+18:31:42.451461 start to read serial port
+18:31:42.461914 finish reading serial port
+it used  0.0102989673615 seconds
+18:31:42.462138 1023
+compensation is  0.0102989673615
+18:31:42.852584 start to read serial port
+18:31:42.861893 finish reading serial port
+it used  0.00912094116211 seconds
+18:31:42.862089 664
+[-2, 0]
+receive bits...
+compensation is  0.00912094116211
+18:31:43.253887 start to read serial port
+18:31:43.261946 finish reading serial port
+it used  0.00787115097046 seconds
+18:31:43.262145 350
+compensation is  0.00787115097046
+18:31:43.655049 start to read serial port
+18:31:43.661995 finish reading serial port
+it used  0.00675487518311 seconds
+18:31:43.662192 689
+[2, 0]
+receive bits...
+compensation is  0.00675487518311
+18:31:44.056364 start to read serial port
+18:31:44.062054 finish reading serial port
+it used  0.00550198554993 seconds
+18:31:44.062256 351
+compensation is  0.00550198554993
+18:31:44.457512 start to read serial port
+18:31:44.462092 finish reading serial port
+it used  0.00439810752869 seconds
+18:31:44.462288 689
+[2, 0]
+receive bits...
+compensation is  0.00439810752869
+18:31:44.858802 start to read serial port
+18:31:44.862135 finish reading serial port
+it used  0.00315093994141 seconds
+18:31:44.862333 351
+compensation is  0.00315093994141
+18:31:45.259927 start to read serial port
+18:31:45.261134 finish reading serial port
+it used  0.00102996826172 seconds
+18:31:45.261336 689
+[2, 0]
+receive bits...
+compensation is  0.00102996826172
+18:31:45.661181 start to read serial port
+18:31:45.671206 finish reading serial port
+it used  0.00986194610596 seconds
+18:31:45.671405 1023
+compensation is  0.00986194610596
+18:31:46.062266 start to read serial port
+18:31:46.071208 finish reading serial port
+it used  0.00877904891968 seconds
+18:31:46.071410 664
+[-2, 0]
+
+Nn
+receive char...
+receive bits...
+compensation is  0.00877904891968
+18:31:46.463637 start to read serial port
+18:31:46.471270 finish reading serial port
+it used  0.00743794441223 seconds
+18:31:46.471484 351
+compensation is  0.00743794441223
+18:31:46.864782 start to read serial port
+18:31:46.871299 finish reading serial port
+it used  0.00634598731995 seconds
+18:31:46.871503 689
+[2, 0]
+receive bits...
+compensation is  0.00634598731995
+18:31:47.266062 start to read serial port
+18:31:47.271363 finish reading serial port
+it used  0.00511479377747 seconds
+18:31:47.271577 664
+compensation is  0.00511479377747
+18:31:47.667214 start to read serial port
+18:31:47.671447 finish reading serial port
+it used  0.00406503677368 seconds
+18:31:47.671648 1023
+[0, -2]
+receive bits...
+compensation is  0.00406503677368
+18:31:48.068523 start to read serial port
+18:31:48.071505 finish reading serial port
+it used  0.0028088092804 seconds
+18:31:48.071714 1023
+compensation is  0.0028088092804
+18:31:48.469656 start to read serial port
+18:31:48.471488 finish reading serial port
+it used  0.00164818763733 seconds
+18:31:48.471687 665
+[-2, 0]
+receive bits...
+compensation is  0.00164818763733
+18:31:48.870950 start to read serial port
+18:31:48.871711 finish reading serial port
+it used  0.000519037246704 seconds
+18:31:48.871915 1023
+compensation is  0.000519037246704
+18:31:49.272100 start to read serial port
+18:31:49.281684 finish reading serial port
+it used  0.00939607620239 seconds
+18:31:49.281889 664
+[-2, 0]
+receive bits...
+compensation is  0.00939607620239
+18:31:49.673329 start to read serial port
+18:31:49.681718 finish reading serial port
+it used  0.00821399688721 seconds
+18:31:49.681911 350
+compensation is  0.00821399688721
+18:31:50.074398 start to read serial port
+18:31:50.081777 finish reading serial port
+it used  0.00720596313477 seconds
+18:31:50.081985 689
+[2, 0]
+receive bits...
+compensation is  0.00720596313477
+18:31:50.475637 start to read serial port
+18:31:50.481894 finish reading serial port
+it used  0.00608396530151 seconds
+18:31:50.482098 1023
+compensation is  0.00608396530151
+18:31:50.876706 start to read serial port
+18:31:50.881869 finish reading serial port
+it used  0.00499606132507 seconds
+18:31:50.882068 665
+[-2, 0]
+receive bits...
+compensation is  0.00499606132507
+18:31:51.277922 start to read serial port
+18:31:51.281974 finish reading serial port
+it used  0.00388193130493 seconds
+18:31:51.282179 1023
+compensation is  0.00388193130493
+18:31:51.679026 start to read serial port
+18:31:51.681957 finish reading serial port
+it used  0.00277614593506 seconds
+18:31:51.682151 664
+[-2, 0]
+
+Dd
+receive char...
+receive bits...
+compensation is  0.00277614593506
+18:31:52.080354 start to read serial port
+18:31:52.082017 finish reading serial port
+it used  0.0014820098877 seconds
+18:31:52.082220 351
+compensation is  0.0014820098877
+18:31:52.481472 start to read serial port
+18:31:52.482155 finish reading serial port
+it used  0.000463962554932 seconds
+18:31:52.482332 689
+[2, 0]
+receive bits...
+compensation is  0.000463962554932
+18:31:52.882709 start to read serial port
+18:31:52.892231 finish reading serial port
+it used  0.00932216644287 seconds
+18:31:52.892426 664
+compensation is  0.00932216644287
+18:31:53.283809 start to read serial port
+18:31:53.291108 finish reading serial port
+it used  0.00711417198181 seconds
+18:31:53.291320 1023
+[0, -2]
+receive bits...
+compensation is  0.00711417198181
+18:31:53.685060 start to read serial port
+18:31:53.691149 finish reading serial port
+it used  0.00592112541199 seconds
+18:31:53.691356 1023
+compensation is  0.00592112541199
+18:31:54.086131 start to read serial port
+18:31:54.091138 finish reading serial port
+it used  0.00484085083008 seconds
+18:31:54.091342 664
+[-2, 0]
+receive bits...
+compensation is  0.00484085083008
+18:31:54.487351 start to read serial port
+18:31:54.491249 finish reading serial port
+it used  0.00372385978699 seconds
+18:31:54.491455 1023
+compensation is  0.00372385978699
+18:31:54.888424 start to read serial port
+18:31:54.891225 finish reading serial port
+it used  0.00263786315918 seconds
+18:31:54.891422 664
+[-2, 0]
+receive bits...
+compensation is  0.00263786315918
+18:31:55.289656 start to read serial port
+18:31:55.291284 finish reading serial port
+it used  0.0014660358429 seconds
+18:31:55.291481 351
+compensation is  0.0014660358429
+18:31:55.690741 start to read serial port
+18:31:55.691412 finish reading serial port
+it used  0.000457048416138 seconds
+18:31:55.691589 689
+[2, 0]
+receive bits...
+compensation is  0.000457048416138
+18:31:56.091988 start to read serial port
+18:31:56.101576 finish reading serial port
+it used  0.00937294960022 seconds
+18:31:56.101788 1023
+compensation is  0.00937294960022
+18:31:56.493122 start to read serial port
+18:31:56.501559 finish reading serial port
+it used  0.00825786590576 seconds
+18:31:56.501764 665
+[-2, 0]
+receive bits...
+compensation is  0.00825786590576
+18:31:56.894355 start to read serial port
+18:31:56.901598 finish reading serial port
+it used  0.007080078125 seconds
+18:31:56.901792 351
+compensation is  0.007080078125
+18:31:57.295403 start to read serial port
+18:31:57.301644 finish reading serial port
+it used  0.00607085227966 seconds
+18:31:57.301845 689
+[2, 0]
+
+Ee
+receive char...
+receive bits...
+compensation is  0.00607085227966
+18:31:57.696711 start to read serial port
+18:31:57.701696 finish reading serial port
+it used  0.00482296943665 seconds
+18:31:57.701900 351
+compensation is  0.00482296943665
+18:31:58.097769 start to read serial port
+18:31:58.101745 finish reading serial port
+it used  0.00381398200989 seconds
+18:31:58.101948 689
+[2, 0]
+receive bits...
+compensation is  0.00381398200989
+18:31:58.498979 start to read serial port
+18:31:58.501791 finish reading serial port
+it used  0.00264883041382 seconds
+18:31:58.501986 665
+compensation is  0.00264883041382
+18:31:58.900046 start to read serial port
+18:31:58.901887 finish reading serial port
+it used  0.00165200233459 seconds
+18:31:58.902080 1023
+[0, -2]
+receive bits...
+compensation is  0.00165200233459
+18:31:59.301301 start to read serial port
+18:31:59.301991 finish reading serial port
+it used  0.000468969345093 seconds
+18:31:59.302171 351
+compensation is  0.000468969345093
+18:31:59.702397 start to read serial port
+18:31:59.712060 finish reading serial port
+it used  0.00949907302856 seconds
+18:31:59.712301 689
+[2, 0]
+receive bits...
+compensation is  0.00949907302856
+18:32:00.103702 start to read serial port
+18:32:00.112176 finish reading serial port
+it used  0.00828003883362 seconds
+18:32:00.112436 1023
+compensation is  0.00828003883362
+18:32:00.504842 start to read serial port
+18:32:00.512146 finish reading serial port
+it used  0.00714802742004 seconds
+18:32:00.512375 664
+[-2, 0]
+receive bits...
+compensation is  0.00714802742004
+18:32:00.906111 start to read serial port
+18:32:00.911016 finish reading serial port
+it used  0.00474691390991 seconds
+18:32:00.911212 1023
+compensation is  0.00474691390991
+18:32:01.307191 start to read serial port
+18:32:01.311024 finish reading serial port
+it used  0.00365900993347 seconds
+18:32:01.311238 665
+[-2, 0]
+receive bits...
+compensation is  0.00365900993347
+18:32:01.708444 start to read serial port
+18:32:01.711045 finish reading serial port
+it used  0.00244903564453 seconds
+18:32:01.711244 351
+compensation is  0.00244903564453
+18:32:02.109512 start to read serial port
+18:32:02.111106 finish reading serial port
+it used  0.00142788887024 seconds
+18:32:02.111312 689
+[2, 0]
+receive bits...
+compensation is  0.00142788887024
+18:32:02.510827 start to read serial port
+18:32:02.521349 finish reading serial port
+it used  0.0103650093079 seconds
+18:32:02.521579 1023
+compensation is  0.0103650093079
+18:32:02.911909 start to read serial port
+18:32:02.921321 finish reading serial port
+it used  0.00922608375549 seconds
+18:32:02.921520 664
+[-2, 0]
+
+Rr
+receive char...
+receive bits...
+compensation is  0.00922608375549
+18:32:03.313297 start to read serial port
+18:32:03.321441 finish reading serial port
+it used  0.00794816017151 seconds
+18:32:03.321672 1023
+compensation is  0.00794816017151
+18:32:03.714433 start to read serial port
+18:32:03.721432 finish reading serial port
+it used  0.00680899620056 seconds
+18:32:03.721628 665
+[-2, 0]
+receive bits...
+compensation is  0.00680899620056
+18:32:04.115695 start to read serial port
+18:32:04.121473 finish reading serial port
+it used  0.00557780265808 seconds
+18:32:04.121678 351
+compensation is  0.00557780265808
+18:32:04.516855 start to read serial port
+18:32:04.521523 finish reading serial port
+it used  0.00450301170349 seconds
+18:32:04.521721 689
+[2, 0]
+receive bits...
+compensation is  0.00450301170349
+18:32:04.918090 start to read serial port
+18:32:04.921624 finish reading serial port
+it used  0.00332093238831 seconds
+18:32:04.921857 1023
+compensation is  0.00332093238831
+18:32:05.319262 start to read serial port
+18:32:05.321622 finish reading serial port
+it used  0.00219106674194 seconds
+18:32:05.321827 665
+[-2, 0]
+receive bits...
+compensation is  0.00219106674194
+18:32:05.720510 start to read serial port
+18:32:05.721823 finish reading serial port
+it used  0.0011579990387 seconds
+18:32:05.722041 1023
+compensation is  0.0011579990387
+18:32:06.121576 start to read serial port
+18:32:06.131839 finish reading serial port
+it used  0.0100920200348 seconds
+18:32:06.132042 665
+[-2, 0]
+receive bits...
+compensation is  0.0100920200348
+18:32:06.522840 start to read serial port
+18:32:06.531975 finish reading serial port
+it used  0.00893306732178 seconds
+18:32:06.532193 1023
+compensation is  0.00893306732178
+18:32:06.923996 start to read serial port
+18:32:06.931937 finish reading serial port
+it used  0.00777220726013 seconds
+18:32:06.932137 665
+[-2, 0]
+receive bits...
+compensation is  0.00777220726013
+18:32:07.325272 start to read serial port
+18:32:07.332045 finish reading serial port
+it used  0.00659894943237 seconds
+18:32:07.332246 1023
+compensation is  0.00659894943237
+18:32:07.726357 start to read serial port
+18:32:07.732031 finish reading serial port
+it used  0.00548195838928 seconds
+18:32:07.732231 665
+[-2, 0]
+receive bits...
+compensation is  0.00548195838928
+18:32:08.127631 start to read serial port
+18:32:08.132148 finish reading serial port
+it used  0.00431394577026 seconds
+18:32:08.132359 1023
+compensation is  0.00431394577026
+18:32:08.528742 start to read serial port
+18:32:08.532113 finish reading serial port
+it used  0.00319314002991 seconds
+18:32:08.532310 665
+[-2, 0]
+
+
+receive char...
+receive bits...
+compensation is  0.00319314002991
+18:32:08.930056 start to read serial port
+18:32:08.931299 finish reading serial port
+it used  0.00105786323547 seconds
+18:32:08.931497 1023
+compensation is  0.00105786323547
+18:32:09.331163 start to read serial port
+18:32:09.341104 finish reading serial port
+it used  0.00976181030273 seconds
+18:32:09.341310 665
+[-2, 0]
+receive bits...
+compensation is  0.00976181030273
+18:32:09.732388 start to read serial port
+18:32:09.741150 finish reading serial port
+it used  0.00859808921814 seconds
+18:32:09.741353 350
+compensation is  0.00859808921814
+18:32:10.133455 start to read serial port
+18:32:10.141209 finish reading serial port
+it used  0.00757813453674 seconds
+18:32:10.141416 689
+[2, 0]
+receive bits...
+compensation is  0.00757813453674
+18:32:10.534690 start to read serial port
+18:32:10.541244 finish reading serial port
+it used  0.00638008117676 seconds
+18:32:10.541448 351
+compensation is  0.00638008117676
+18:32:10.935769 start to read serial port
+18:32:10.941281 finish reading serial port
+it used  0.00532817840576 seconds
+18:32:10.941478 689
+[2, 0]
+receive bits...
+compensation is  0.00532817840576
+18:32:11.337043 start to read serial port
+18:32:11.341411 finish reading serial port
+it used  0.00416803359985 seconds
+18:32:11.341616 1023
+compensation is  0.00416803359985
+18:32:11.738254 start to read serial port
+18:32:11.741407 finish reading serial port
+it used  0.00291299819946 seconds
+18:32:11.741617 665
+[-2, 0]
+receive bits...
+compensation is  0.00291299819946
+18:32:12.139614 start to read serial port
+18:32:12.141508 finish reading serial port
+it used  0.00168800354004 seconds
+18:32:12.141712 1023
+compensation is  0.00168800354004
+18:32:12.540723 start to read serial port
+18:32:12.541862 finish reading serial port
+it used  0.000940084457397 seconds
+18:32:12.542054 665
+[-2, 0]
+receive bits...
+compensation is  0.000940084457397
+18:32:12.942028 start to read serial port
+18:32:12.951656 finish reading serial port
+it used  0.00944590568542 seconds
+18:32:12.951856 665
+compensation is  0.00944590568542
+18:32:13.343101 start to read serial port
+18:32:13.351765 finish reading serial port
+it used  0.00849604606628 seconds
+18:32:13.351966 1023
+[0, -2]
+receive bits...
+compensation is  0.00849604606628
+18:32:13.744328 start to read serial port
+18:32:13.751770 finish reading serial port
+it used  0.00725293159485 seconds
+18:32:13.751972 688
+compensation is  0.00725293159485
+18:32:14.145418 start to read serial port
+18:32:14.151811 finish reading serial port
+it used  0.00622296333313 seconds
+18:32:14.152013 351
+[0, 2]
+
+12
+receive char...
+receive bits...
+compensation is  0.00622296333313
+18:32:14.546729 start to read serial port
+18:32:14.551851 finish reading serial port
+it used  0.00495791435242 seconds
+18:32:14.552050 351
+compensation is  0.00495791435242
+18:32:14.947805 start to read serial port
+18:32:14.951902 finish reading serial port
+it used  0.00392913818359 seconds
+18:32:14.952106 689
+[2, 0]
+receive bits...
+compensation is  0.00392913818359
+18:32:15.349054 start to read serial port
+18:32:15.351948 finish reading serial port
+it used  0.00272393226624 seconds
+18:32:15.352148 665
+compensation is  0.00272393226624
+18:32:15.750149 start to read serial port
+18:32:15.752050 finish reading serial port
+it used  0.00171804428101 seconds
+18:32:15.752248 1023
+[0, -2]
+receive bits...
+compensation is  0.00171804428101
+18:32:16.151406 start to read serial port
+18:32:16.152196 finish reading serial port
+it used  0.000536918640137 seconds
+18:32:16.152377 1023
+compensation is  0.000536918640137
+18:32:16.552534 start to read serial port
+18:32:16.560978 finish reading serial port
+it used  0.00827312469482 seconds
+18:32:16.561177 665
+[-2, 0]
+receive bits...
+compensation is  0.00827312469482
+18:32:16.953744 start to read serial port
+18:32:16.961014 finish reading serial port
+it used  0.0071120262146 seconds
+18:32:16.961205 351
+compensation is  0.0071120262146
+18:32:17.354807 start to read serial port
+18:32:17.361064 finish reading serial port
+it used  0.00609087944031 seconds
+18:32:17.361266 689
+[2, 0]
+receive bits...
+compensation is  0.00609087944031
+18:32:17.756015 start to read serial port
+18:32:17.761173 finish reading serial port
+it used  0.00499701499939 seconds
+18:32:17.761369 1023
+compensation is  0.00499701499939
+18:32:18.157083 start to read serial port
+18:32:18.161164 finish reading serial port
+it used  0.00391507148743 seconds
+18:32:18.161372 665
+[-2, 0]
+receive bits...
+compensation is  0.00391507148743
+18:32:18.558331 start to read serial port
+18:32:18.561268 finish reading serial port
+it used  0.00277996063232 seconds
+18:32:18.561463 1023
+compensation is  0.00277996063232
+18:32:18.959403 start to read serial port
+18:32:18.961249 finish reading serial port
+it used  0.00167107582092 seconds
+18:32:18.961442 665
+[-2, 0]
+receive bits...
+compensation is  0.00167107582092
+18:32:19.360635 start to read serial port
+18:32:19.361857 finish reading serial port
+it used  0.0010290145874 seconds
+18:32:19.362098 1023
+compensation is  0.0010290145874
+18:32:19.761788 start to read serial port
+18:32:19.771486 finish reading serial port
+it used  0.00954008102417 seconds
+18:32:19.771717 665
+[-2, 0]
+
+Hh
+receive char...
+receive bits...
+compensation is  0.00954008102417
+18:32:20.163201 start to read serial port
+18:32:20.171544 finish reading serial port
+it used  0.00814390182495 seconds
+18:32:20.171775 351
+compensation is  0.00814390182495
+18:32:20.564321 start to read serial port
+18:32:20.571586 finish reading serial port
+it used  0.00710797309875 seconds
+18:32:20.571805 689
+[2, 0]
+receive bits...
+compensation is  0.00710797309875
+18:32:20.965566 start to read serial port
+18:32:20.971631 finish reading serial port
+it used  0.00589895248413 seconds
+18:32:20.971859 665
+compensation is  0.00589895248413
+18:32:21.366665 start to read serial port
+18:32:21.371752 finish reading serial port
+it used  0.00491309165955 seconds
+18:32:21.371990 1023
+[0, -2]
+receive bits...
+compensation is  0.00491309165955
+18:32:21.767967 start to read serial port
+18:32:21.771794 finish reading serial port
+it used  0.00360798835754 seconds
+18:32:21.772020 1023
+compensation is  0.00360798835754
+18:32:22.169112 start to read serial port
+18:32:22.171781 finish reading serial port
+it used  0.00250482559204 seconds
+18:32:22.172014 665
+[-2, 0]
+receive bits...
+compensation is  0.00250482559204
+18:32:22.570380 start to read serial port
+18:32:22.571929 finish reading serial port
+it used  0.00139403343201 seconds
+18:32:22.572153 1023
+compensation is  0.00139403343201
+18:32:22.971534 start to read serial port
+18:32:22.980737 finish reading serial port
+it used  0.00905394554138 seconds
+18:32:22.980933 665
+[-2, 0]
+receive bits...
+compensation is  0.00905394554138
+18:32:23.372740 start to read serial port
+18:32:23.380790 finish reading serial port
+it used  0.00785493850708 seconds
+18:32:23.380991 351
+compensation is  0.00785493850708
+18:32:23.773820 start to read serial port
+18:32:23.780846 finish reading serial port
+it used  0.00681805610657 seconds
+18:32:23.781042 689
+[2, 0]
+receive bits...
+compensation is  0.00681805610657
+18:32:24.175076 start to read serial port
+18:32:24.180955 finish reading serial port
+it used  0.00568914413452 seconds
+18:32:24.181159 1023
+compensation is  0.00568914413452
+18:32:24.576159 start to read serial port
+18:32:24.580935 finish reading serial port
+it used  0.0046181678772 seconds
+18:32:24.581136 665
+[-2, 0]
+receive bits...
+compensation is  0.0046181678772
+18:32:24.977362 start to read serial port
+18:32:24.980991 finish reading serial port
+it used  0.00345897674561 seconds
+18:32:24.981197 351
+compensation is  0.00345897674561
+18:32:25.378443 start to read serial port
+18:32:25.381032 finish reading serial port
+it used  0.00242114067078 seconds
+18:32:25.381237 689
+[2, 0]
+
+Ee
+receive char...
+receive bits...
+compensation is  0.00242114067078
+18:32:25.779783 start to read serial port
+18:32:25.781182 finish reading serial port
+it used  0.0012309551239 seconds
+18:32:25.781378 352
+compensation is  0.0012309551239
+18:32:26.180870 start to read serial port
+18:32:26.191261 finish reading serial port
+it used  0.0102379322052 seconds
+18:32:26.191463 689
+[2, 0]
+receive bits...
+compensation is  0.0102379322052
+18:32:26.582132 start to read serial port
+18:32:26.591327 finish reading serial port
+it used  0.00899720191956 seconds
+18:32:26.591540 665
+compensation is  0.00899720191956
+18:32:26.983267 start to read serial port
+18:32:26.991414 finish reading serial port
+it used  0.00795102119446 seconds
+18:32:26.991615 1023
+[0, -2]
+receive bits...
+compensation is  0.00795102119446
+18:32:27.384546 start to read serial port
+18:32:27.391467 finish reading serial port
+it used  0.00672793388367 seconds
+18:32:27.391672 1023
+compensation is  0.00672793388367
+18:32:27.785629 start to read serial port
+18:32:27.791448 finish reading serial port
+it used  0.0056369304657 seconds
+18:32:27.791647 665
+[-2, 0]
+receive bits...
+compensation is  0.0056369304657
+18:32:28.186851 start to read serial port
+18:32:28.191504 finish reading serial port
+it used  0.00447010993958 seconds
+18:32:28.191710 351
+compensation is  0.00447010993958
+18:32:28.587939 start to read serial port
+18:32:28.591538 finish reading serial port
+it used  0.00336003303528 seconds
+18:32:28.591737 689
+[2, 0]
+receive bits...
+compensation is  0.00336003303528
+18:32:28.989235 start to read serial port
+18:32:28.991584 finish reading serial port
+it used  0.00219511985779 seconds
+18:32:28.991779 351
+compensation is  0.00219511985779
+18:32:29.390283 start to read serial port
+18:32:29.391734 finish reading serial port
+it used  0.00128102302551 seconds
+18:32:29.391931 690
+[2, 0]
+receive bits...
+compensation is  0.00128102302551
+18:32:29.791492 start to read serial port
+18:32:29.800627 finish reading serial port
+it used  0.00897002220154 seconds
+18:32:29.800829 1023
+compensation is  0.00897002220154
+18:32:30.192558 start to read serial port
+18:32:30.200622 finish reading serial port
+it used  0.00787091255188 seconds
+18:32:30.200825 665
+[-2, 0]
+receive bits...
+compensation is  0.00787091255188
+18:32:30.593819 start to read serial port
+18:32:30.600727 finish reading serial port
+it used  0.00671887397766 seconds
+18:32:30.600931 1023
+compensation is  0.00671887397766
+18:32:30.994900 start to read serial port
+18:32:31.000709 finish reading serial port
+it used  0.00562191009521 seconds
+18:32:31.000915 665
+[-2, 0]
+
+Ll
+receive char...
+receive bits...
+compensation is  0.00562191009521
+18:32:31.396254 start to read serial port
+18:32:31.400769 finish reading serial port
+it used  0.00430202484131 seconds
+18:32:31.400975 352
+compensation is  0.00430202484131
+18:32:31.797357 start to read serial port
+18:32:31.800802 finish reading serial port
+it used  0.00328421592712 seconds
+18:32:31.800999 689
+[2, 0]
+receive bits...
+compensation is  0.00328421592712
+18:32:32.198569 start to read serial port
+18:32:32.200861 finish reading serial port
+it used  0.0021231174469 seconds
+18:32:32.201058 665
+compensation is  0.0021231174469
+18:32:32.599620 start to read serial port
+18:32:32.601001 finish reading serial port
+it used  0.00122404098511 seconds
+18:32:32.601195 1023
+[0, -2]
+receive bits...
+compensation is  0.00122404098511
+18:32:33.000808 start to read serial port
+18:32:33.011135 finish reading serial port
+it used  0.0101678371429 seconds
+18:32:33.011335 1023
+compensation is  0.0101678371429
+18:32:33.401867 start to read serial port
+18:32:33.411131 finish reading serial port
+it used  0.00907206535339 seconds
+18:32:33.411330 665
+[-2, 0]
+receive bits...
+compensation is  0.00907206535339
+18:32:33.803107 start to read serial port
+18:32:33.811169 finish reading serial port
+it used  0.00787687301636 seconds
+18:32:33.811367 351
+compensation is  0.00787687301636
+18:32:34.204188 start to read serial port
+18:32:34.211223 finish reading serial port
+it used  0.00681900978088 seconds
+18:32:34.211423 689
+[2, 0]
+receive bits...
+compensation is  0.00681900978088
+18:32:34.605461 start to read serial port
+18:32:34.611269 finish reading serial port
+it used  0.00563097000122 seconds
+18:32:34.611465 352
+compensation is  0.00563097000122
+18:32:35.006510 start to read serial port
+18:32:35.011314 finish reading serial port
+it used  0.0046489238739 seconds
+18:32:35.011511 690
+[2, 0]
+receive bits...
+compensation is  0.0046489238739
+18:32:35.407709 start to read serial port
+18:32:35.411429 finish reading serial port
+it used  0.00355315208435 seconds
+18:32:35.411631 1023
+compensation is  0.00355315208435
+18:32:35.808772 start to read serial port
+18:32:35.811405 finish reading serial port
+it used  0.00247192382812 seconds
+18:32:35.811618 665
+[-2, 0]
+receive bits...
+compensation is  0.00247192382812
+18:32:36.210006 start to read serial port
+18:32:36.211543 finish reading serial port
+it used  0.00137114524841 seconds
+18:32:36.211741 1023
+compensation is  0.00137114524841
+18:32:36.611121 start to read serial port
+18:32:36.611723 finish reading serial port
+it used  0.000432968139648 seconds
+18:32:36.611899 665
+[-2, 0]
+
+Ll
+receive char...
+receive bits...
+compensation is  0.000432968139648
+18:32:37.012474 start to read serial port
+18:32:37.020428 finish reading serial port
+it used  0.00779390335083 seconds
+18:32:37.020628 351
+compensation is  0.00779390335083
+18:32:37.413572 start to read serial port
+18:32:37.420483 finish reading serial port
+it used  0.0066978931427 seconds
+18:32:37.420686 689
+[2, 0]
+receive bits...
+compensation is  0.0066978931427
+18:32:37.814902 start to read serial port
+18:32:37.820534 finish reading serial port
+it used  0.00542521476746 seconds
+18:32:37.820733 665
+compensation is  0.00542521476746
+18:32:38.216060 start to read serial port
+18:32:38.220649 finish reading serial port
+it used  0.00438284873962 seconds
+18:32:38.220888 1023
+[0, -2]
+receive bits...
+compensation is  0.00438284873962
+18:32:38.617415 start to read serial port
+18:32:38.620690 finish reading serial port
+it used  0.003093957901 seconds
+18:32:38.620912 1023
+compensation is  0.003093957901
+18:32:39.018543 start to read serial port
+18:32:39.020659 finish reading serial port
+it used  0.00194406509399 seconds
+18:32:39.020852 665
+[-2, 0]
+receive bits...
+compensation is  0.00194406509399
+18:32:39.419816 start to read serial port
+18:32:39.421018 finish reading serial port
+it used  0.00100088119507 seconds
+18:32:39.421240 351
+compensation is  0.00100088119507
+18:32:39.820949 start to read serial port
+18:32:39.830896 finish reading serial port
+it used  0.00975108146667 seconds
+18:32:39.831092 689
+[2, 0]
+receive bits...
+compensation is  0.00975108146667
+18:32:40.222194 start to read serial port
+18:32:40.230960 finish reading serial port
+it used  0.00859498977661 seconds
+18:32:40.231162 352
+compensation is  0.00859498977661
+18:32:40.623255 start to read serial port
+18:32:40.630994 finish reading serial port
+it used  0.00758194923401 seconds
+18:32:40.631189 690
+[2, 0]
+receive bits...
+compensation is  0.00758194923401
+18:32:41.024461 start to read serial port
+18:32:41.031064 finish reading serial port
+it used  0.00644612312317 seconds
+18:32:41.031266 352
+compensation is  0.00644612312317
+18:32:41.425530 start to read serial port
+18:32:41.431087 finish reading serial port
+it used  0.00537109375 seconds
+18:32:41.431284 690
+[2, 0]
+receive bits...
+compensation is  0.00537109375
+18:32:41.826762 start to read serial port
+18:32:41.831139 finish reading serial port
+it used  0.00417590141296 seconds
+18:32:41.831334 353
+compensation is  0.00417590141296
+18:32:42.227860 start to read serial port
+18:32:42.231197 finish reading serial port
+it used  0.00314092636108 seconds
+18:32:42.231406 690
+[2, 0]
+
+Oo
+receive char...
+receive bits...
+compensation is  0.00314092636108
+18:32:42.629210 start to read serial port
+18:32:42.631291 finish reading serial port
+it used  0.00186896324158 seconds
+18:32:42.631495 1023
+compensation is  0.00186896324158
+18:32:43.030325 start to read serial port
+18:32:43.031491 finish reading serial port
+it used  0.00100207328796 seconds
+18:32:43.031690 665
+[-2, 0]
+receive bits...
+compensation is  0.00100207328796
+18:32:43.431551 start to read serial port
+18:32:43.440211 finish reading serial port
+it used  0.00849485397339 seconds
+18:32:43.440405 352
+compensation is  0.00849485397339
+18:32:43.832587 start to read serial port
+18:32:43.840256 finish reading serial port
+it used  0.00751280784607 seconds
+18:32:43.840452 690
+[2, 0]
+receive bits...
+compensation is  0.00751280784607
+18:32:44.233776 start to read serial port
+18:32:44.240369 finish reading serial port
+it used  0.00643301010132 seconds
+18:32:44.240572 1023
+compensation is  0.00643301010132
+18:32:44.634850 start to read serial port
+18:32:44.640361 finish reading serial port
+it used  0.00532913208008 seconds
+18:32:44.640560 665
+[-2, 0]
+receive bits...
+compensation is  0.00532913208008
+18:32:45.036103 start to read serial port
+18:32:45.040471 finish reading serial port
+it used  0.00417685508728 seconds
+18:32:45.040677 1023
+compensation is  0.00417685508728
+18:32:45.437194 start to read serial port
+18:32:45.440451 finish reading serial port
+it used  0.00305795669556 seconds
+18:32:45.440647 665
+[-2, 0]
+receive bits...
+compensation is  0.00305795669556
+18:32:45.838435 start to read serial port
+18:32:45.840550 finish reading serial port
+it used  0.00193500518799 seconds
+18:32:45.840743 1023
+compensation is  0.00193500518799
+18:32:46.239502 start to read serial port
+18:32:46.240671 finish reading serial port
+it used  0.00100803375244 seconds
+18:32:46.240866 665
+[-2, 0]
+receive bits...
+compensation is  0.00100803375244
+18:32:46.640727 start to read serial port
+18:32:46.650806 finish reading serial port
+it used  0.00990009307861 seconds
+18:32:46.651014 1023
+compensation is  0.00990009307861
+18:32:47.041818 start to read serial port
+18:32:47.050803 finish reading serial port
+it used  0.00880002975464 seconds
+18:32:47.051005 666
+[-2, 0]
+receive bits...
+compensation is  0.00880002975464
+18:32:47.443055 start to read serial port
+18:32:47.450880 finish reading serial port
+it used  0.00766587257385 seconds
+18:32:47.451080 1023
+compensation is  0.00766587257385
+18:32:47.844111 start to read serial port
+18:32:47.850862 finish reading serial port
+it used  0.00656509399414 seconds
+18:32:47.851058 665
+[-2, 0]
+
+
+receive char...
+receive bits...
+compensation is  0.00656509399414
+18:32:48.245469 start to read serial port
+18:32:48.250924 finish reading serial port
+it used  0.00528192520142 seconds
+18:32:48.251131 352
+compensation is  0.00528192520142
+18:32:48.646565 start to read serial port
+18:32:48.650960 finish reading serial port
+it used  0.0042200088501 seconds
+18:32:48.651152 689
+[2, 0]
+receive bits...
+compensation is  0.0042200088501
+18:32:49.047799 start to read serial port
+18:32:49.051020 finish reading serial port
+it used  0.00302696228027 seconds
+18:32:49.051227 666
+compensation is  0.00302696228027
+18:32:49.448913 start to read serial port
+18:32:49.451135 finish reading serial port
+it used  0.00203514099121 seconds
+18:32:49.451335 1023
+[0, -2]
+receive bits...
+compensation is  0.00203514099121
+18:32:49.850143 start to read serial port
+18:32:49.851319 finish reading serial port
+it used  0.00101685523987 seconds
+18:32:49.851511 1023
+compensation is  0.00101685523987
+18:32:50.251189 start to read serial port
+18:32:50.261296 finish reading serial port
+it used  0.00994110107422 seconds
+18:32:50.261501 665
+[-2, 0]
+receive bits...
+compensation is  0.00994110107422
+18:32:50.652403 start to read serial port
+18:32:50.661400 finish reading serial port
+it used  0.00883507728577 seconds
+18:32:50.661598 1023
+compensation is  0.00883507728577
+18:32:51.053476 start to read serial port
+18:32:51.061381 finish reading serial port
+it used  0.00773787498474 seconds
+18:32:51.061581 665
+[-2, 0]
+receive bits...
+compensation is  0.00773787498474
+18:32:51.454727 start to read serial port
+18:32:51.460177 finish reading serial port
+it used  0.00526905059814 seconds
+18:32:51.460371 352
+compensation is  0.00526905059814
+18:32:51.855805 start to read serial port
+18:32:51.860228 finish reading serial port
+it used  0.00422883033752 seconds
+18:32:51.860422 689
+[2, 0]
+receive bits...
+compensation is  0.00422883033752
+18:32:52.257055 start to read serial port
+18:32:52.260278 finish reading serial port
+it used  0.00303816795349 seconds
+18:32:52.260480 352
+compensation is  0.00303816795349
+18:32:52.658200 start to read serial port
+18:32:52.660323 finish reading serial port
+it used  0.00195097923279 seconds
+18:32:52.660527 689
+[2, 0]
+receive bits...
+compensation is  0.00195097923279
+18:32:53.059429 start to read serial port
+18:32:53.060653 finish reading serial port
+it used  0.00106310844421 seconds
+18:32:53.060855 1023
+compensation is  0.00106310844421
+18:32:53.460481 start to read serial port
+18:32:53.470547 finish reading serial port
+it used  0.00990700721741 seconds
+18:32:53.470779 665
+[-2, 0]
+
+Ff
+receive char...
+receive bits...
+compensation is  0.00990700721741
+18:32:53.861871 start to read serial port
+18:32:53.870598 finish reading serial port
+it used  0.00856184959412 seconds
+18:32:53.870835 352
+compensation is  0.00856184959412
+18:32:54.263013 start to read serial port
+18:32:54.270641 finish reading serial port
+it used  0.00742483139038 seconds
+18:32:54.270887 690
+[2, 0]
+receive bits...
+compensation is  0.00742483139038
+18:32:54.664357 start to read serial port
+18:32:54.670692 finish reading serial port
+it used  0.00617599487305 seconds
+18:32:54.670922 665
+compensation is  0.00617599487305
+18:32:55.065475 start to read serial port
+18:32:55.070815 finish reading serial port
+it used  0.00516700744629 seconds
+18:32:55.071080 1023
+[0, -2]
+receive bits...
+compensation is  0.00516700744629
+18:32:55.466818 start to read serial port
+18:32:55.470808 finish reading serial port
+it used  0.00377607345581 seconds
+18:32:55.471070 352
+compensation is  0.00377607345581
+18:32:55.868007 start to read serial port
+18:32:55.870833 finish reading serial port
+it used  0.0026159286499 seconds
+18:32:55.871068 689
+[2, 0]
+receive bits...
+compensation is  0.0026159286499
+18:32:56.269358 start to read serial port
+18:32:56.270952 finish reading serial port
+it used  0.0014271736145 seconds
+18:32:56.271209 1023
+compensation is  0.0014271736145
+18:32:56.670545 start to read serial port
+18:32:56.671207 finish reading serial port
+it used  0.000473022460938 seconds
+18:32:56.671406 665
+[-2, 0]
+receive bits...
+compensation is  0.000473022460938
+18:32:57.071906 start to read serial port
+18:32:57.081183 finish reading serial port
+it used  0.00909996032715 seconds
+18:32:57.081400 1023
+compensation is  0.00909996032715
+18:32:57.473015 start to read serial port
+18:32:57.481163 finish reading serial port
+it used  0.00793600082397 seconds
+18:32:57.481369 665
+[-2, 0]
+receive bits...
+compensation is  0.00793600082397
+18:32:57.874294 start to read serial port
+18:32:57.881202 finish reading serial port
+it used  0.00669598579407 seconds
+18:32:57.881398 352
+compensation is  0.00669598579407
+18:32:58.275391 start to read serial port
+18:32:58.281253 finish reading serial port
+it used  0.00567388534546 seconds
+18:32:58.281456 689
+[2, 0]
+receive bits...
+compensation is  0.00567388534546
+18:32:58.676622 start to read serial port
+18:32:58.681366 finish reading serial port
+it used  0.00458312034607 seconds
+18:32:58.681561 1023
+compensation is  0.00458312034607
+18:32:59.077667 start to read serial port
+18:32:59.080146 finish reading serial port
+it used  0.00231695175171 seconds
+18:32:59.080355 665
+[-2, 0]
+
+Rr
+receive char...
+receive bits...
+compensation is  0.00231695175171
+18:32:59.478998 start to read serial port
+18:32:59.480263 finish reading serial port
+it used  0.00109910964966 seconds
+18:32:59.480460 352
+compensation is  0.00109910964966
+18:32:59.880050 start to read serial port
+18:32:59.890316 finish reading serial port
+it used  0.0101079940796 seconds
+18:32:59.890507 690
+[2, 0]
+receive bits...
+compensation is  0.0101079940796
+18:33:00.281280 start to read serial port
+18:33:00.290391 finish reading serial port
+it used  0.00892901420593 seconds
+18:33:00.290604 666
+compensation is  0.00892901420593
+18:33:00.682391 start to read serial port
+18:33:00.690485 finish reading serial port
+it used  0.00791001319885 seconds
+18:33:00.690682 1023
+[0, -2]
+receive bits...
+compensation is  0.00791001319885
+18:33:01.083661 start to read serial port
+18:33:01.090533 finish reading serial port
+it used  0.00668692588806 seconds
+18:33:01.090735 1023
+compensation is  0.00668692588806
+18:33:01.484739 start to read serial port
+18:33:01.490516 finish reading serial port
+it used  0.00557899475098 seconds
+18:33:01.490717 665
+[-2, 0]
+receive bits...
+compensation is  0.00557899475098
+18:33:01.885991 start to read serial port
+18:33:01.890567 finish reading serial port
+it used  0.00439190864563 seconds
+18:33:01.890768 352
+compensation is  0.00439190864563
+18:33:02.287079 start to read serial port
+18:33:02.290622 finish reading serial port
+it used  0.00337505340576 seconds
+18:33:02.290829 689
+[2, 0]
+receive bits...
+compensation is  0.00337505340576
+18:33:02.688333 start to read serial port
+18:33:02.690659 finish reading serial port
+it used  0.00216102600098 seconds
+18:33:02.690858 352
+compensation is  0.00216102600098
+18:33:03.089393 start to read serial port
+18:33:03.090799 finish reading serial port
+it used  0.0012412071228 seconds
+18:33:03.090997 690
+[2, 0]
+receive bits...
+compensation is  0.0012412071228
+18:33:03.490598 start to read serial port
+18:33:03.500886 finish reading serial port
+it used  0.0101299285889 seconds
+18:33:03.501084 353
+compensation is  0.0101299285889
+18:33:03.891660 start to read serial port
+18:33:03.900924 finish reading serial port
+it used  0.00907802581787 seconds
+18:33:03.901124 690
+[2, 0]
+receive bits...
+compensation is  0.00907802581787
+18:33:04.292917 start to read serial port
+18:33:04.300982 finish reading serial port
+it used  0.00787401199341 seconds
+18:33:04.301183 353
+compensation is  0.00787401199341
+18:33:04.694004 start to read serial port
+18:33:04.701034 finish reading serial port
+it used  0.00681686401367 seconds
+18:33:04.701239 690
+[2, 0]
+
+Oo
+receive char...
+receive bits...
+compensation is  0.00681686401367
+18:33:05.095388 start to read serial port
+18:33:05.101088 finish reading serial port
+it used  0.00551104545593 seconds
+18:33:05.101292 353
+compensation is  0.00551104545593
+18:33:05.496485 start to read serial port
+18:33:05.501125 finish reading serial port
+it used  0.00443983078003 seconds
+18:33:05.501325 691
+[2, 0]
+receive bits...
+compensation is  0.00443983078003
+18:33:05.897725 start to read serial port
+18:33:05.901172 finish reading serial port
+it used  0.00328397750854 seconds
+18:33:05.901368 665
+compensation is  0.00328397750854
+18:33:06.298783 start to read serial port
+18:33:06.301283 finish reading serial port
+it used  0.00233483314514 seconds
+18:33:06.301483 1023
+[0, -2]
+receive bits...
+compensation is  0.00233483314514
+18:33:06.700014 start to read serial port
+18:33:06.701440 finish reading serial port
+it used  0.00125694274902 seconds
+18:33:06.701647 1023
+compensation is  0.00125694274902
+18:33:07.101129 start to read serial port
+18:33:07.110207 finish reading serial port
+it used  0.00889897346497 seconds
+18:33:07.110417 665
+[-2, 0]
+receive bits...
+compensation is  0.00889897346497
+18:33:07.502391 start to read serial port
+18:33:07.510246 finish reading serial port
+it used  0.00769400596619 seconds
+18:33:07.510445 352
+compensation is  0.00769400596619
+18:33:07.903474 start to read serial port
+18:33:07.910282 finish reading serial port
+it used  0.00661587715149 seconds
+18:33:07.910482 690
+[2, 0]
+receive bits...
+compensation is  0.00661587715149
+18:33:08.304749 start to read serial port
+18:33:08.310342 finish reading serial port
+it used  0.00539708137512 seconds
+18:33:08.310546 353
+compensation is  0.00539708137512
+18:33:08.705831 start to read serial port
+18:33:08.710380 finish reading serial port
+it used  0.00436782836914 seconds
+18:33:08.710572 690
+[2, 0]
+receive bits...
+compensation is  0.00436782836914
+18:33:09.107050 start to read serial port
+18:33:09.110497 finish reading serial port
+it used  0.00325894355774 seconds
+18:33:09.110697 1023
+compensation is  0.00325894355774
+18:33:09.508188 start to read serial port
+18:33:09.510486 finish reading serial port
+it used  0.00215005874634 seconds
+18:33:09.510688 665
+[-2, 0]
+receive bits...
+compensation is  0.00215005874634
+18:33:09.909386 start to read serial port
+18:33:09.910638 finish reading serial port
+it used  0.00108790397644 seconds
+18:33:09.910838 352
+compensation is  0.00108790397644
+18:33:10.310451 start to read serial port
+18:33:10.320736 finish reading serial port
+it used  0.0100870132446 seconds
+18:33:10.320962 690
+[2, 0]
+
+Mm
+receive char...
+receive bits...
+compensation is  0.0100870132446
+18:33:10.711853 start to read serial port
+18:33:10.720851 finish reading serial port
+it used  0.00883102416992 seconds
+18:33:10.721072 1023
+compensation is  0.00883102416992
+18:33:11.113015 start to read serial port
+18:33:11.120832 finish reading serial port
+it used  0.00761985778809 seconds
+18:33:11.121061 665
+[-2, 0]
+receive bits...
+compensation is  0.00761985778809
+18:33:11.514315 start to read serial port
+18:33:11.520882 finish reading serial port
+it used  0.00637984275818 seconds
+18:33:11.521102 352
+compensation is  0.00637984275818
+18:33:11.915469 start to read serial port
+18:33:11.920925 finish reading serial port
+it used  0.00527191162109 seconds
+18:33:11.921149 690
+[2, 0]
+receive bits...
+compensation is  0.00527191162109
+18:33:12.316779 start to read serial port
+18:33:12.321042 finish reading serial port
+it used  0.00409603118896 seconds
+18:33:12.321267 1023
+compensation is  0.00409603118896
+18:33:12.717909 start to read serial port
+18:33:12.720987 finish reading serial port
+it used  0.00290584564209 seconds
+18:33:12.721241 665
+[-2, 0]
+receive bits...
+compensation is  0.00290584564209
+18:33:13.119250 start to read serial port
+18:33:13.121129 finish reading serial port
+it used  0.00169396400452 seconds
+18:33:13.121346 1023
+compensation is  0.00169396400452
+18:33:13.520379 start to read serial port
+18:33:13.521184 finish reading serial port
+it used  0.000629901885986 seconds
+18:33:13.521528 665
+[-2, 0]
+receive bits...
+compensation is  0.000629901885986
+18:33:13.921796 start to read serial port
+18:33:13.931316 finish reading serial port
+it used  0.00934410095215 seconds
+18:33:13.931507 1023
+compensation is  0.00934410095215
+18:33:14.322845 start to read serial port
+18:33:14.330073 finish reading serial port
+it used  0.00706505775452 seconds
+18:33:14.330271 666
+[-2, 0]
+receive bits...
+compensation is  0.00706505775452
+18:33:14.724038 start to read serial port
+18:33:14.730174 finish reading serial port
+it used  0.00598096847534 seconds
+18:33:14.730366 1023
+compensation is  0.00598096847534
+18:33:15.125073 start to read serial port
+18:33:15.130165 finish reading serial port
+it used  0.00493192672729 seconds
+18:33:15.130365 666
+[-2, 0]
+receive bits...
+compensation is  0.00493192672729
+18:33:15.526260 start to read serial port
+18:33:15.530269 finish reading serial port
+it used  0.00385689735413 seconds
+18:33:15.530462 1023
+compensation is  0.00385689735413
+18:33:15.927318 start to read serial port
+18:33:15.930259 finish reading serial port
+it used  0.00278401374817 seconds
+18:33:15.930452 665
+[-2, 0]
+
+
+receive char...
+receive bits...
+compensation is  0.00278401374817
+18:33:16.328636 start to read serial port
+18:33:16.330312 finish reading serial port
+it used  0.00151109695435 seconds
+18:33:16.330508 352
+compensation is  0.00151109695435
+18:33:16.729704 start to read serial port
+18:33:16.730482 finish reading serial port
+it used  0.000542879104614 seconds
+18:33:16.730773 689
+[2, 0]
+receive bits...
+compensation is  0.000542879104614
+18:33:17.131122 start to read serial port
+18:33:17.140528 finish reading serial port
+it used  0.00919699668884 seconds
+18:33:17.140725 665
+compensation is  0.00919699668884
+18:33:17.532217 start to read serial port
+18:33:17.540636 finish reading serial port
+it used  0.00823783874512 seconds
+18:33:17.540838 1023
+[0, -2]
+receive bits...
+compensation is  0.00823783874512
+18:33:17.933441 start to read serial port
+18:33:17.940614 finish reading serial port
+it used  0.00701713562012 seconds
+18:33:17.940811 352
+compensation is  0.00701713562012
+18:33:18.334487 start to read serial port
+18:33:18.340679 finish reading serial port
+it used  0.00602912902832 seconds
+18:33:18.340883 690
+[2, 0]
+receive bits...
+compensation is  0.00602912902832
+18:33:18.735700 start to read serial port
+18:33:18.740796 finish reading serial port
+it used  0.00492596626282 seconds
+18:33:18.741003 1023
+compensation is  0.00492596626282
+18:33:19.136789 start to read serial port
+18:33:19.140781 finish reading serial port
+it used  0.00382304191589 seconds
+18:33:19.140987 665
+[-2, 0]
+receive bits...
+compensation is  0.00382304191589
+18:33:19.538040 start to read serial port
+18:33:19.540881 finish reading serial port
+it used  0.00259113311768 seconds
+18:33:19.541086 1023
+compensation is  0.00259113311768
+18:33:19.939213 start to read serial port
+18:33:19.940864 finish reading serial port
+it used  0.0014660358429 seconds
+18:33:19.941062 665
+[-2, 0]
+receive bits...
+compensation is  0.0014660358429
+18:33:20.340535 start to read serial port
+18:33:20.341161 finish reading serial port
+it used  0.000447034835815 seconds
+18:33:20.341339 352
+compensation is  0.000447034835815
+18:33:20.741575 start to read serial port
+18:33:20.751084 finish reading serial port
+it used  0.00931310653687 seconds
+18:33:20.751276 689
+[2, 0]
+receive bits...
+compensation is  0.00931310653687
+18:33:21.142800 start to read serial port
+18:33:21.151136 finish reading serial port
+it used  0.00815391540527 seconds
+18:33:21.151335 353
+compensation is  0.00815391540527
+18:33:21.543863 start to read serial port
+18:33:21.549922 finish reading serial port
+it used  0.00591111183167 seconds
+18:33:21.550114 690
+[2, 0]
+
+Ss
+receive char...
+receive bits...
+compensation is  0.00591111183167
+18:33:21.945133 start to read serial port
+18:33:21.949987 finish reading serial port
+it used  0.00468897819519 seconds
+18:33:21.950184 353
+compensation is  0.00468897819519
+18:33:22.346218 start to read serial port
+18:33:22.350032 finish reading serial port
+it used  0.00362086296082 seconds
+18:33:22.350268 690
+[2, 0]
+receive bits...
+compensation is  0.00362086296082
+18:33:22.747511 start to read serial port
+18:33:22.750069 finish reading serial port
+it used  0.00240302085876 seconds
+18:33:22.750263 665
+compensation is  0.00240302085876
+18:33:23.148570 start to read serial port
+18:33:23.150193 finish reading serial port
+it used  0.00146293640137 seconds
+18:33:23.150394 1023
+[0, -2]
+receive bits...
+compensation is  0.00146293640137
+18:33:23.549853 start to read serial port
+18:33:23.560366 finish reading serial port
+it used  0.010360956192 seconds
+18:33:23.560565 1023
+compensation is  0.010360956192
+18:33:23.950909 start to read serial port
+18:33:23.960337 finish reading serial port
+it used  0.00925278663635 seconds
+18:33:23.960535 665
+[-2, 0]
+receive bits...
+compensation is  0.00925278663635
+18:33:24.352113 start to read serial port
+18:33:24.360459 finish reading serial port
+it used  0.00813603401184 seconds
+18:33:24.360665 1023
+compensation is  0.00813603401184
+18:33:24.753206 start to read serial port
+18:33:24.760440 finish reading serial port
+it used  0.00708484649658 seconds
+18:33:24.760630 666
+[-2, 0]
+receive bits...
+compensation is  0.00708484649658
+18:33:25.154384 start to read serial port
+18:33:25.160497 finish reading serial port
+it used  0.00591492652893 seconds
+18:33:25.160695 352
+compensation is  0.00591492652893
+18:33:25.555480 start to read serial port
+18:33:25.560543 finish reading serial port
+it used  0.00487303733826 seconds
+18:33:25.560747 690
+[2, 0]
+receive bits...
+compensation is  0.00487303733826
+18:33:25.956722 start to read serial port
+18:33:25.960649 finish reading serial port
+it used  0.00376915931702 seconds
+18:33:25.960848 1023
+compensation is  0.00376915931702
+18:33:26.357795 start to read serial port
+18:33:26.360647 finish reading serial port
+it used  0.002690076828 seconds
+18:33:26.360850 665
+[-2, 0]
+receive bits...
+compensation is  0.002690076828
+18:33:26.759070 start to read serial port
+18:33:26.760716 finish reading serial port
+it used  0.00144791603088 seconds
+18:33:26.760935 352
+compensation is  0.00144791603088
+18:33:27.160222 start to read serial port
+18:33:27.160920 finish reading serial port
+it used  0.000452041625977 seconds
+18:33:27.161099 690
+[2, 0]
+
+Ee
+receive char...
+receive bits...
+compensation is  0.000452041625977
+18:33:27.561667 start to read serial port
+18:33:27.570977 finish reading serial port
+it used  0.00911808013916 seconds
+18:33:27.571207 353
+compensation is  0.00911808013916
+18:33:27.962798 start to read serial port
+18:33:27.971020 finish reading serial port
+it used  0.00799512863159 seconds
+18:33:27.971245 690
+[2, 0]
+receive bits...
+compensation is  0.00799512863159
+18:33:28.364119 start to read serial port
+18:33:28.371075 finish reading serial port
+it used  0.00673604011536 seconds
+18:33:28.371304 665
+compensation is  0.00673604011536
+18:33:28.765266 start to read serial port
+18:33:28.771182 finish reading serial port
+it used  0.00571393966675 seconds
+18:33:28.771406 1023
+[0, -2]
+receive bits...
+compensation is  0.00571393966675
+18:33:29.166564 start to read serial port
+18:33:29.171225 finish reading serial port
+it used  0.00448083877563 seconds
+18:33:29.171453 1023
+compensation is  0.00448083877563
+18:33:29.567666 start to read serial port
+18:33:29.569902 finish reading serial port
+it used  0.00206708908081 seconds
+18:33:29.570101 665
+[-2, 0]
+receive bits...
+compensation is  0.00206708908081
+18:33:29.968878 start to read serial port
+18:33:29.970055 finish reading serial port
+it used  0.0010199546814 seconds
+18:33:29.970249 353
+compensation is  0.0010199546814
+18:33:30.369931 start to read serial port
+18:33:30.380128 finish reading serial port
+it used  0.0100309848785 seconds
+18:33:30.380326 690
+[2, 0]
+receive bits...
+compensation is  0.0100309848785
+18:33:30.771129 start to read serial port
+18:33:30.780171 finish reading serial port
+it used  0.00883102416992 seconds
+18:33:30.780365 353
+compensation is  0.00883102416992
+18:33:31.172283 start to read serial port
+18:33:31.180225 finish reading serial port
+it used  0.00777697563171 seconds
+18:33:31.180426 690
+[2, 0]
+receive bits...
+compensation is  0.00777697563171
+18:33:31.573513 start to read serial port
+18:33:31.580271 finish reading serial port
+it used  0.00657796859741 seconds
+18:33:31.580468 353
+compensation is  0.00657796859741
+18:33:31.974569 start to read serial port
+18:33:31.980315 finish reading serial port
+it used  0.00555610656738 seconds
+18:33:31.980504 691
+[2, 0]
+receive bits...
+compensation is  0.00555610656738
+18:33:32.375795 start to read serial port
+18:33:32.380427 finish reading serial port
+it used  0.00445199012756 seconds
+18:33:32.380628 1023
+compensation is  0.00445199012756
+18:33:32.776856 start to read serial port
+18:33:32.780411 finish reading serial port
+it used  0.00339698791504 seconds
+18:33:32.780604 665
+[-2, 0]
+
+Nn
+receive char...
+receive bits...
+compensation is  0.00339698791504
+18:33:33.178214 start to read serial port
+18:33:33.180468 finish reading serial port
+it used  0.0020968914032 seconds
+18:33:33.180665 353
+compensation is  0.0020968914032
+18:33:33.579257 start to read serial port
+18:33:33.580546 finish reading serial port
+it used  0.001140832901 seconds
+18:33:33.580736 690
+[2, 0]
+receive bits...
+compensation is  0.001140832901
+18:33:33.980431 start to read serial port
+18:33:33.990678 finish reading serial port
+it used  0.0100920200348 seconds
+18:33:33.990868 665
+compensation is  0.0100920200348
+18:33:34.381484 start to read serial port
+18:33:34.390803 finish reading serial port
+it used  0.00913190841675 seconds
+18:33:34.391002 1023
+[0, -2]
+receive bits...
+compensation is  0.00913190841675
+18:33:34.782737 start to read serial port
+18:33:34.790851 finish reading serial port
+it used  0.00792193412781 seconds
+18:33:34.791056 1023
+compensation is  0.00792193412781
+18:33:35.183824 start to read serial port
+18:33:35.190840 finish reading serial port
+it used  0.00680685043335 seconds
+18:33:35.191040 665
+[-2, 0]
+receive bits...
+compensation is  0.00680685043335
+18:33:35.585083 start to read serial port
+18:33:35.590951 finish reading serial port
+it used  0.00565791130066 seconds
+18:33:35.591151 1023
+compensation is  0.00565791130066
+18:33:35.986183 start to read serial port
+18:33:35.990927 finish reading serial port
+it used  0.00458788871765 seconds
+18:33:35.991123 666
+[-2, 0]
+receive bits...
+compensation is  0.00458788871765
+18:33:36.387380 start to read serial port
+18:33:36.390989 finish reading serial port
+it used  0.00344300270081 seconds
+18:33:36.391184 352
+compensation is  0.00344300270081
+18:33:36.788450 start to read serial port
+18:33:36.791018 finish reading serial port
+it used  0.00241112709045 seconds
+18:33:36.791212 690
+[2, 0]
+receive bits...
+compensation is  0.00241112709045
+18:33:37.189645 start to read serial port
+18:33:37.191203 finish reading serial port
+it used  0.00139284133911 seconds
+18:33:37.191402 1023
+compensation is  0.00139284133911
+18:33:37.590726 start to read serial port
+18:33:37.600001 finish reading serial port
+it used  0.00908803939819 seconds
+18:33:37.600207 666
+[-2, 0]
+receive bits...
+compensation is  0.00908803939819
+18:33:37.991986 start to read serial port
+18:33:38.000106 finish reading serial port
+it used  0.00793385505676 seconds
+18:33:38.000305 1023
+compensation is  0.00793385505676
+18:33:38.393058 start to read serial port
+18:33:38.400092 finish reading serial port
+it used  0.00682806968689 seconds
+18:33:38.400294 666
+[-2, 0]
+
+Dd
+receive char...
+receive bits...
+compensation is  0.00682806968689
+18:33:38.794416 start to read serial port
+18:33:38.800172 finish reading serial port
+it used  0.00554800033569 seconds
+18:33:38.800375 353
+compensation is  0.00554800033569
+18:33:39.195516 start to read serial port
+18:33:39.200202 finish reading serial port
+it used  0.00452208518982 seconds
+18:33:39.200401 689
+[2, 0]
+receive bits...
+compensation is  0.00452208518982
+18:33:39.596745 start to read serial port
+18:33:39.600245 finish reading serial port
+it used  0.00333023071289 seconds
+18:33:39.600453 666
+compensation is  0.00333023071289
+18:33:39.997805 start to read serial port
+18:33:40.000344 finish reading serial port
+it used  0.00238800048828 seconds
+18:33:40.000545 1023
+[0, -2]
+receive bits...
+compensation is  0.00238800048828
+18:33:40.399007 start to read serial port
+18:33:40.400549 finish reading serial port
+it used  0.00137805938721 seconds
+18:33:40.400775 1023
+compensation is  0.00137805938721
+18:33:40.800118 start to read serial port
+18:33:40.810508 finish reading serial port
+it used  0.0102369785309 seconds
+18:33:40.810701 666
+[-2, 0]
+receive bits...
+compensation is  0.0102369785309
+18:33:41.201349 start to read serial port
+18:33:41.210627 finish reading serial port
+it used  0.00910902023315 seconds
+18:33:41.210828 1023
+compensation is  0.00910902023315
+18:33:41.602419 start to read serial port
+18:33:41.610609 finish reading serial port
+it used  0.00801205635071 seconds
+18:33:41.610806 666
+[-2, 0]
+receive bits...
+compensation is  0.00801205635071
+18:33:42.003641 start to read serial port
+18:33:42.010665 finish reading serial port
+it used  0.00680899620056 seconds
+18:33:42.010874 352
+compensation is  0.00680899620056
+18:33:42.404792 start to read serial port
+18:33:42.410720 finish reading serial port
+it used  0.00575709342957 seconds
+18:33:42.410923 689
+[2, 0]
+receive bits...
+compensation is  0.00575709342957
+18:33:42.806037 start to read serial port
+18:33:42.810818 finish reading serial port
+it used  0.00462198257446 seconds
+18:33:42.811018 1023
+compensation is  0.00462198257446
+18:33:43.207134 start to read serial port
+18:33:43.210808 finish reading serial port
+it used  0.00350999832153 seconds
+18:33:43.211017 666
+[-2, 0]
+receive bits...
+compensation is  0.00350999832153
+18:33:43.608366 start to read serial port
+18:33:43.610844 finish reading serial port
+it used  0.00231981277466 seconds
+18:33:43.611042 353
+compensation is  0.00231981277466
+18:33:44.009408 start to read serial port
+18:33:44.010890 finish reading serial port
+it used  0.00133204460144 seconds
+18:33:44.011083 690
+[2, 0]
+
+Ee
+receive char...
+receive bits...
+compensation is  0.00133204460144
+18:33:44.410708 start to read serial port
+18:33:44.419832 finish reading serial port
+it used  0.00896215438843 seconds
+18:33:44.420036 353
+compensation is  0.00896215438843
+18:33:44.811789 start to read serial port
+18:33:44.819869 finish reading serial port
+it used  0.00789213180542 seconds
+18:33:44.820063 690
+[2, 0]
+receive bits...
+compensation is  0.00789213180542
+18:33:45.213035 start to read serial port
+18:33:45.219928 finish reading serial port
+it used  0.00667405128479 seconds
+18:33:45.220132 666
+compensation is  0.00667405128479
+18:33:45.614152 start to read serial port
+18:33:45.620029 finish reading serial port
+it used  0.00569415092468 seconds
+18:33:45.620231 1023
+[0, -2]
+receive bits...
+compensation is  0.00569415092468
+18:33:46.015371 start to read serial port
+18:33:46.020019 finish reading serial port
+it used  0.00446796417236 seconds
+18:33:46.020219 353
+compensation is  0.00446796417236
+18:33:46.416453 start to read serial port
+18:33:46.420079 finish reading serial port
+it used  0.00345301628113 seconds
+18:33:46.420283 690
+[2, 0]
+receive bits...
+compensation is  0.00345301628113
+18:33:46.817694 start to read serial port
+18:33:46.820192 finish reading serial port
+it used  0.00232815742493 seconds
+18:33:46.820404 1023
+compensation is  0.00232815742493
+18:33:47.218792 start to read serial port
+18:33:47.220247 finish reading serial port
+it used  0.00128102302551 seconds
+18:33:47.220457 666
+[-2, 0]
+receive bits...
+compensation is  0.00128102302551
+18:33:47.620037 start to read serial port
+18:33:47.630402 finish reading serial port
+it used  0.0101981163025 seconds
+18:33:47.630611 1023
+compensation is  0.0101981163025
+18:33:48.021123 start to read serial port
+18:33:48.030392 finish reading serial port
+it used  0.00904607772827 seconds
+18:33:48.030597 666
+[-2, 0]
+receive bits...
+compensation is  0.00904607772827
+18:33:48.422432 start to read serial port
+18:33:48.430442 finish reading serial port
+it used  0.007817029953 seconds
+18:33:48.430643 353
+compensation is  0.007817029953
+18:33:48.823527 start to read serial port
+18:33:48.830475 finish reading serial port
+it used  0.00676512718201 seconds
+18:33:48.830670 690
+[2, 0]
+receive bits...
+compensation is  0.00676512718201
+18:33:49.224762 start to read serial port
+18:33:49.230602 finish reading serial port
+it used  0.00561904907227 seconds
+18:33:49.230813 1023
+compensation is  0.00561904907227
+18:33:49.625885 start to read serial port
+18:33:49.630577 finish reading serial port
+it used  0.00452995300293 seconds
+18:33:49.630772 665
+[-2, 0]
+
+Rr
+receive char...
+receive bits...
+compensation is  0.00452995300293
+18:33:50.027185 start to read serial port
+18:33:50.030700 finish reading serial port
+it used  0.00335311889648 seconds
+18:33:50.030902 1023
+compensation is  0.00335311889648
+18:33:50.428260 start to read serial port
+18:33:50.430681 finish reading serial port
+it used  0.00225114822388 seconds
+18:33:50.430889 666
+[-2, 0]
+receive bits...
+compensation is  0.00225114822388
+18:33:50.829483 start to read serial port
+18:33:50.830825 finish reading serial port
+it used  0.00114703178406 seconds
+18:33:50.831024 352
+compensation is  0.00114703178406
+18:33:51.230587 start to read serial port
+18:33:51.240905 finish reading serial port
+it used  0.0101521015167 seconds
+18:33:51.241108 690
+[2, 0]
+receive bits...
+compensation is  0.0101521015167
+18:33:51.631809 start to read serial port
+18:33:51.641006 finish reading serial port
+it used  0.00903916358948 seconds
+18:33:51.641205 1023
+compensation is  0.00903916358948
+18:33:52.032853 start to read serial port
+18:33:52.039740 finish reading serial port
+it used  0.00668811798096 seconds
+18:33:52.039935 666
+[-2, 0]
+receive bits...
+compensation is  0.00668811798096
+18:33:52.434109 start to read serial port
+18:33:52.439858 finish reading serial port
+it used  0.00554704666138 seconds
+18:33:52.440058 1023
+compensation is  0.00554704666138
+18:33:52.835190 start to read serial port
+18:33:52.839846 finish reading serial port
+it used  0.0044949054718 seconds
+18:33:52.840053 666
+[-2, 0]
+receive bits...
+compensation is  0.0044949054718
+18:33:53.236410 start to read serial port
+18:33:53.239965 finish reading serial port
+it used  0.00338411331177 seconds
+18:33:53.240170 1023
+compensation is  0.00338411331177
+18:33:53.637474 start to read serial port
+18:33:53.639936 finish reading serial port
+it used  0.00230288505554 seconds
+18:33:53.640129 666
+[-2, 0]
+receive bits...
+compensation is  0.00230288505554
+18:33:54.038672 start to read serial port
+18:33:54.040130 finish reading serial port
+it used  0.00129795074463 seconds
+18:33:54.040337 1023
+compensation is  0.00129795074463
+18:33:54.439777 start to read serial port
+18:33:54.450166 finish reading serial port
+it used  0.0102291107178 seconds
+18:33:54.450370 666
+[-2, 0]
+receive bits...
+compensation is  0.0102291107178
+18:33:54.841017 start to read serial port
+18:33:54.850266 finish reading serial port
+it used  0.00908899307251 seconds
+18:33:54.850465 1023
+compensation is  0.00908899307251
+18:33:55.242084 start to read serial port
+18:33:55.250303 finish reading serial port
+it used  0.00802898406982 seconds
+18:33:55.250538 666
+[-2, 0]
+
+
+receive char...
+receive bits...
+compensation is  0.00802898406982
+18:33:55.643489 start to read serial port
+18:33:55.650364 finish reading serial port
+it used  0.00669288635254 seconds
+18:33:55.650559 1023
+compensation is  0.00669288635254
+18:33:56.044554 start to read serial port
+18:33:56.050351 finish reading serial port
+it used  0.0056209564209 seconds
+18:33:56.050547 666
+[-2, 0]
+receive bits...
+compensation is  0.0056209564209
+18:33:56.445774 start to read serial port
+18:33:56.450399 finish reading serial port
+it used  0.0044469833374 seconds
+18:33:56.450601 352
+compensation is  0.0044469833374
+18:33:56.846856 start to read serial port
+18:33:56.850474 finish reading serial port
+it used  0.0034658908844 seconds
+18:33:56.850671 689
+[2, 0]
+receive bits...
+compensation is  0.0034658908844
+18:33:57.248070 start to read serial port
+18:33:57.250498 finish reading serial port
+it used  0.00220990180969 seconds
+18:33:57.250702 353
+compensation is  0.00220990180969
+18:33:57.649184 start to read serial port
+18:33:57.650623 finish reading serial port
+it used  0.00127983093262 seconds
+18:33:57.650818 690
+[2, 0]
+receive bits...
+compensation is  0.00127983093262
+18:33:58.050395 start to read serial port
+18:33:58.060782 finish reading serial port
+it used  0.0102260112762 seconds
+18:33:58.060977 1023
+compensation is  0.0102260112762
+18:33:58.451470 start to read serial port
+18:33:58.460779 finish reading serial port
+it used  0.00911998748779 seconds
+18:33:58.460983 666
+[-2, 0]
+receive bits...
+compensation is  0.00911998748779
+18:33:58.852735 start to read serial port
+18:33:58.860877 finish reading serial port
+it used  0.00795793533325 seconds
+18:33:58.861071 1023
+compensation is  0.00795793533325
+18:33:59.253802 start to read serial port
+18:33:59.260869 finish reading serial port
+it used  0.00687909126282 seconds
+18:33:59.261075 666
+[-2, 0]
+receive bits...
+compensation is  0.00687909126282
+18:33:59.655040 start to read serial port
+18:33:59.659669 finish reading serial port
+it used  0.00443387031555 seconds
+18:33:59.659863 666
+compensation is  0.00443387031555
+18:34:00.056138 start to read serial port
+18:34:00.061017 finish reading serial port
+it used  0.00472402572632 seconds
+18:34:00.061209 1023
+[0, -2]
+receive bits...
+compensation is  0.00472402572632
+18:34:00.457348 start to read serial port
+18:34:00.459785 finish reading serial port
+it used  0.00226092338562 seconds
+18:34:00.459994 689
+compensation is  0.00226092338562
+18:34:00.858439 start to read serial port
+18:34:00.859890 finish reading serial port
+it used  0.00128722190857 seconds
+18:34:00.860088 352
+[0, 2]
+
+12
+receive char...
+receive bits...
+compensation is  0.00128722190857
+18:34:01.259780 start to read serial port
+18:34:01.269997 finish reading serial port
+it used  0.0100500583649 seconds
+18:34:01.270199 353
+compensation is  0.0100500583649
+18:34:01.660857 start to read serial port
+18:34:01.670032 finish reading serial port
+it used  0.00901913642883 seconds
+18:34:01.670229 690
+[2, 0]
+receive bits...
+compensation is  0.00901913642883
+18:34:02.062054 start to read serial port
+18:34:02.070077 finish reading serial port
+it used  0.0078399181366 seconds
+18:34:02.070267 666
+compensation is  0.0078399181366
+18:34:02.463179 start to read serial port
+18:34:02.470192 finish reading serial port
+it used  0.0068199634552 seconds
+18:34:02.470401 1023
+[0, -2]
+receive bits...
+compensation is  0.0068199634552
+18:34:02.864443 start to read serial port
+18:34:02.870235 finish reading serial port
+it used  0.0055980682373 seconds
+18:34:02.870432 1023
+compensation is  0.0055980682373
+18:34:03.265533 start to read serial port
+18:34:03.270230 finish reading serial port
+it used  0.00452494621277 seconds
+18:34:03.270435 666
+[-2, 0]
+receive bits...
+compensation is  0.00452494621277
+18:34:03.666747 start to read serial port
+18:34:03.670266 finish reading serial port
+it used  0.00336694717407 seconds
+18:34:03.670456 353
+compensation is  0.00336694717407
+18:34:04.067781 start to read serial port
+18:34:04.070327 finish reading serial port
+it used  0.0023820400238 seconds
+18:34:04.070528 690
+[2, 0]
+receive bits...
+compensation is  0.0023820400238
+18:34:04.468999 start to read serial port
+18:34:04.470456 finish reading serial port
+it used  0.00128388404846 seconds
+18:34:04.470666 1023
+compensation is  0.00128388404846
+18:34:04.870149 start to read serial port
+18:34:04.880545 finish reading serial port
+it used  0.0102460384369 seconds
+18:34:04.880736 666
+[-2, 0]
+receive bits...
+compensation is  0.0102460384369
+18:34:05.271398 start to read serial port
+18:34:05.280665 finish reading serial port
+it used  0.00906920433044 seconds
+18:34:05.280867 1023
+compensation is  0.00906920433044
+18:34:05.672500 start to read serial port
+18:34:05.680637 finish reading serial port
+it used  0.00793385505676 seconds
+18:34:05.680833 665
+[-2, 0]
+receive bits...
+compensation is  0.00793385505676
+18:34:06.073748 start to read serial port
+18:34:06.080749 finish reading serial port
+it used  0.00682210922241 seconds
+18:34:06.080945 1023
+compensation is  0.00682210922241
+18:34:06.474846 start to read serial port
+18:34:06.480773 finish reading serial port
+it used  0.00571393966675 seconds
+18:34:06.480984 666
+[-2, 0]
+
+Hh
+receive char...
+receive bits...
+compensation is  0.00571393966675
+18:34:06.876249 start to read serial port
+18:34:06.880795 finish reading serial port
+it used  0.00434184074402 seconds
+18:34:06.880998 352
+compensation is  0.00434184074402
+18:34:07.277362 start to read serial port
+18:34:07.279629 finish reading serial port
+it used  0.00207114219666 seconds
+18:34:07.279856 689
+[2, 0]
+receive bits...
+compensation is  0.00207114219666
+18:34:07.678663 start to read serial port
+18:34:07.679809 finish reading serial port
+it used  0.00098991394043 seconds
+18:34:07.680032 666
+compensation is  0.00098991394043
+18:34:08.079763 start to read serial port
+18:34:08.089865 finish reading serial port
+it used  0.0099241733551 seconds
+18:34:08.090059 1023
+[0, -2]
+receive bits...
+compensation is  0.0099241733551
+18:34:08.480969 start to read serial port
+18:34:08.489917 finish reading serial port
+it used  0.00878810882568 seconds
+18:34:08.490113 1023
+compensation is  0.00878810882568
+18:34:08.882022 start to read serial port
+18:34:08.889903 finish reading serial port
+it used  0.00772619247437 seconds
+18:34:08.890104 666
+[-2, 0]
+receive bits...
+compensation is  0.00772619247437
+18:34:09.283254 start to read serial port
+18:34:09.290018 finish reading serial port
+it used  0.00659799575806 seconds
+18:34:09.290217 1023
+compensation is  0.00659799575806
+18:34:09.684315 start to read serial port
+18:34:09.689993 finish reading serial port
+it used  0.00549983978271 seconds
+18:34:09.690185 666
+[-2, 0]
+receive bits...
+compensation is  0.00549983978271
+18:34:10.085517 start to read serial port
+18:34:10.090045 finish reading serial port
+it used  0.00432515144348 seconds
+18:34:10.090240 352
+compensation is  0.00432515144348
+18:34:10.486608 start to read serial port
+18:34:10.490099 finish reading serial port
+it used  0.00333595275879 seconds
+18:34:10.490297 689
+[2, 0]
+receive bits...
+compensation is  0.00333595275879
+18:34:10.887795 start to read serial port
+18:34:10.890201 finish reading serial port
+it used  0.00224995613098 seconds
+18:34:10.890403 1023
+compensation is  0.00224995613098
+18:34:11.288854 start to read serial port
+18:34:11.290281 finish reading serial port
+it used  0.0012629032135 seconds
+18:34:11.290480 666
+[-2, 0]
+receive bits...
+compensation is  0.0012629032135
+18:34:11.690055 start to read serial port
+18:34:11.700389 finish reading serial port
+it used  0.0101819038391 seconds
+18:34:11.700607 353
+compensation is  0.0101819038391
+18:34:12.091133 start to read serial port
+18:34:12.100412 finish reading serial port
+it used  0.00909090042114 seconds
+18:34:12.100610 690
+[2, 0]
+
+Ee
+receive char...
+receive bits...
+compensation is  0.00909090042114
+18:34:12.492498 start to read serial port
+18:34:12.500469 finish reading serial port
+it used  0.00781393051147 seconds
+18:34:12.500667 353
+compensation is  0.00781393051147
+18:34:12.893553 start to read serial port
+18:34:12.900513 finish reading serial port
+it used  0.00678586959839 seconds
+18:34:12.900710 691
+[2, 0]
+receive bits...
+compensation is  0.00678586959839
+18:34:13.294764 start to read serial port
+18:34:13.300593 finish reading serial port
+it used  0.00564408302307 seconds
+18:34:13.300821 666
+compensation is  0.00564408302307
+18:34:13.695861 start to read serial port
+18:34:13.700661 finish reading serial port
+it used  0.00464701652527 seconds
+18:34:13.700856 1023
+[0, -2]
+receive bits...
+compensation is  0.00464701652527
+18:34:14.097068 start to read serial port
+18:34:14.100719 finish reading serial port
+it used  0.00347781181335 seconds
+18:34:14.100920 1023
+compensation is  0.00347781181335
+18:34:14.498200 start to read serial port
+18:34:14.500706 finish reading serial port
+it used  0.00235319137573 seconds
+18:34:14.500908 666
+[-2, 0]
+receive bits...
+compensation is  0.00235319137573
+18:34:14.899407 start to read serial port
+18:34:14.900787 finish reading serial port
+it used  0.0012218952179 seconds
+18:34:14.901008 353
+compensation is  0.0012218952179
+18:34:15.300510 start to read serial port
+18:34:15.309685 finish reading serial port
+it used  0.00900816917419 seconds
+18:34:15.309884 690
+[2, 0]
+receive bits...
+compensation is  0.00900816917419
+18:34:15.701728 start to read serial port
+18:34:15.709720 finish reading serial port
+it used  0.00781488418579 seconds
+18:34:15.709917 353
+compensation is  0.00781488418579
+18:34:16.102793 start to read serial port
+18:34:16.109778 finish reading serial port
+it used  0.00680899620056 seconds
+18:34:16.109970 690
+[2, 0]
+receive bits...
+compensation is  0.00680899620056
+18:34:16.504004 start to read serial port
+18:34:16.509888 finish reading serial port
+it used  0.00570893287659 seconds
+18:34:16.510085 1023
+compensation is  0.00570893287659
+18:34:16.905064 start to read serial port
+18:34:16.909873 finish reading serial port
+it used  0.00462198257446 seconds
+18:34:16.910067 666
+[-2, 0]
+receive bits...
+compensation is  0.00462198257446
+18:34:17.306315 start to read serial port
+18:34:17.309990 finish reading serial port
+it used  0.00349998474121 seconds
+18:34:17.310197 1023
+compensation is  0.00349998474121
+18:34:17.707383 start to read serial port
+18:34:17.709965 finish reading serial port
+it used  0.0024299621582 seconds
+18:34:17.710159 666
+[-2, 0]
+
+Ll
+receive char...
+receive bits...
+compensation is  0.0024299621582
+18:34:18.108664 start to read serial port
+18:34:18.110117 finish reading serial port
+it used  0.00129795074463 seconds
+18:34:18.110314 353
+compensation is  0.00129795074463
+18:34:18.509796 start to read serial port
+18:34:18.520201 finish reading serial port
+it used  0.0102519989014 seconds
+18:34:18.520400 690
+[2, 0]
+receive bits...
+compensation is  0.0102519989014
+18:34:18.911029 start to read serial port
+18:34:18.920240 finish reading serial port
+it used  0.0090548992157 seconds
+18:34:18.920442 666
+compensation is  0.0090548992157
+18:34:19.312097 start to read serial port
+18:34:19.320361 finish reading serial port
+it used  0.00807404518127 seconds
+18:34:19.320562 1023
+[0, -2]
+receive bits...
+compensation is  0.00807404518127
+18:34:19.713366 start to read serial port
+18:34:19.720398 finish reading serial port
+it used  0.00682497024536 seconds
+18:34:19.720597 1023
+compensation is  0.00682497024536
+18:34:20.114454 start to read serial port
+18:34:20.120381 finish reading serial port
+it used  0.00576996803284 seconds
+18:34:20.120577 666
+[-2, 0]
+receive bits...
+compensation is  0.00576996803284
+18:34:20.515650 start to read serial port
+18:34:20.520438 finish reading serial port
+it used  0.00462913513184 seconds
+18:34:20.520638 353
+compensation is  0.00462913513184
+18:34:20.916695 start to read serial port
+18:34:20.920478 finish reading serial port
+it used  0.0036289691925 seconds
+18:34:20.920673 690
+[2, 0]
+receive bits...
+compensation is  0.0036289691925
+18:34:21.317887 start to read serial port
+18:34:21.320536 finish reading serial port
+it used  0.00248384475708 seconds
+18:34:21.320741 353
+compensation is  0.00248384475708
+18:34:21.718963 start to read serial port
+18:34:21.720566 finish reading serial port
+it used  0.00144720077515 seconds
+18:34:21.720755 690
+[2, 0]
+receive bits...
+compensation is  0.00144720077515
+18:34:22.120224 start to read serial port
+18:34:22.120889 finish reading serial port
+it used  0.000497102737427 seconds
+18:34:22.121058 1023
+compensation is  0.000497102737427
+18:34:22.521256 start to read serial port
+18:34:22.529612 finish reading serial port
+it used  0.00817394256592 seconds
+18:34:22.529843 665
+[-2, 0]
+receive bits...
+compensation is  0.00817394256592
+18:34:22.922541 start to read serial port
+18:34:22.929734 finish reading serial port
+it used  0.00701022148132 seconds
+18:34:22.929960 1023
+compensation is  0.00701022148132
+18:34:23.323651 start to read serial port
+18:34:23.329722 finish reading serial port
+it used  0.0058901309967 seconds
+18:34:23.329953 666
+[-2, 0]
+
+Ll
+receive char...
+receive bits...
+compensation is  0.0058901309967
+18:34:23.725020 start to read serial port
+18:34:23.729761 finish reading serial port
+it used  0.00458312034607 seconds
+18:34:23.729990 353
+compensation is  0.00458312034607
+18:34:24.126101 start to read serial port
+18:34:24.129805 finish reading serial port
+it used  0.00354886054993 seconds
+18:34:24.130031 690
+[2, 0]
+receive bits...
+compensation is  0.00354886054993
+18:34:24.527337 start to read serial port
+18:34:24.529856 finish reading serial port
+it used  0.002357006073 seconds
+18:34:24.530080 666
+compensation is  0.002357006073
+18:34:24.928423 start to read serial port
+18:34:24.929977 finish reading serial port
+it used  0.00139784812927 seconds
+18:34:24.930199 1023
+[0, -2]
+receive bits...
+compensation is  0.00139784812927
+18:34:25.329689 start to read serial port
+18:34:25.340080 finish reading serial port
+it used  0.0101962089539 seconds
+18:34:25.340281 1023
+compensation is  0.0101962089539
+18:34:25.730785 start to read serial port
+18:34:25.740059 finish reading serial port
+it used  0.00909686088562 seconds
+18:34:25.740255 666
+[-2, 0]
+receive bits...
+compensation is  0.00909686088562
+18:34:26.132019 start to read serial port
+18:34:26.140099 finish reading serial port
+it used  0.007896900177 seconds
+18:34:26.140290 353
+compensation is  0.007896900177
+18:34:26.533108 start to read serial port
+18:34:26.540178 finish reading serial port
+it used  0.00685095787048 seconds
+18:34:26.540388 690
+[2, 0]
+receive bits...
+compensation is  0.00685095787048
+18:34:26.934420 start to read serial port
+18:34:26.940211 finish reading serial port
+it used  0.00558996200562 seconds
+18:34:26.940411 353
+compensation is  0.00558996200562
+18:34:27.335513 start to read serial port
+18:34:27.340261 finish reading serial port
+it used  0.00457811355591 seconds
+18:34:27.340462 690
+[2, 0]
+receive bits...
+compensation is  0.00457811355591
+18:34:27.736727 start to read serial port
+18:34:27.740345 finish reading serial port
+it used  0.00345587730408 seconds
+18:34:27.740567 353
+compensation is  0.00345587730408
+18:34:28.137818 start to read serial port
+18:34:28.140361 finish reading serial port
+it used  0.00237393379211 seconds
+18:34:28.140563 690
+[2, 0]
+receive bits...
+compensation is  0.00237393379211
+18:34:28.539047 start to read serial port
+18:34:28.540491 finish reading serial port
+it used  0.00125193595886 seconds
+18:34:28.540689 354
+compensation is  0.00125193595886
+18:34:28.940187 start to read serial port
+18:34:28.950575 finish reading serial port
+it used  0.0102469921112 seconds
+18:34:28.950770 691
+[2, 0]
+
+Oo
+receive char...
+receive bits...
+compensation is  0.0102469921112
+18:34:29.341476 start to read serial port
+18:34:29.350678 finish reading serial port
+it used  0.00903797149658 seconds
+18:34:29.350882 1023
+compensation is  0.00903797149658
+18:34:29.742532 start to read serial port
+18:34:29.749425 finish reading serial port
+it used  0.00669288635254 seconds
+18:34:29.749623 665
+[-2, 0]
+receive bits...
+compensation is  0.00669288635254
+18:34:30.143774 start to read serial port
+18:34:30.149468 finish reading serial port
+it used  0.0055148601532 seconds
+18:34:30.149659 354
+compensation is  0.0055148601532
+18:34:30.544832 start to read serial port
+18:34:30.549530 finish reading serial port
+it used  0.00454115867615 seconds
+18:34:30.549732 690
+[2, 0]
+receive bits...
+compensation is  0.00454115867615
+18:34:30.946029 start to read serial port
+18:34:30.949626 finish reading serial port
+it used  0.00343799591064 seconds
+18:34:30.949823 1023
+compensation is  0.00343799591064
+18:34:31.347074 start to read serial port
+18:34:31.349617 finish reading serial port
+it used  0.0023889541626 seconds
+18:34:31.349820 666
+[-2, 0]
+receive bits...
+compensation is  0.0023889541626
+18:34:31.748278 start to read serial port
+18:34:31.749732 finish reading serial port
+it used  0.001296043396 seconds
+18:34:31.749928 1023
+compensation is  0.001296043396
+18:34:32.149392 start to read serial port
+18:34:32.159834 finish reading serial port
+it used  0.0102989673615 seconds
+18:34:32.160029 666
+[-2, 0]
+receive bits...
+compensation is  0.0102989673615
+18:34:32.550583 start to read serial port
+18:34:32.559947 finish reading serial port
+it used  0.00917315483093 seconds
+18:34:32.560146 1023
+compensation is  0.00917315483093
+18:34:32.951652 start to read serial port
+18:34:32.959932 finish reading serial port
+it used  0.0080840587616 seconds
+18:34:32.960125 666
+[-2, 0]
+receive bits...
+compensation is  0.0080840587616
+18:34:33.352878 start to read serial port
+18:34:33.360051 finish reading serial port
+it used  0.006991147995 seconds
+18:34:33.360250 1023
+compensation is  0.006991147995
+18:34:33.753941 start to read serial port
+18:34:33.760032 finish reading serial port
+it used  0.00593209266663 seconds
+18:34:33.760233 666
+[-2, 0]
+receive bits...
+compensation is  0.00593209266663
+18:34:34.155129 start to read serial port
+18:34:34.160135 finish reading serial port
+it used  0.00483012199402 seconds
+18:34:34.160328 1023
+compensation is  0.00483012199402
+18:34:34.556188 start to read serial port
+18:34:34.560133 finish reading serial port
+it used  0.00376009941101 seconds
+18:34:34.560332 666
+[-2, 0]
+
+
+receive char...
+receive bits...
+compensation is  0.00376009941101
+18:34:34.957499 start to read serial port
+18:34:34.960182 finish reading serial port
+it used  0.0025269985199 seconds
+18:34:34.960375 352
+compensation is  0.0025269985199
+18:34:35.358573 start to read serial port
+18:34:35.360231 finish reading serial port
+it used  0.00149011611938 seconds
+18:34:35.360435 690
+[2, 0]
+receive bits...
+compensation is  0.00149011611938
+18:34:35.759864 start to read serial port
+18:34:35.760471 finish reading serial port
+it used  0.000434160232544 seconds
+18:34:35.760644 666
+compensation is  0.000434160232544
+18:34:36.160888 start to read serial port
+18:34:36.170503 finish reading serial port
+it used  0.00944304466248 seconds
+18:34:36.170696 1023
+[0, -2]
+receive bits...
+compensation is  0.00944304466248
+18:34:36.562096 start to read serial port
+18:34:36.570571 finish reading serial port
+it used  0.0082790851593 seconds
+18:34:36.570775 1023
+compensation is  0.0082790851593
+18:34:36.963210 start to read serial port
+18:34:36.970541 finish reading serial port
+it used  0.00715112686157 seconds
+18:34:36.970735 666
+[-2, 0]
+receive bits...
+compensation is  0.00715112686157
+18:34:37.364423 start to read serial port
+18:34:37.370658 finish reading serial port
+it used  0.0060760974884 seconds
+18:34:37.370857 1023
+compensation is  0.0060760974884
+18:34:37.765458 start to read serial port
+18:34:37.769386 finish reading serial port
+it used  0.00377297401428 seconds
+18:34:37.769575 666
+[-2, 0]
+receive bits...
+compensation is  0.00377297401428
+18:34:38.166635 start to read serial port
+18:34:38.169431 finish reading serial port
+it used  0.00263810157776 seconds
+18:34:38.169628 353
+compensation is  0.00263810157776
+18:34:38.567705 start to read serial port
+18:34:38.569491 finish reading serial port
+it used  0.00160098075867 seconds
+18:34:38.569693 690
+[2, 0]
+receive bits...
+compensation is  0.00160098075867
+18:34:38.968970 start to read serial port
+18:34:38.969629 finish reading serial port
+it used  0.000452041625977 seconds
+18:34:38.969802 353
+compensation is  0.000452041625977
+18:34:39.370040 start to read serial port
+18:34:39.379769 finish reading serial port
+it used  0.00956797599792 seconds
+18:34:39.379993 690
+[2, 0]
+receive bits...
+compensation is  0.00956797599792
+18:34:39.771259 start to read serial port
+18:34:39.779877 finish reading serial port
+it used  0.00845909118652 seconds
+18:34:39.780097 1023
+compensation is  0.00845909118652
+18:34:40.172328 start to read serial port
+18:34:40.180184 finish reading serial port
+it used  0.00768613815308 seconds
+18:34:40.180391 666
+[-2, 0]
+
+Ff
+receive char...
+receive bits...
+compensation is  0.00768613815308
+18:34:40.573716 start to read serial port
+18:34:40.579924 finish reading serial port
+it used  0.00605201721191 seconds
+18:34:40.580153 353
+compensation is  0.00605201721191
+18:34:40.974793 start to read serial port
+18:34:40.979977 finish reading serial port
+it used  0.00503182411194 seconds
+18:34:40.980200 690
+[2, 0]
+receive bits...
+compensation is  0.00503182411194
+18:34:41.376044 start to read serial port
+18:34:41.380020 finish reading serial port
+it used  0.00380897521973 seconds
+18:34:41.380246 666
+compensation is  0.00380897521973
+18:34:41.777149 start to read serial port
+18:34:41.780125 finish reading serial port
+it used  0.00281596183777 seconds
+18:34:41.780349 1023
+[0, -2]
+receive bits...
+compensation is  0.00281596183777
+18:34:42.178402 start to read serial port
+18:34:42.180103 finish reading serial port
+it used  0.00154685974121 seconds
+18:34:42.180324 353
+compensation is  0.00154685974121
+18:34:42.579507 start to read serial port
+18:34:42.580258 finish reading serial port
+it used  0.000520944595337 seconds
+18:34:42.580437 690
+[2, 0]
+receive bits...
+compensation is  0.000520944595337
+18:34:42.980749 start to read serial port
+18:34:42.990333 finish reading serial port
+it used  0.00938606262207 seconds
+18:34:42.990526 1023
+compensation is  0.00938606262207
+18:34:43.381826 start to read serial port
+18:34:43.390327 finish reading serial port
+it used  0.00834798812866 seconds
+18:34:43.390525 666
+[-2, 0]
+receive bits...
+compensation is  0.00834798812866
+18:34:43.783011 start to read serial port
+18:34:43.790429 finish reading serial port
+it used  0.00725889205933 seconds
+18:34:43.790623 1023
+compensation is  0.00725889205933
+18:34:44.184049 start to read serial port
+18:34:44.190432 finish reading serial port
+it used  0.00622987747192 seconds
+18:34:44.190639 666
+[-2, 0]
+receive bits...
+compensation is  0.00622987747192
+18:34:44.585244 start to read serial port
+18:34:44.590461 finish reading serial port
+it used  0.00505805015564 seconds
+18:34:44.590656 353
+compensation is  0.00505805015564
+18:34:44.986318 start to read serial port
+18:34:44.990510 finish reading serial port
+it used  0.00403809547424 seconds
+18:34:44.990702 690
+[2, 0]
+receive bits...
+compensation is  0.00403809547424
+18:34:45.387538 start to read serial port
+18:34:45.390637 finish reading serial port
+it used  0.00291109085083 seconds
+18:34:45.390842 1023
+compensation is  0.00291109085083
+18:34:45.788647 start to read serial port
+18:34:45.789792 finish reading serial port
+it used  0.000967025756836 seconds
+18:34:45.790004 666
+[-2, 0]
+
+Rr
+receive char...
+receive bits...
+compensation is  0.000967025756836
+18:34:46.190054 start to read serial port
+18:34:46.199539 finish reading serial port
+it used  0.00929307937622 seconds
+18:34:46.199742 353
+compensation is  0.00929307937622
+18:34:46.591158 start to read serial port
+18:34:46.599599 finish reading serial port
+it used  0.0082631111145 seconds
+18:34:46.599810 690
+[2, 0]
+receive bits...
+compensation is  0.0082631111145
+18:34:46.992400 start to read serial port
+18:34:46.999645 finish reading serial port
+it used  0.00708293914795 seconds
+18:34:46.999849 666
+compensation is  0.00708293914795
+18:34:47.393467 start to read serial port
+18:34:47.399750 finish reading serial port
+it used  0.00611615180969 seconds
+18:34:47.399950 1023
+[0, -2]
+receive bits...
+compensation is  0.00611615180969
+18:34:47.794671 start to read serial port
+18:34:47.799785 finish reading serial port
+it used  0.00496196746826 seconds
+18:34:47.799978 1023
+compensation is  0.00496196746826
+18:34:48.195714 start to read serial port
+18:34:48.199786 finish reading serial port
+it used  0.00391292572021 seconds
+18:34:48.199983 666
+[-2, 0]
+receive bits...
+compensation is  0.00391292572021
+18:34:48.596933 start to read serial port
+18:34:48.599825 finish reading serial port
+it used  0.0027129650116 seconds
+18:34:48.600020 353
+compensation is  0.0027129650116
+18:34:48.998031 start to read serial port
+18:34:48.999875 finish reading serial port
+it used  0.00161290168762 seconds
+18:34:49.000071 690
+[2, 0]
+receive bits...
+compensation is  0.00161290168762
+18:34:49.399357 start to read serial port
+18:34:49.400053 finish reading serial port
+it used  0.000446081161499 seconds
+18:34:49.400234 353
+compensation is  0.000446081161499
+18:34:49.800477 start to read serial port
+18:34:49.810098 finish reading serial port
+it used  0.00944304466248 seconds
+18:34:49.810296 690
+[2, 0]
+receive bits...
+compensation is  0.00944304466248
+18:34:50.201690 start to read serial port
+18:34:50.210151 finish reading serial port
+it used  0.00830006599426 seconds
+18:34:50.210352 354
+compensation is  0.00830006599426
+18:34:50.602745 start to read serial port
+18:34:50.610202 finish reading serial port
+it used  0.00729584693909 seconds
+18:34:50.610402 691
+[2, 0]
+receive bits...
+compensation is  0.00729584693909
+18:34:51.003942 start to read serial port
+18:34:51.010240 finish reading serial port
+it used  0.00614309310913 seconds
+18:34:51.010438 354
+compensation is  0.00614309310913
+18:34:51.405016 start to read serial port
+18:34:51.410296 finish reading serial port
+it used  0.00508809089661 seconds
+18:34:51.410503 691
+[2, 0]
+
+Oo
+receive char...
+receive bits...
+compensation is  0.00508809089661
+18:34:51.806380 start to read serial port
+18:34:51.810350 finish reading serial port
+it used  0.00380802154541 seconds
+18:34:51.810552 354
+compensation is  0.00380802154541
+18:34:52.207470 start to read serial port
+18:34:52.210389 finish reading serial port
+it used  0.00275206565857 seconds
+18:34:52.210584 691
+[2, 0]
+receive bits...
+compensation is  0.00275206565857
+18:34:52.608719 start to read serial port
+18:34:52.610438 finish reading serial port
+it used  0.00154995918274 seconds
+18:34:52.610638 666
+compensation is  0.00154995918274
+18:34:53.009797 start to read serial port
+18:34:53.010970 finish reading serial port
+it used  0.000995874404907 seconds
+18:34:53.011178 1023
+[0, -2]
+receive bits...
+compensation is  0.000995874404907
+18:34:53.411082 start to read serial port
+18:34:53.419469 finish reading serial port
+it used  0.00820183753967 seconds
+18:34:53.419669 1023
+compensation is  0.00820183753967
+18:34:53.812148 start to read serial port
+18:34:53.819453 finish reading serial port
+it used  0.00714492797852 seconds
+18:34:53.819647 666
+[-2, 0]
+receive bits...
+compensation is  0.00714492797852
+18:34:54.213372 start to read serial port
+18:34:54.219511 finish reading serial port
+it used  0.00594997406006 seconds
+18:34:54.219722 353
+compensation is  0.00594997406006
+18:34:54.614462 start to read serial port
+18:34:54.619555 finish reading serial port
+it used  0.0049421787262 seconds
+18:34:54.619742 690
+[2, 0]
+receive bits...
+compensation is  0.0049421787262
+18:34:55.015644 start to read serial port
+18:34:55.019600 finish reading serial port
+it used  0.00380206108093 seconds
+18:34:55.019798 354
+compensation is  0.00380206108093
+18:34:55.416729 start to read serial port
+18:34:55.419652 finish reading serial port
+it used  0.00276112556458 seconds
+18:34:55.419848 691
+[2, 0]
+receive bits...
+compensation is  0.00276112556458
+18:34:55.817951 start to read serial port
+18:34:55.819755 finish reading serial port
+it used  0.00156998634338 seconds
+18:34:55.819952 1023
+compensation is  0.00156998634338
+18:34:56.219091 start to read serial port
+18:34:56.220239 finish reading serial port
+it used  0.000903129577637 seconds
+18:34:56.220456 666
+[-2, 0]
+receive bits...
+compensation is  0.000903129577637
+18:34:56.620456 start to read serial port
+18:34:56.629987 finish reading serial port
+it used  0.00935196876526 seconds
+18:34:56.630184 353
+compensation is  0.00935196876526
+18:34:57.021514 start to read serial port
+18:34:57.030027 finish reading serial port
+it used  0.00831198692322 seconds
+18:34:57.030230 691
+[2, 0]
+
+Mm
+receive char...
+receive bits...
+compensation is  0.00831198692322
+18:34:57.422876 start to read serial port
+18:34:57.430168 finish reading serial port
+it used  0.00710701942444 seconds
+18:34:57.430369 1023
+compensation is  0.00710701942444
+18:34:57.823947 start to read serial port
+18:34:57.830127 finish reading serial port
+it used  0.00602602958679 seconds
+18:34:57.830323 666
+[-2, 0]
+receive bits...
+compensation is  0.00602602958679
+18:34:58.225136 start to read serial port
+18:34:58.230188 finish reading serial port
+it used  0.00488591194153 seconds
+18:34:58.230398 354
+compensation is  0.00488591194153
+18:34:58.626208 start to read serial port
+18:34:58.630237 finish reading serial port
+it used  0.00386595726013 seconds
+18:34:58.630437 690
+[2, 0]
+receive bits...
+compensation is  0.00386595726013
+18:34:59.027413 start to read serial port
+18:34:59.030346 finish reading serial port
+it used  0.00277209281921 seconds
+18:34:59.030566 1023
+compensation is  0.00277209281921
+18:34:59.428508 start to read serial port
+18:34:59.430330 finish reading serial port
+it used  0.00163888931274 seconds
+18:34:59.430533 666
+[-2, 0]
+receive bits...
+compensation is  0.00163888931274
+18:34:59.829761 start to read serial port
+18:34:59.830576 finish reading serial port
+it used  0.000556945800781 seconds
+18:34:59.830751 1023
+compensation is  0.000556945800781
+18:35:00.230924 start to read serial port
+18:35:00.240504 finish reading serial port
+it used  0.00932788848877 seconds
+18:35:00.240727 666
+[-2, 0]
+receive bits...
+compensation is  0.00932788848877
+18:35:00.632257 start to read serial port
+18:35:00.639370 finish reading serial port
+it used  0.0069100856781 seconds
+18:35:00.639592 1023
+compensation is  0.0069100856781
+18:35:01.033368 start to read serial port
+18:35:01.039356 finish reading serial port
+it used  0.00581812858582 seconds
+18:35:01.039584 666
+[-2, 0]
+receive bits...
+compensation is  0.00581812858582
+18:35:01.434634 start to read serial port
+18:35:01.439477 finish reading serial port
+it used  0.00466799736023 seconds
+18:35:01.439712 1023
+compensation is  0.00466799736023
+18:35:01.835739 start to read serial port
+18:35:01.839483 finish reading serial port
+it used  0.00358104705811 seconds
+18:35:01.839706 666
+[-2, 0]
+receive bits...
+compensation is  0.00358104705811
+18:35:02.236977 start to read serial port
+18:35:02.239565 finish reading serial port
+it used  0.00241684913635 seconds
+18:35:02.239794 1023
+compensation is  0.00241684913635
+18:35:02.638071 start to read serial port
+18:35:02.639558 finish reading serial port
+it used  0.00127601623535 seconds
+18:35:02.639780 666
+[-2, 0]
+
+
+receive char...
+receive bits...
+compensation is  0.00127601623535
+18:35:03.039478 start to read serial port
+18:35:03.049696 finish reading serial port
+it used  0.0100600719452 seconds
+18:35:03.049892 353
+compensation is  0.0100600719452
+18:35:03.440567 start to read serial port
+18:35:03.449753 finish reading serial port
+it used  0.00902390480042 seconds
+18:35:03.449952 690
+[2, 0]
+receive bits...
+compensation is  0.00902390480042
+18:35:03.841783 start to read serial port
+18:35:03.849785 finish reading serial port
+it used  0.00781798362732 seconds
+18:35:03.849988 666
+compensation is  0.00781798362732
+18:35:04.242875 start to read serial port
+18:35:04.249903 finish reading serial port
+it used  0.00683999061584 seconds
+18:35:04.250102 1023
+[0, -2]
+receive bits...
+compensation is  0.00683999061584
+18:35:04.644101 start to read serial port
+18:35:04.649890 finish reading serial port
+it used  0.00561690330505 seconds
+18:35:04.650084 353
+compensation is  0.00561690330505
+18:35:05.045158 start to read serial port
+18:35:05.049937 finish reading serial port
+it used  0.00462007522583 seconds
+18:35:05.050133 690
+[2, 0]
+receive bits...
+compensation is  0.00462007522583
+18:35:05.446366 start to read serial port
+18:35:05.450063 finish reading serial port
+it used  0.00353002548218 seconds
+18:35:05.450265 1023
+compensation is  0.00353002548218
+18:35:05.847425 start to read serial port
+18:35:05.850032 finish reading serial port
+it used  0.00245499610901 seconds
+18:35:05.850230 666
+[-2, 0]
+receive bits...
+compensation is  0.00245499610901
+18:35:06.248629 start to read serial port
+18:35:06.250150 finish reading serial port
+it used  0.00135612487793 seconds
+18:35:06.250351 1023
+compensation is  0.00135612487793
+18:35:06.649793 start to read serial port
+18:35:06.650418 finish reading serial port
+it used  0.000463962554932 seconds
+18:35:06.650601 666
+[-2, 0]
+receive bits...
+compensation is  0.000463962554932
+18:35:07.051052 start to read serial port
+18:35:07.060307 finish reading serial port
+it used  0.00907206535339 seconds
+18:35:07.060504 353
+compensation is  0.00907206535339
+18:35:07.452152 start to read serial port
+18:35:07.460361 finish reading serial port
+it used  0.00801086425781 seconds
+18:35:07.460564 690
+[2, 0]
+receive bits...
+compensation is  0.00801086425781
+18:35:07.853389 start to read serial port
+18:35:07.860394 finish reading serial port
+it used  0.00680708885193 seconds
+18:35:07.860588 353
+compensation is  0.00680708885193
+18:35:08.254478 start to read serial port
+18:35:08.260451 finish reading serial port
+it used  0.0058069229126 seconds
+18:35:08.260653 691
+[2, 0]
+
+Ss
+receive char...
+receive bits...
+compensation is  0.0058069229126
+18:35:08.655781 start to read serial port
+18:35:08.659250 finish reading serial port
+it used  0.00331521034241 seconds
+18:35:08.659450 354
+compensation is  0.00331521034241
+18:35:09.056820 start to read serial port
+18:35:09.059286 finish reading serial port
+it used  0.00231719017029 seconds
+18:35:09.059479 691
+[2, 0]
+receive bits...
+compensation is  0.00231719017029
+18:35:09.458005 start to read serial port
+18:35:09.459422 finish reading serial port
+it used  0.00119996070862 seconds
+18:35:09.459620 666
+compensation is  0.00119996070862
+18:35:09.859130 start to read serial port
+18:35:09.869581 finish reading serial port
+it used  0.0103030204773 seconds
+18:35:09.869776 1023
+[0, -2]
+receive bits...
+compensation is  0.0103030204773
+18:35:10.260358 start to read serial port
+18:35:10.269640 finish reading serial port
+it used  0.00910401344299 seconds
+18:35:10.269849 1023
+compensation is  0.00910401344299
+18:35:10.661440 start to read serial port
+18:35:10.669613 finish reading serial port
+it used  0.00799012184143 seconds
+18:35:10.669804 666
+[-2, 0]
+receive bits...
+compensation is  0.00799012184143
+18:35:11.062647 start to read serial port
+18:35:11.069855 finish reading serial port
+it used  0.00701189041138 seconds
+18:35:11.070054 1023
+compensation is  0.00701189041138
+18:35:11.463757 start to read serial port
+18:35:11.469718 finish reading serial port
+it used  0.00579905509949 seconds
+18:35:11.469919 666
+[-2, 0]
+receive bits...
+compensation is  0.00579905509949
+18:35:11.864953 start to read serial port
+18:35:11.869762 finish reading serial port
+it used  0.00465416908264 seconds
+18:35:11.869959 353
+compensation is  0.00465416908264
+18:35:12.265998 start to read serial port
+18:35:12.269811 finish reading serial port
+it used  0.00364995002747 seconds
+18:35:12.270008 690
+[2, 0]
+receive bits...
+compensation is  0.00364995002747
+18:35:12.667196 start to read serial port
+18:35:12.669909 finish reading serial port
+it used  0.0025589466095 seconds
+18:35:12.670104 1023
+compensation is  0.0025589466095
+18:35:13.068294 start to read serial port
+18:35:13.069899 finish reading serial port
+it used  0.00144505500793 seconds
+18:35:13.070093 666
+[-2, 0]
+receive bits...
+compensation is  0.00144505500793
+18:35:13.469572 start to read serial port
+18:35:13.470183 finish reading serial port
+it used  0.000442028045654 seconds
+18:35:13.470360 353
+compensation is  0.000442028045654
+18:35:13.870604 start to read serial port
+18:35:13.880181 finish reading serial port
+it used  0.00938200950623 seconds
+18:35:13.880404 690
+[2, 0]
+
+Ee
+receive char...
+receive bits...
+compensation is  0.00938200950623
+18:35:14.272008 start to read serial port
+18:35:14.280241 finish reading serial port
+it used  0.00800704956055 seconds
+18:35:14.280450 354
+compensation is  0.00800704956055
+18:35:14.673149 start to read serial port
+18:35:14.680280 finish reading serial port
+it used  0.00695896148682 seconds
+18:35:14.680476 690
+[2, 0]
+receive bits...
+compensation is  0.00695896148682
+18:35:15.074356 start to read serial port
+18:35:15.080328 finish reading serial port
+it used  0.00580811500549 seconds
+18:35:15.080530 666
+compensation is  0.00580811500549
+18:35:15.475418 start to read serial port
+18:35:15.480442 finish reading serial port
+it used  0.00485777854919 seconds
+18:35:15.480643 1023
+[0, -2]
+receive bits...
+compensation is  0.00485777854919
+18:35:15.876630 start to read serial port
+18:35:15.880472 finish reading serial port
+it used  0.00368499755859 seconds
+18:35:15.880667 1023
+compensation is  0.00368499755859
+18:35:16.277675 start to read serial port
+18:35:16.279183 finish reading serial port
+it used  0.00133991241455 seconds
+18:35:16.279388 666
+[-2, 0]
+receive bits...
+compensation is  0.00133991241455
+18:35:16.678956 start to read serial port
+18:35:16.689412 finish reading serial port
+it used  0.0103099346161 seconds
+18:35:16.689608 353
+compensation is  0.0103099346161
+18:35:17.079992 start to read serial port
+18:35:17.089422 finish reading serial port
+it used  0.00918698310852 seconds
+18:35:17.089615 690
+[2, 0]
+receive bits...
+compensation is  0.00918698310852
+18:35:17.481287 start to read serial port
+18:35:17.489476 finish reading serial port
+it used  0.00796103477478 seconds
+18:35:17.489674 354
+compensation is  0.00796103477478
+18:35:17.882397 start to read serial port
+18:35:17.889521 finish reading serial port
+it used  0.0069260597229 seconds
+18:35:17.889719 691
+[2, 0]
+receive bits...
+compensation is  0.0069260597229
+18:35:18.283642 start to read serial port
+18:35:18.289583 finish reading serial port
+it used  0.00574398040771 seconds
+18:35:18.289790 354
+compensation is  0.00574398040771
+18:35:18.684733 start to read serial port
+18:35:18.689614 finish reading serial port
+it used  0.00470590591431 seconds
+18:35:18.689809 691
+[2, 0]
+receive bits...
+compensation is  0.00470590591431
+18:35:19.085940 start to read serial port
+18:35:19.089732 finish reading serial port
+it used  0.00363302230835 seconds
+18:35:19.089928 1023
+compensation is  0.00363302230835
+18:35:19.486983 start to read serial port
+18:35:19.489722 finish reading serial port
+it used  0.00255393981934 seconds
+18:35:19.489923 666
+[-2, 0]
+
+Nn
+receive char...
+receive bits...
+compensation is  0.00255393981934
+18:35:19.888329 start to read serial port
+18:35:19.889861 finish reading serial port
+it used  0.00132703781128 seconds
+18:35:19.890056 354
+compensation is  0.00132703781128
+18:35:20.289514 start to read serial port
+18:35:20.299914 finish reading serial port
+it used  0.0102429389954 seconds
+18:35:20.300113 691
+[2, 0]
+receive bits...
+compensation is  0.0102429389954
+18:35:20.690747 start to read serial port
+18:35:20.699949 finish reading serial port
+it used  0.00904202461243 seconds
+18:35:20.700144 666
+compensation is  0.00904202461243
+18:35:21.091792 start to read serial port
+18:35:21.100062 finish reading serial port
+it used  0.00808787345886 seconds
+18:35:21.100258 1023
+[0, -2]
+receive bits...
+compensation is  0.00808787345886
+18:35:21.493012 start to read serial port
+18:35:21.500113 finish reading serial port
+it used  0.00689697265625 seconds
+18:35:21.500316 1023
+compensation is  0.00689697265625
+18:35:21.894109 start to read serial port
+18:35:21.900097 finish reading serial port
+it used  0.00582790374756 seconds
+18:35:21.900300 666
+[-2, 0]
+receive bits...
+compensation is  0.00582790374756
+18:35:22.295324 start to read serial port
+18:35:22.300215 finish reading serial port
+it used  0.00472378730774 seconds
+18:35:22.300418 1023
+compensation is  0.00472378730774
+18:35:22.696380 start to read serial port
+18:35:22.700189 finish reading serial port
+it used  0.00365686416626 seconds
+18:35:22.700378 666
+[-2, 0]
+receive bits...
+compensation is  0.00365686416626
+18:35:23.097558 start to read serial port
+18:35:23.100240 finish reading serial port
+it used  0.00252795219421 seconds
+18:35:23.100430 353
+compensation is  0.00252795219421
+18:35:23.498624 start to read serial port
+18:35:23.500278 finish reading serial port
+it used  0.00150299072266 seconds
+18:35:23.500479 690
+[2, 0]
+receive bits...
+compensation is  0.00150299072266
+18:35:23.899830 start to read serial port
+18:35:23.900555 finish reading serial port
+it used  0.000493049621582 seconds
+18:35:23.900730 1023
+compensation is  0.000493049621582
+18:35:24.300951 start to read serial port
+18:35:24.309273 finish reading serial port
+it used  0.00814318656921 seconds
+18:35:24.309472 666
+[-2, 0]
+receive bits...
+compensation is  0.00814318656921
+18:35:24.702161 start to read serial port
+18:35:24.709368 finish reading serial port
+it used  0.0070469379425 seconds
+18:35:24.709566 1023
+compensation is  0.0070469379425
+18:35:25.103203 start to read serial port
+18:35:25.109361 finish reading serial port
+it used  0.0060019493103 seconds
+18:35:25.109562 666
+[-2, 0]
+
+Dd
+receive char...
+receive bits...
+compensation is  0.0060019493103
+18:35:25.504493 start to read serial port
+18:35:25.509422 finish reading serial port
+it used  0.00476503372192 seconds
+18:35:25.509620 353
+compensation is  0.00476503372192
+18:35:25.905562 start to read serial port
+18:35:25.909460 finish reading serial port
+it used  0.00373983383179 seconds
+18:35:25.909659 690
+[2, 0]
+receive bits...
+compensation is  0.00373983383179
+18:35:26.306764 start to read serial port
+18:35:26.309512 finish reading serial port
+it used  0.00258207321167 seconds
+18:35:26.309711 666
+compensation is  0.00258207321167
+18:35:26.707881 start to read serial port
+18:35:26.709626 finish reading serial port
+it used  0.00157594680786 seconds
+18:35:26.709836 1023
+[0, -2]
+receive bits...
+compensation is  0.00157594680786
+18:35:27.109202 start to read serial port
+18:35:27.109883 finish reading serial port
+it used  0.000509023666382 seconds
+18:35:27.110059 1023
+compensation is  0.000509023666382
+18:35:27.510249 start to read serial port
+18:35:27.519779 finish reading serial port
+it used  0.00933003425598 seconds
+18:35:27.519982 666
+[-2, 0]
+receive bits...
+compensation is  0.00933003425598
+18:35:27.911494 start to read serial port
+18:35:27.919882 finish reading serial port
+it used  0.00820684432983 seconds
+18:35:27.920077 1023
+compensation is  0.00820684432983
+18:35:28.312561 start to read serial port
+18:35:28.319869 finish reading serial port
+it used  0.00714087486267 seconds
+18:35:28.320068 666
+[-2, 0]
+receive bits...
+compensation is  0.00714087486267
+18:35:28.713756 start to read serial port
+18:35:28.719913 finish reading serial port
+it used  0.00597500801086 seconds
+18:35:28.720108 353
+compensation is  0.00597500801086
+18:35:29.114815 start to read serial port
+18:35:29.119966 finish reading serial port
+it used  0.0049991607666 seconds
+18:35:29.120162 690
+[2, 0]
+receive bits...
+compensation is  0.0049991607666
+18:35:29.516010 start to read serial port
+18:35:29.520089 finish reading serial port
+it used  0.00392293930054 seconds
+18:35:29.520294 1023
+compensation is  0.00392293930054
+18:35:29.917103 start to read serial port
+18:35:29.920063 finish reading serial port
+it used  0.00280809402466 seconds
+18:35:29.920257 666
+[-2, 0]
+receive bits...
+compensation is  0.00280809402466
+18:35:30.318320 start to read serial port
+18:35:30.320114 finish reading serial port
+it used  0.00160908699036 seconds
+18:35:30.320314 353
+compensation is  0.00160908699036
+18:35:30.719396 start to read serial port
+18:35:30.720526 finish reading serial port
+it used  0.000936985015869 seconds
+18:35:30.720720 690
+[2, 0]
+
+Ee
+receive char...
+receive bits...
+compensation is  0.000936985015869
+18:35:31.120794 start to read serial port
+18:35:31.130376 finish reading serial port
+it used  0.00940299034119 seconds
+18:35:31.130574 354
+compensation is  0.00940299034119
+18:35:31.521909 start to read serial port
+18:35:31.530425 finish reading serial port
+it used  0.00834894180298 seconds
+18:35:31.530631 690
+[2, 0]
+receive bits...
+compensation is  0.00834894180298
+18:35:31.923119 start to read serial port
+18:35:31.929184 finish reading serial port
+it used  0.00588202476501 seconds
+18:35:31.929375 666
+compensation is  0.00588202476501
+18:35:32.324188 start to read serial port
+18:35:32.329296 finish reading serial port
+it used  0.00494194030762 seconds
+18:35:32.329503 1023
+[0, -2]
+receive bits...
+compensation is  0.00494194030762
+18:35:32.725406 start to read serial port
+18:35:32.729284 finish reading serial port
+it used  0.0037248134613 seconds
+18:35:32.729481 353
+compensation is  0.0037248134613
+18:35:33.126459 start to read serial port
+18:35:33.129324 finish reading serial port
+it used  0.00271582603455 seconds
+18:35:33.129515 690
+[2, 0]
+receive bits...
+compensation is  0.00271582603455
+18:35:33.527679 start to read serial port
+18:35:33.529442 finish reading serial port
+it used  0.00159883499146 seconds
+18:35:33.529644 1023
+compensation is  0.00159883499146
+18:35:33.928763 start to read serial port
+18:35:33.929892 finish reading serial port
+it used  0.000944137573242 seconds
+18:35:33.930120 666
+[-2, 0]
+receive bits...
+compensation is  0.000944137573242
+18:35:34.330133 start to read serial port
+18:35:34.339696 finish reading serial port
+it used  0.00936794281006 seconds
+18:35:34.339898 1023
+compensation is  0.00936794281006
+18:35:34.731208 start to read serial port
+18:35:34.739689 finish reading serial port
+it used  0.0083270072937 seconds
+18:35:34.739886 666
+[-2, 0]
+receive bits...
+compensation is  0.0083270072937
+18:35:35.132388 start to read serial port
+18:35:35.139730 finish reading serial port
+it used  0.00718402862549 seconds
+18:35:35.139929 353
+compensation is  0.00718402862549
+18:35:35.533434 start to read serial port
+18:35:35.539785 finish reading serial port
+it used  0.00619602203369 seconds
+18:35:35.539982 690
+[2, 0]
+receive bits...
+compensation is  0.00619602203369
+18:35:35.934623 start to read serial port
+18:35:35.939889 finish reading serial port
+it used  0.00508403778076 seconds
+18:35:35.940087 1023
+compensation is  0.00508403778076
+18:35:36.335716 start to read serial port
+18:35:36.339873 finish reading serial port
+it used  0.00399994850159 seconds
+18:35:36.340069 666
+[-2, 0]
+
+Rr
+receive char...
+receive bits...
+compensation is  0.00399994850159
+18:35:36.737026 start to read serial port
+18:35:36.739989 finish reading serial port
+it used  0.00280499458313 seconds
+18:35:36.740195 1023
+compensation is  0.00280499458313
+18:35:37.138148 start to read serial port
+18:35:37.139970 finish reading serial port
+it used  0.00164699554443 seconds
+18:35:37.140163 666
+[-2, 0]
+receive bits...
+compensation is  0.00164699554443
+18:35:37.539401 start to read serial port
+18:35:37.540132 finish reading serial port
+it used  0.000497102737427 seconds
+18:35:37.540310 353
+compensation is  0.000497102737427
+18:35:37.940503 start to read serial port
+18:35:37.950161 finish reading serial port
+it used  0.00950002670288 seconds
+18:35:37.950356 690
+[2, 0]
+receive bits...
+compensation is  0.00950002670288
+18:35:38.341682 start to read serial port
+18:35:38.350271 finish reading serial port
+it used  0.00842499732971 seconds
+18:35:38.350476 1023
+compensation is  0.00842499732971
+18:35:38.742735 start to read serial port
+18:35:38.750252 finish reading serial port
+it used  0.00736093521118 seconds
+18:35:38.750448 666
+[-2, 0]
+receive bits...
+compensation is  0.00736093521118
+18:35:39.143955 start to read serial port
+18:35:39.150357 finish reading serial port
+it used  0.00623607635498 seconds
+18:35:39.150558 1023
+compensation is  0.00623607635498
+18:35:39.545032 start to read serial port
+18:35:39.549101 finish reading serial port
+it used  0.00390601158142 seconds
+18:35:39.549297 666
+[-2, 0]
+receive bits...
+compensation is  0.00390601158142
+18:35:39.946256 start to read serial port
+18:35:39.949212 finish reading serial port
+it used  0.0028018951416 seconds
+18:35:39.949406 1023
+compensation is  0.0028018951416
+18:35:40.347310 start to read serial port
+18:35:40.349205 finish reading serial port
+it used  0.0016918182373 seconds
+18:35:40.349408 666
+[-2, 0]
+receive bits...
+compensation is  0.0016918182373
+18:35:40.748582 start to read serial port
+18:35:40.749767 finish reading serial port
+it used  0.0010039806366 seconds
+18:35:40.749980 1023
+compensation is  0.0010039806366
+18:35:41.149707 start to read serial port
+18:35:41.159414 finish reading serial port
+it used  0.00955390930176 seconds
+18:35:41.159606 666
+[-2, 0]
+receive bits...
+compensation is  0.00955390930176
+18:35:41.550895 start to read serial port
+18:35:41.559539 finish reading serial port
+it used  0.00848197937012 seconds
+18:35:41.559738 1023
+compensation is  0.00848197937012
+18:35:41.951940 start to read serial port
+18:35:41.959519 finish reading serial port
+it used  0.00741982460022 seconds
+18:35:41.959712 666
+[-2, 0]
+
+
+receive char...
+receive bits...
+compensation is  0.00741982460022
+18:35:42.353220 start to read serial port
+18:35:42.359633 finish reading serial port
+it used  0.00624990463257 seconds
+18:35:42.359834 1023
+compensation is  0.00624990463257
+18:35:42.754293 start to read serial port
+18:35:42.759616 finish reading serial port
+it used  0.00515794754028 seconds
+18:35:42.759816 666
+[-2, 0]
+receive bits...
+compensation is  0.00515794754028
+18:35:43.155532 start to read serial port
+18:35:43.159661 finish reading serial port
+it used  0.00396013259888 seconds
+18:35:43.159854 353
+compensation is  0.00396013259888
+18:35:43.556626 start to read serial port
+18:35:43.559713 finish reading serial port
+it used  0.00290298461914 seconds
+18:35:43.559914 689
+[2, 0]
+receive bits...
+compensation is  0.00290298461914
+18:35:43.957868 start to read serial port
+18:35:43.959767 finish reading serial port
+it used  0.00169491767883 seconds
+18:35:43.959966 353
+compensation is  0.00169491767883
+18:35:44.358968 start to read serial port
+18:35:44.360125 finish reading serial port
+it used  0.000978946685791 seconds
+18:35:44.360328 690
+[2, 0]
+receive bits...
+compensation is  0.000978946685791
+18:35:44.760244 start to read serial port
+18:35:44.770051 finish reading serial port
+it used  0.00964403152466 seconds
+18:35:44.770251 1023
+compensation is  0.00964403152466
+18:35:45.161277 start to read serial port
+18:35:45.170020 finish reading serial port
+it used  0.00858592987061 seconds
+18:35:45.170211 666
+[-2, 0]
+receive bits...
+compensation is  0.00858592987061
+18:35:45.562459 start to read serial port
+18:35:45.570152 finish reading serial port
+it used  0.0075318813324 seconds
+18:35:45.570350 1023
+compensation is  0.0075318813324
+18:35:45.963545 start to read serial port
+18:35:45.970126 finish reading serial port
+it used  0.00640106201172 seconds
+18:35:45.970318 666
+[-2, 0]
+receive bits...
+compensation is  0.00640106201172
+18:35:46.364788 start to read serial port
+18:35:46.370184 finish reading serial port
+it used  0.00523400306702 seconds
+18:35:46.370382 667
+compensation is  0.00523400306702
+18:35:46.765898 start to read serial port
+18:35:46.770312 finish reading serial port
+it used  0.00421500205994 seconds
+18:35:46.770517 1023
+[0, -2]
+receive bits...
+compensation is  0.00421500205994
+18:35:47.167187 start to read serial port
+18:35:47.170272 finish reading serial port
+it used  0.00290107727051 seconds
+18:35:47.170469 689
+compensation is  0.00290107727051
+18:35:47.568272 start to read serial port
+18:35:47.569428 finish reading serial port
+it used  0.000971794128418 seconds
+18:35:47.569628 353
+[0, 2]
+
+12
+receive char...
+receive bits...
+compensation is  0.000971794128418
+18:35:47.969664 start to read serial port
+18:35:47.979253 finish reading serial port
+it used  0.00941491127014 seconds
+18:35:47.979452 353
+compensation is  0.00941491127014
+18:35:48.370728 start to read serial port
+18:35:48.379293 finish reading serial port
+it used  0.00840210914612 seconds
+18:35:48.379494 690
+[2, 0]
+receive bits...
+compensation is  0.00840210914612
+18:35:48.771961 start to read serial port
+18:35:48.779338 finish reading serial port
+it used  0.00719594955444 seconds
+18:35:48.779532 666
+compensation is  0.00719594955444
+18:35:49.173031 start to read serial port
+18:35:49.179445 finish reading serial port
+it used  0.00625705718994 seconds
+18:35:49.179631 1023
+[0, -2]
+receive bits...
+compensation is  0.00625705718994
+18:35:49.574246 start to read serial port
+18:35:49.579505 finish reading serial port
+it used  0.00509715080261 seconds
+18:35:49.579700 1023
+compensation is  0.00509715080261
+18:35:49.975322 start to read serial port
+18:35:49.979493 finish reading serial port
+it used  0.00400900840759 seconds
+18:35:49.979690 666
+[-2, 0]
+receive bits...
+compensation is  0.00400900840759
+18:35:50.376542 start to read serial port
+18:35:50.379540 finish reading serial port
+it used  0.00280904769897 seconds
+18:35:50.379741 353
+compensation is  0.00280904769897
+18:35:50.777634 start to read serial port
+18:35:50.779588 finish reading serial port
+it used  0.00177407264709 seconds
+18:35:50.779784 690
+[2, 0]
+receive bits...
+compensation is  0.00177407264709
+18:35:51.178854 start to read serial port
+18:35:51.180027 finish reading serial port
+it used  0.000980138778687 seconds
+18:35:51.180256 1023
+compensation is  0.000980138778687
+18:35:51.580012 start to read serial port
+18:35:51.589834 finish reading serial port
+it used  0.0096640586853 seconds
+18:35:51.590032 666
+[-2, 0]
+receive bits...
+compensation is  0.0096640586853
+18:35:51.981200 start to read serial port
+18:35:51.989941 finish reading serial port
+it used  0.00856900215149 seconds
+18:35:51.990142 1023
+compensation is  0.00856900215149
+18:35:52.382265 start to read serial port
+18:35:52.389941 finish reading serial port
+it used  0.00751399993896 seconds
+18:35:52.390144 666
+[-2, 0]
+receive bits...
+compensation is  0.00751399993896
+18:35:52.783479 start to read serial port
+18:35:52.790050 finish reading serial port
+it used  0.00640797615051 seconds
+18:35:52.790247 1023
+compensation is  0.00640797615051
+18:35:53.184570 start to read serial port
+18:35:53.190022 finish reading serial port
+it used  0.00529789924622 seconds
+18:35:53.190223 666
+[-2, 0]
+
+Hh
+receive char...
+receive bits...
+compensation is  0.00529789924622
+18:35:53.585896 start to read serial port
+18:35:53.590081 finish reading serial port
+it used  0.0040237903595 seconds
+18:35:53.590281 353
+compensation is  0.0040237903595
+18:35:53.986959 start to read serial port
+18:35:53.990120 finish reading serial port
+it used  0.00295305252075 seconds
+18:35:53.990318 690
+[2, 0]
+receive bits...
+compensation is  0.00295305252075
+18:35:54.388292 start to read serial port
+18:35:54.390180 finish reading serial port
+it used  0.00169992446899 seconds
+18:35:54.390384 666
+compensation is  0.00169992446899
+18:35:54.789378 start to read serial port
+18:35:54.790606 finish reading serial port
+it used  0.00105619430542 seconds
+18:35:54.790803 1023
+[0, -2]
+receive bits...
+compensation is  0.00105619430542
+18:35:55.190661 start to read serial port
+18:35:55.199181 finish reading serial port
+it used  0.00836420059204 seconds
+18:35:55.199380 1023
+compensation is  0.00836420059204
+18:35:55.591700 start to read serial port
+18:35:55.599175 finish reading serial port
+it used  0.00730800628662 seconds
+18:35:55.599377 666
+[-2, 0]
+receive bits...
+compensation is  0.00730800628662
+18:35:55.992910 start to read serial port
+18:35:55.999279 finish reading serial port
+it used  0.00620603561401 seconds
+18:35:55.999475 1023
+compensation is  0.00620603561401
+18:35:56.393955 start to read serial port
+18:35:56.399266 finish reading serial port
+it used  0.00515103340149 seconds
+18:35:56.399462 666
+[-2, 0]
+receive bits...
+compensation is  0.00515103340149
+18:35:56.795176 start to read serial port
+18:35:56.799309 finish reading serial port
+it used  0.00397396087646 seconds
+18:35:56.799502 353
+compensation is  0.00397396087646
+18:35:57.196221 start to read serial port
+18:35:57.199356 finish reading serial port
+it used  0.00293803215027 seconds
+18:35:57.199549 689
+[2, 0]
+receive bits...
+compensation is  0.00293803215027
+18:35:57.597476 start to read serial port
+18:35:57.599471 finish reading serial port
+it used  0.00181102752686 seconds
+18:35:57.599669 1023
+compensation is  0.00181102752686
+18:35:57.998552 start to read serial port
+18:35:57.999668 finish reading serial port
+it used  0.000967979431152 seconds
+18:35:57.999861 666
+[-2, 0]
+receive bits...
+compensation is  0.000967979431152
+18:35:58.399754 start to read serial port
+18:35:58.409634 finish reading serial port
+it used  0.00972294807434 seconds
+18:35:58.409830 353
+compensation is  0.00972294807434
+18:35:58.800788 start to read serial port
+18:35:58.809673 finish reading serial port
+it used  0.00873398780823 seconds
+18:35:58.809864 690
+[2, 0]
+
+Ee
+receive char...
+receive bits...
+compensation is  0.00873398780823
+18:35:59.202054 start to read serial port
+18:35:59.209735 finish reading serial port
+it used  0.00752401351929 seconds
+18:35:59.209935 353
+compensation is  0.00752401351929
+18:35:59.603124 start to read serial port
+18:35:59.609783 finish reading serial port
+it used  0.00650191307068 seconds
+18:35:59.609983 690
+[2, 0]
+receive bits...
+compensation is  0.00650191307068
+18:36:00.004361 start to read serial port
+18:36:00.009824 finish reading serial port
+it used  0.00530314445496 seconds
+18:36:00.010020 666
+compensation is  0.00530314445496
+18:36:00.405484 start to read serial port
+18:36:00.409959 finish reading serial port
+it used  0.00424814224243 seconds
+18:36:00.410170 1023
+[0, -2]
+receive bits...
+compensation is  0.00424814224243
+18:36:00.806819 start to read serial port
+18:36:00.809985 finish reading serial port
+it used  0.00297999382019 seconds
+18:36:00.810189 1023
+compensation is  0.00297999382019
+18:36:01.207890 start to read serial port
+18:36:01.209971 finish reading serial port
+it used  0.00190091133118 seconds
+18:36:01.210170 666
+[-2, 0]
+receive bits...
+compensation is  0.00190091133118
+18:36:01.609120 start to read serial port
+18:36:01.610264 finish reading serial port
+it used  0.000980854034424 seconds
+18:36:01.610461 353
+compensation is  0.000980854034424
+18:36:02.010177 start to read serial port
+18:36:02.020201 finish reading serial port
+it used  0.00986504554749 seconds
+18:36:02.020398 690
+[2, 0]
+receive bits...
+compensation is  0.00986504554749
+18:36:02.411376 start to read serial port
+18:36:02.420248 finish reading serial port
+it used  0.00871205329895 seconds
+18:36:02.420447 353
+compensation is  0.00871205329895
+18:36:02.812429 start to read serial port
+18:36:02.820286 finish reading serial port
+it used  0.00770497322083 seconds
+18:36:02.820479 690
+[2, 0]
+receive bits...
+compensation is  0.00770497322083
+18:36:03.213666 start to read serial port
+18:36:03.219146 finish reading serial port
+it used  0.00530910491943 seconds
+18:36:03.219345 1023
+compensation is  0.00530910491943
+18:36:03.614742 start to read serial port
+18:36:03.619133 finish reading serial port
+it used  0.00418496131897 seconds
+18:36:03.619330 666
+[-2, 0]
+receive bits...
+compensation is  0.00418496131897
+18:36:04.016006 start to read serial port
+18:36:04.019252 finish reading serial port
+it used  0.00305795669556 seconds
+18:36:04.019453 1023
+compensation is  0.00305795669556
+18:36:04.417090 start to read serial port
+18:36:04.419235 finish reading serial port
+it used  0.00196099281311 seconds
+18:36:04.419432 666
+[-2, 0]
+
+Ll
+receive char...
+receive bits...
+compensation is  0.00196099281311
+18:36:04.818417 start to read serial port
+18:36:04.819552 finish reading serial port
+it used  0.000958919525146 seconds
+18:36:04.819750 353
+compensation is  0.000958919525146
+18:36:05.219484 start to read serial port
+18:36:05.229457 finish reading serial port
+it used  0.00981593132019 seconds
+18:36:05.229654 690
+[2, 0]
+receive bits...
+compensation is  0.00981593132019
+18:36:05.620739 start to read serial port
+18:36:05.629507 finish reading serial port
+it used  0.00861096382141 seconds
+18:36:05.629710 666
+compensation is  0.00861096382141
+18:36:06.021787 start to read serial port
+18:36:06.029617 finish reading serial port
+it used  0.00767493247986 seconds
+18:36:06.029821 1023
+[0, -2]
+receive bits...
+compensation is  0.00767493247986
+18:36:06.423095 start to read serial port
+18:36:06.429737 finish reading serial port
+it used  0.00647592544556 seconds
+18:36:06.430017 1023
+compensation is  0.00647592544556
+18:36:06.824308 start to read serial port
+18:36:06.829658 finish reading serial port
+it used  0.00518298149109 seconds
+18:36:06.829863 666
+[-2, 0]
+receive bits...
+compensation is  0.00518298149109
+18:36:07.225612 start to read serial port
+18:36:07.229692 finish reading serial port
+it used  0.00391817092896 seconds
+18:36:07.229889 353
+compensation is  0.00391817092896
+18:36:07.626695 start to read serial port
+18:36:07.629752 finish reading serial port
+it used  0.00287008285522 seconds
+18:36:07.629952 690
+[2, 0]
+receive bits...
+compensation is  0.00287008285522
+18:36:08.028014 start to read serial port
+18:36:08.029791 finish reading serial port
+it used  0.00153398513794 seconds
+18:36:08.029985 353
+compensation is  0.00153398513794
+18:36:08.429169 start to read serial port
+18:36:08.430331 finish reading serial port
+it used  0.000980138778687 seconds
+18:36:08.430567 690
+[2, 0]
+receive bits...
+compensation is  0.000980138778687
+18:36:08.830510 start to read serial port
+18:36:08.840086 finish reading serial port
+it used  0.00938010215759 seconds
+18:36:08.840285 1023
+compensation is  0.00938010215759
+18:36:09.231581 start to read serial port
+18:36:09.240065 finish reading serial port
+it used  0.00832605361938 seconds
+18:36:09.240259 666
+[-2, 0]
+receive bits...
+compensation is  0.00832605361938
+18:36:09.632770 start to read serial port
+18:36:09.640192 finish reading serial port
+it used  0.00725698471069 seconds
+18:36:09.640397 1023
+compensation is  0.00725698471069
+18:36:10.033822 start to read serial port
+18:36:10.040162 finish reading serial port
+it used  0.00618600845337 seconds
+18:36:10.040357 666
+[-2, 0]
+
+Ll
+receive char...
+receive bits...
+compensation is  0.00618600845337
+18:36:10.435105 start to read serial port
+18:36:10.440226 finish reading serial port
+it used  0.00496292114258 seconds
+18:36:10.440426 353
+compensation is  0.00496292114258
+18:36:10.836174 start to read serial port
+18:36:10.839056 finish reading serial port
+it used  0.00272798538208 seconds
+18:36:10.839255 690
+[2, 0]
+receive bits...
+compensation is  0.00272798538208
+18:36:11.237415 start to read serial port
+18:36:11.239113 finish reading serial port
+it used  0.00154614448547 seconds
+18:36:11.239307 666
+compensation is  0.00154614448547
+18:36:11.638478 start to read serial port
+18:36:11.639298 finish reading serial port
+it used  0.000566959381104 seconds
+18:36:11.639480 1023
+[0, -2]
+receive bits...
+compensation is  0.000566959381104
+18:36:12.039836 start to read serial port
+18:36:12.049346 finish reading serial port
+it used  0.0093240737915 seconds
+18:36:12.049547 1023
+compensation is  0.0093240737915
+18:36:12.440908 start to read serial port
+18:36:12.449336 finish reading serial port
+it used  0.00827097892761 seconds
+18:36:12.449532 666
+[-2, 0]
+receive bits...
+compensation is  0.00827097892761
+18:36:12.842093 start to read serial port
+18:36:12.849373 finish reading serial port
+it used  0.00712585449219 seconds
+18:36:12.849568 353
+compensation is  0.00712585449219
+18:36:13.243122 start to read serial port
+18:36:13.249418 finish reading serial port
+it used  0.00614404678345 seconds
+18:36:13.249612 690
+[2, 0]
+receive bits...
+compensation is  0.00614404678345
+18:36:13.644308 start to read serial port
+18:36:13.649476 finish reading serial port
+it used  0.00500702857971 seconds
+18:36:13.649680 354
+compensation is  0.00500702857971
+18:36:14.045385 start to read serial port
+18:36:14.049520 finish reading serial port
+it used  0.00397801399231 seconds
+18:36:14.049714 691
+[2, 0]
+receive bits...
+compensation is  0.00397801399231
+18:36:14.446619 start to read serial port
+18:36:14.449584 finish reading serial port
+it used  0.00280690193176 seconds
+18:36:14.449784 354
+compensation is  0.00280690193176
+18:36:14.847681 start to read serial port
+18:36:14.849615 finish reading serial port
+it used  0.00175499916077 seconds
+18:36:14.849813 691
+[2, 0]
+receive bits...
+compensation is  0.00175499916077
+18:36:15.248896 start to read serial port
+18:36:15.249898 finish reading serial port
+it used  0.000807046890259 seconds
+18:36:15.250194 354
+compensation is  0.000807046890259
+18:36:15.650110 start to read serial port
+18:36:15.659848 finish reading serial port
+it used  0.00956797599792 seconds
+18:36:15.660052 691
+[2, 0]
+
+Oo
+receive char...
+receive bits...
+compensation is  0.00956797599792
+18:36:16.051417 start to read serial port
+18:36:16.059952 finish reading serial port
+it used  0.00837182998657 seconds
+18:36:16.060154 1023
+compensation is  0.00837182998657
+18:36:16.452475 start to read serial port
+18:36:16.459938 finish reading serial port
+it used  0.00730299949646 seconds
+18:36:16.460140 666
+[-2, 0]
+receive bits...
+compensation is  0.00730299949646
+18:36:16.853672 start to read serial port
+18:36:16.859985 finish reading serial port
+it used  0.00616478919983 seconds
+18:36:16.860180 354
+compensation is  0.00616478919983
+18:36:17.254708 start to read serial port
+18:36:17.260028 finish reading serial port
+it used  0.00516891479492 seconds
+18:36:17.260224 691
+[2, 0]
+receive bits...
+compensation is  0.00516891479492
+18:36:17.655919 start to read serial port
+18:36:17.660142 finish reading serial port
+it used  0.00406312942505 seconds
+18:36:17.660342 1023
+compensation is  0.00406312942505
+18:36:18.056974 start to read serial port
+18:36:18.060124 finish reading serial port
+it used  0.0029718875885 seconds
+18:36:18.060322 666
+[-2, 0]
+receive bits...
+compensation is  0.0029718875885
+18:36:18.458265 start to read serial port
+18:36:18.460235 finish reading serial port
+it used  0.00179505348206 seconds
+18:36:18.460433 1023
+compensation is  0.00179505348206
+18:36:18.859326 start to read serial port
+18:36:18.869096 finish reading serial port
+it used  0.0096161365509 seconds
+18:36:18.869289 666
+[-2, 0]
+receive bits...
+compensation is  0.0096161365509
+18:36:19.260499 start to read serial port
+18:36:19.269209 finish reading serial port
+it used  0.00855207443237 seconds
+18:36:19.269406 1023
+compensation is  0.00855207443237
+18:36:19.661533 start to read serial port
+18:36:19.669198 finish reading serial port
+it used  0.00751495361328 seconds
+18:36:19.669391 666
+[-2, 0]
+receive bits...
+compensation is  0.00751495361328
+18:36:20.062704 start to read serial port
+18:36:20.069313 finish reading serial port
+it used  0.00645184516907 seconds
+18:36:20.069509 1023
+compensation is  0.00645184516907
+18:36:20.463783 start to read serial port
+18:36:20.469298 finish reading serial port
+it used  0.00532484054565 seconds
+18:36:20.469500 666
+[-2, 0]
+receive bits...
+compensation is  0.00532484054565
+18:36:20.865037 start to read serial port
+18:36:20.869401 finish reading serial port
+it used  0.0041880607605 seconds
+18:36:20.869596 1023
+compensation is  0.0041880607605
+18:36:21.266088 start to read serial port
+18:36:21.269386 finish reading serial port
+it used  0.00312995910645 seconds
+18:36:21.269579 666
+[-2, 0]
+
+
+receive char...
+receive bits...
+compensation is  0.00312995910645
+18:36:21.667383 start to read serial port
+18:36:21.669452 finish reading serial port
+it used  0.00189399719238 seconds
+18:36:21.669650 353
+compensation is  0.00189399719238
+18:36:22.068465 start to read serial port
+18:36:22.069595 finish reading serial port
+it used  0.000975847244263 seconds
+18:36:22.069790 689
+[2, 0]
+receive bits...
+compensation is  0.000975847244263
+18:36:22.469661 start to read serial port
+18:36:22.479668 finish reading serial port
+it used  0.00985097885132 seconds
+18:36:22.479873 666
+compensation is  0.00985097885132
+18:36:22.870762 start to read serial port
+18:36:22.879771 finish reading serial port
+it used  0.00885200500488 seconds
+18:36:22.879997 1023
+[0, -2]
+receive bits...
+compensation is  0.00885200500488
+18:36:23.272006 start to read serial port
+18:36:23.279821 finish reading serial port
+it used  0.00761103630066 seconds
+18:36:23.280050 1023
+compensation is  0.00761103630066
+18:36:23.673188 start to read serial port
+18:36:23.679827 finish reading serial port
+it used  0.00648307800293 seconds
+18:36:23.680022 666
+[-2, 0]
+receive bits...
+compensation is  0.00648307800293
+18:36:24.074470 start to read serial port
+18:36:24.079912 finish reading serial port
+it used  0.00528001785278 seconds
+18:36:24.080139 1023
+compensation is  0.00528001785278
+18:36:24.475608 start to read serial port
+18:36:24.479905 finish reading serial port
+it used  0.00410985946655 seconds
+18:36:24.480104 666
+[-2, 0]
+receive bits...
+compensation is  0.00410985946655
+18:36:24.876926 start to read serial port
+18:36:24.879957 finish reading serial port
+it used  0.00285410881042 seconds
+18:36:24.880148 353
+compensation is  0.00285410881042
+18:36:25.278032 start to read serial port
+18:36:25.279999 finish reading serial port
+it used  0.00173497200012 seconds
+18:36:25.280196 690
+[2, 0]
+receive bits...
+compensation is  0.00173497200012
+18:36:25.679389 start to read serial port
+18:36:25.680558 finish reading serial port
+it used  0.000986099243164 seconds
+18:36:25.680782 354
+compensation is  0.000986099243164
+18:36:26.080575 start to read serial port
+18:36:26.090234 finish reading serial port
+it used  0.00950717926025 seconds
+18:36:26.090428 690
+[2, 0]
+receive bits...
+compensation is  0.00950717926025
+18:36:26.481771 start to read serial port
+18:36:26.489145 finish reading serial port
+it used  0.0072009563446 seconds
+18:36:26.489356 1023
+compensation is  0.0072009563446
+18:36:26.882871 start to read serial port
+18:36:26.889113 finish reading serial port
+it used  0.00608611106873 seconds
+18:36:26.889307 666
+[-2, 0]
+
+Ff
+receive char...
+receive bits...
+compensation is  0.00608611106873
+18:36:27.284207 start to read serial port
+18:36:27.289153 finish reading serial port
+it used  0.00479698181152 seconds
+18:36:27.289348 353
+compensation is  0.00479698181152
+18:36:27.685245 start to read serial port
+18:36:27.689208 finish reading serial port
+it used  0.00380611419678 seconds
+18:36:27.689411 690
+[2, 0]
+receive bits...
+compensation is  0.00380611419678
+18:36:28.086591 start to read serial port
+18:36:28.089253 finish reading serial port
+it used  0.00251293182373 seconds
+18:36:28.089459 666
+compensation is  0.00251293182373
+18:36:28.487695 start to read serial port
+18:36:28.489362 finish reading serial port
+it used  0.00151181221008 seconds
+18:36:28.489566 1023
+[0, -2]
+receive bits...
+compensation is  0.00151181221008
+18:36:28.889044 start to read serial port
+18:36:28.899435 finish reading serial port
+it used  0.0102241039276 seconds
+18:36:28.899629 353
+compensation is  0.0102241039276
+18:36:29.290092 start to read serial port
+18:36:29.299481 finish reading serial port
+it used  0.00918292999268 seconds
+18:36:29.299673 690
+[2, 0]
+receive bits...
+compensation is  0.00918292999268
+18:36:29.691351 start to read serial port
+18:36:29.699603 finish reading serial port
+it used  0.00806999206543 seconds
+18:36:29.699803 1023
+compensation is  0.00806999206543
+18:36:30.092418 start to read serial port
+18:36:30.099583 finish reading serial port
+it used  0.00700807571411 seconds
+18:36:30.099780 666
+[-2, 0]
+receive bits...
+compensation is  0.00700807571411
+18:36:30.493617 start to read serial port
+18:36:30.499703 finish reading serial port
+it used  0.00592708587646 seconds
+18:36:30.499902 1023
+compensation is  0.00592708587646
+18:36:30.894666 start to read serial port
+18:36:30.899688 finish reading serial port
+it used  0.00486898422241 seconds
+18:36:30.899884 666
+[-2, 0]
+receive bits...
+compensation is  0.00486898422241
+18:36:31.295864 start to read serial port
+18:36:31.299730 finish reading serial port
+it used  0.0037100315094 seconds
+18:36:31.299926 353
+compensation is  0.0037100315094
+18:36:31.696935 start to read serial port
+18:36:31.699782 finish reading serial port
+it used  0.00266194343567 seconds
+18:36:31.699981 690
+[2, 0]
+receive bits...
+compensation is  0.00266194343567
+18:36:32.098266 start to read serial port
+18:36:32.099888 finish reading serial port
+it used  0.00146198272705 seconds
+18:36:32.100084 1023
+compensation is  0.00146198272705
+18:36:32.499613 start to read serial port
+18:36:32.500265 finish reading serial port
+it used  0.000505208969116 seconds
+18:36:32.500444 1023
+[-2, -2]
+
+Rr
+receive char...
+receive bits...
+compensation is  0.000505208969116
+18:36:32.900965 start to read serial port
+18:36:32.910066 finish reading serial port
+it used  0.00881814956665 seconds
+18:36:32.910268 353
+compensation is  0.00881814956665
+18:36:33.302165 start to read serial port
+18:36:33.310113 finish reading serial port
+it used  0.00777196884155 seconds
+18:36:33.310323 690
+[2, 0]
+receive bits...
+compensation is  0.00777196884155
+18:36:33.703406 start to read serial port
+18:36:33.710160 finish reading serial port
+it used  0.00657296180725 seconds
+18:36:33.710366 666
+compensation is  0.00657296180725
+18:36:34.104485 start to read serial port
+18:36:34.110263 finish reading serial port
+it used  0.00559496879578 seconds
+18:36:34.110462 1023
+[0, -2]
+receive bits...
+compensation is  0.00559496879578
+18:36:34.505704 start to read serial port
+18:36:34.509089 finish reading serial port
+it used  0.00316691398621 seconds
+18:36:34.509291 1023
+compensation is  0.00316691398621
+18:36:34.906833 start to read serial port
+18:36:34.909345 finish reading serial port
+it used  0.00234413146973 seconds
+18:36:34.909545 1023
+[-2, -2]
+receive bits...
+compensation is  0.00234413146973
+18:36:35.308079 start to read serial port
+18:36:35.309286 finish reading serial port
+it used  0.000999212265015 seconds
+18:36:35.309483 666
+compensation is  0.000999212265015
+18:36:35.709193 start to read serial port
+18:36:35.719287 finish reading serial port
+it used  0.0099241733551 seconds
+18:36:35.719490 690
+[0, 0]
+receive bits...
+compensation is  0.0099241733551
+18:36:36.110405 start to read serial port
+18:36:36.119331 finish reading serial port
+it used  0.00874614715576 seconds
+18:36:36.119531 354
+compensation is  0.00874614715576
+18:36:36.511497 start to read serial port
+18:36:36.519379 finish reading serial port
+it used  0.00771307945251 seconds
+18:36:36.519581 691
+[2, 0]
+receive bits...
+compensation is  0.00771307945251
+18:36:36.912727 start to read serial port
+18:36:36.919417 finish reading serial port
+it used  0.00651812553406 seconds
+18:36:36.919617 354
+compensation is  0.00651812553406
+18:36:37.313814 start to read serial port
+18:36:37.319473 finish reading serial port
+it used  0.00543284416199 seconds
+18:36:37.319672 691
+[2, 0]
+receive bits...
+compensation is  0.00543284416199
+18:36:37.715093 start to read serial port
+18:36:37.719678 finish reading serial port
+it used  0.00436806678772 seconds
+18:36:37.719880 691
+compensation is  0.00436806678772
+18:36:38.116199 start to read serial port
+18:36:38.119563 finish reading serial port
+it used  0.00318098068237 seconds
+18:36:38.119734 355
+[0, 2]
+
+Gf
+receive char...
+receive bits...
+compensation is  0.00318098068237
+18:36:38.517914 start to read serial port
+18:36:38.519609 finish reading serial port
+it used  0.00152397155762 seconds
+18:36:38.519812 691
+compensation is  0.00152397155762
+18:36:38.919001 start to read serial port
+18:36:38.920019 finish reading serial port
+it used  0.000771045684814 seconds
+18:36:38.920346 355
+[0, 2]
+receive bits...
+compensation is  0.000771045684814
+18:36:39.320499 start to read serial port
+18:36:39.329829 finish reading serial port
+it used  0.0091450214386 seconds
+18:36:39.330062 665
+compensation is  0.0091450214386
+18:36:39.721645 start to read serial port
+18:36:39.729944 finish reading serial port
+it used  0.00811100006104 seconds
+18:36:39.730202 1023
+[0, -2]
+receive bits...
+compensation is  0.00811100006104
+18:36:40.122983 start to read serial port
+18:36:40.129998 finish reading serial port
+it used  0.00680899620056 seconds
+18:36:40.130265 1023
+compensation is  0.00680899620056
+18:36:40.524157 start to read serial port
+18:36:40.530221 finish reading serial port
+it used  0.00587391853333 seconds
+18:36:40.530451 1023
+[-2, -2]
+receive bits...
+compensation is  0.00587391853333
+18:36:40.925469 start to read serial port
+18:36:40.930028 finish reading serial port
+it used  0.0043728351593 seconds
+18:36:40.930330 667
+compensation is  0.0043728351593
+18:36:41.326670 start to read serial port
+18:36:41.330067 finish reading serial port
+it used  0.00321197509766 seconds
+18:36:41.330296 354
+[0, 2]
+receive bits...
+compensation is  0.00321197509766
+18:36:41.727975 start to read serial port
+18:36:41.730116 finish reading serial port
+it used  0.00189995765686 seconds
+18:36:41.730353 691
+compensation is  0.00189995765686
+18:36:42.129172 start to read serial port
+18:36:42.139059 finish reading serial port
+it used  0.00972294807434 seconds
+18:36:42.139259 691
+[0, 0]
+receive bits...
+compensation is  0.00972294807434
+18:36:42.530440 start to read serial port
+18:36:42.539176 finish reading serial port
+it used  0.00853681564331 seconds
+18:36:42.539409 1023
+compensation is  0.00853681564331
+18:36:42.931578 start to read serial port
+18:36:42.939171 finish reading serial port
+it used  0.00740098953247 seconds
+18:36:42.939378 665
+[-2, 0]
+receive bits...
+compensation is  0.00740098953247
+18:36:43.332857 start to read serial port
+18:36:43.339659 finish reading serial port
+it used  0.00649285316467 seconds
+18:36:43.340009 667
+compensation is  0.00649285316467
+18:36:43.734233 start to read serial port
+18:36:43.739234 finish reading serial port
+it used  0.00484204292297 seconds
+18:36:43.739432 354
+[0, 2]
+
+I
+receive char...
+receive bits...
+compensation is  0.00484204292297
+18:36:44.135606 start to read serial port
+18:36:44.139281 finish reading serial port
+it used  0.00350499153137 seconds
+18:36:44.139480 691
+compensation is  0.00350499153137
+18:36:44.536699 start to read serial port
+18:36:44.539402 finish reading serial port
+it used  0.0025360584259 seconds
+18:36:44.539631 1023
+[0, -2]
+receive bits...
+compensation is  0.0025360584259
+18:36:44.937938 start to read serial port
+18:36:44.939402 finish reading serial port
+it used  0.00130295753479 seconds
+18:36:44.939601 666
+compensation is  0.00130295753479
+18:36:45.339281 start to read serial port
+18:36:45.349568 finish reading serial port
+it used  0.0101292133331 seconds
+18:36:45.349778 690
+[0, 0]
+receive bits...
+compensation is  0.0101292133331
+18:36:45.740507 start to read serial port
+18:36:45.749722 finish reading serial port
+it used  0.00903701782227 seconds
+18:36:45.749927 691
+compensation is  0.00903701782227
+18:36:46.141599 start to read serial port
+18:36:46.149721 finish reading serial port
+it used  0.00792789459229 seconds
+18:36:46.149970 1023
+[0, -2]
+receive bits...
+compensation is  0.00792789459229
+18:36:46.543230 start to read serial port
+18:36:46.549735 finish reading serial port
+it used  0.00630402565002 seconds
+18:36:46.549955 667
+compensation is  0.00630402565002
+18:36:46.944375 start to read serial port
+18:36:46.949822 finish reading serial port
+it used  0.00527906417847 seconds
+18:36:46.950021 1023
+[0, -2]
+receive bits...
+compensation is  0.00527906417847
+18:36:47.345630 start to read serial port
+18:36:47.349813 finish reading serial port
+it used  0.00400590896606 seconds
+18:36:47.350030 667
+compensation is  0.00400590896606
+18:36:47.746760 start to read serial port
+18:36:47.749905 finish reading serial port
+it used  0.00295305252075 seconds
+18:36:47.750100 1023
+[0, -2]
+receive bits...
+compensation is  0.00295305252075
+18:36:48.148001 start to read serial port
+18:36:48.149885 finish reading serial port
+it used  0.00163197517395 seconds
+18:36:48.150078 667
+compensation is  0.00163197517395
+18:36:48.549144 start to read serial port
+18:36:48.550386 finish reading serial port
+it used  0.00105595588684 seconds
+18:36:48.550607 1023
+[0, -2]
+receive bits...
+compensation is  0.00105595588684
+18:36:48.950463 start to read serial port
+18:36:48.958876 finish reading serial port
+it used  0.00820207595825 seconds
+18:36:48.959089 667
+compensation is  0.00820207595825
+18:36:49.351613 start to read serial port
+18:36:49.358983 finish reading serial port
+it used  0.00719618797302 seconds
+18:36:49.359190 1023
+[0, -2]
+
+_
+receive char...
+receive bits...
+compensation is  0.00719618797302
+18:36:49.752951 start to read serial port
+18:36:49.758964 finish reading serial port
+it used  0.00584888458252 seconds
+18:36:49.759163 667
+compensation is  0.00584888458252
+18:36:50.154001 start to read serial port
+18:36:50.159007 finish reading serial port
+it used  0.00485181808472 seconds
+18:36:50.159199 354
+[0, 2]
+receive bits...
+compensation is  0.00485181808472
+18:36:50.555195 start to read serial port
+18:36:50.559076 finish reading serial port
+it used  0.00367403030396 seconds
+18:36:50.559282 690
+compensation is  0.00367403030396
+18:36:50.956304 start to read serial port
+18:36:50.959109 finish reading serial port
+it used  0.00260996818542 seconds
+18:36:50.959306 667
+[0, 0]
+receive bits...
+compensation is  0.00260996818542
+18:36:51.357564 start to read serial port
+18:36:51.359226 finish reading serial port
+it used  0.00149297714233 seconds
+18:36:51.359428 1023
+compensation is  0.00149297714233
+18:36:51.758646 start to read serial port
+18:36:51.759323 finish reading serial port
+it used  0.00043797492981 seconds
+18:36:51.759502 354
+[-2, 2]
+receive bits...
+compensation is  0.00043797492981
+18:36:52.159910 start to read serial port
+18:36:52.169372 finish reading serial port
+it used  0.00927996635437 seconds
+18:36:52.169569 690
+compensation is  0.00927996635437
+18:36:52.560983 start to read serial port
+18:36:52.569488 finish reading serial port
+it used  0.00833702087402 seconds
+18:36:52.569694 1023
+[0, -2]
+receive bits...
+compensation is  0.00833702087402
+18:36:52.962189 start to read serial port
+18:36:52.969481 finish reading serial port
+it used  0.00713014602661 seconds
+18:36:52.969690 667
+compensation is  0.00713014602661
+18:36:53.363259 start to read serial port
+18:36:53.369595 finish reading serial port
+it used  0.00616502761841 seconds
+18:36:53.369795 1023
+[0, -2]
+receive bits...
+compensation is  0.00616502761841
+18:36:53.764472 start to read serial port
+18:36:53.769568 finish reading serial port
+it used  0.00493192672729 seconds
+18:36:53.769768 666
+compensation is  0.00493192672729
+18:36:54.165531 start to read serial port
+18:36:54.169617 finish reading serial port
+it used  0.00393104553223 seconds
+18:36:54.169807 354
+[0, 2]
+receive bits...
+compensation is  0.00393104553223
+18:36:54.566743 start to read serial port
+18:36:54.569676 finish reading serial port
+it used  0.00276398658752 seconds
+18:36:54.569877 690
+compensation is  0.00276398658752
+Catch ctrl + C! Exit now

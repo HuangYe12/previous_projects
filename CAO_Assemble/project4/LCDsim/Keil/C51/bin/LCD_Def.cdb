@@ -1,0 +1,1074 @@
+[ELECTRONIC ASSEMBLY]
+// Normale Dotmatrix
+OrderNr: EA 8081-A3N (1x8)
+// LCD-Definition
+LCD_Col: 8
+LCD_Row:  1
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: NO
+LightCol:  000000
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 3
+PlaceBetV: 3
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: EA DIP081-CNLED (1x8)
+// LCD-Definition
+LCD_Col: 8
+LCD_Row: 1
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol:  00FFFF (LIGHTBLUE)
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 5
+PlaceBetV: 5
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   6
+PixWidth:  6
+PixBetH:   2
+PixBetV:   2
+
+OrderNr: EA W161-DNLED (1x16)
+// LCD-Definition
+LCD_Col: 20
+LCD_Row:  2
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol:  00FFFF (LIGHTBLUE)
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 3
+PlaceBetV: 3
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: EA P082-N2LED (2x8)
+// LCD-Definition
+LCD_Col:  8
+LCD_Row:  2
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol:  00FFFF (LIGHTBLUE)
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 3
+PlaceBetV: 3
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: EA P122-ANLED (2x12)
+// LCD-Definition
+LCD_Col: 12
+LCD_Row:  2
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol:  00FFFF (LIGHTBLUE)
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 3
+PlaceBetV: 3
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: EA W162-N3LED (2x16)
+// LCD-Definition
+LCD_Col: 16
+LCD_Row:  2
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol:  00FFFF (LIGHTBLUE)
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 3
+PlaceBetV: 3
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: EA 7202-BNLED (2x20)
+// LCD-Definition
+LCD_Col: 20
+LCD_Row:  2
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol:  00FFFF (LIGHTBLUE)
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 3
+PlaceBetV: 3
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: EA P242-NLED (2x24)
+// LCD-Definition
+LCD_Col: 24
+LCD_Row:  2
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol:  00FFFF (LIGHTBLUE)
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 3
+PlaceBetV: 3
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: EA P402-NLED (2x40)
+// LCD-Definition
+LCD_Col: 40
+LCD_Row:  2
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol:  00FFFF (LIGHTBLUE)
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 3
+PlaceBetV: 3
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: EA C124-NLED (4x12)
+// LCD-Definition
+LCD_Col: 12
+LCD_Row:  4
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol:  00FFFF (LIGHTBLUE)
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 3
+PlaceBetV: 3
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: EA P164-BNLED (4x16)
+// LCD-Definition
+LCD_Col: 16
+LCD_Row:  4
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol:  00FFFF (LIGHTBLUE)
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 3
+PlaceBetV: 3
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: EA 7204-NLED (4x20)
+// LCD-Definition
+LCD_Col: 20
+LCD_Row:  4
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol: 00FFFF (LIGHTBLUE)
+
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 4
+PlaceBetV: 4
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+// Blue Line 
+OrderNr: EA E202-CNLW (2x20)
+// LCD-Definition
+LCD_Col: 20
+LCD_Row:  2
+BackCol:  0040FF (BLUE)
+FrontCol: 0040FF (BLUE)
+LCD_LIGHT: YES
+LightCol: FFFFFF (WHITE)
+
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 5
+PlaceBetV: 5
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   6
+PixWidth:  6
+PixBetH:   2
+PixBetV:   2
+
+OrderNr: EA E161-ENLW (1x16)
+// LCD-Definition
+LCD_Col: 16
+LCD_Row:  1
+BackCol:  0040FF (BLUE)
+FrontCol: 0040FF (BLUE)
+LCD_LIGHT: YES
+LightCol: FFFFFF (WHITE)
+
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 4
+PlaceBetV: 4
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   5
+PixWidth:  5
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: EA E162-BNLW (2x16)
+// LCD-Definition
+LCD_Col: 16
+LCD_Row:  2
+BackCol:  0040FF (BLUE)
+FrontCol: 0040FF (BLUE)
+LCD_LIGHT: YES
+LightCol: FFFFFF (WHITE)
+
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 4
+PlaceBetV: 4
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   5
+PixWidth:  5
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: EA E162-N3LW (2x16)
+// LCD-Definition
+LCD_Col: 16
+LCD_Row:  2
+BackCol:  0040FF (BLUE)
+FrontCol: 0040FF (BLUE)
+LCD_LIGHT: YES
+LightCol: FFFFFF (WHITE)
+
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 4
+PlaceBetV: 4
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: EA E202-NLW (2x20)
+// LCD-Definition
+LCD_Col: 20
+LCD_Row:  2
+BackCol:  0040FF (BLUE)
+FrontCol: 0040FF (BLUE)
+LCD_LIGHT: YES
+LightCol: FFFFFF (WHITE)
+
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 4
+PlaceBetV: 4
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: EA E242-NLW (2x24)
+// LCD-Definition
+LCD_Col: 24
+LCD_Row:  2
+BackCol:  0040FF (BLUE)
+FrontCol: 0040FF (BLUE)
+LCD_LIGHT: YES
+LightCol: FFFFFF (WHITE)
+
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 4
+PlaceBetV: 4
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: EA E164-NLW (4x16)
+// LCD-Definition
+LCD_Col: 16
+LCD_Row:  4
+BackCol:  0040FF (BLUE)
+FrontCol: 0040FF (BLUE)
+LCD_LIGHT: YES
+LightCol: FFFFFF (WHITE)
+
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 4
+PlaceBetV: 4
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: EA E204-NLW (4x20)
+// LCD-Definition
+LCD_Col: 20
+LCD_Row:  4
+BackCol:  0040FF (BLUE)
+FrontCol: 0040FF (BLUE)
+LCD_LIGHT: YES
+LightCol: FFFFFF (WHITE)
+
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 4
+PlaceBetV: 4
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: EA E402-NLW (2x40)
+// LCD-Definition
+LCD_Col: 40
+LCD_Row:  2
+BackCol:  0040FF (BLUE)
+FrontCol: 0040FF (BLUE)
+LCD_LIGHT: YES
+LightCol: FFFFFF (WHITE)
+
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 4
+PlaceBetV: 4
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+//***************************************************
+// Hersteller Batron
+//***************************************************
+[BATRON]
+OrderNr: BT21603 (2x16)
+// LCD-Definition
+LCD_Col: 16
+LCD_Row:  2
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol: FFFFFF (WHITE)
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 3
+PlaceBetV: 10
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   3
+PixWidth:  3
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: BT11605 (1x16)
+// LCD-Definition
+LCD_Col: 16
+LCD_Row:  1
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol: FFFFFF (WHITE)
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 3
+PlaceBetV: 10
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: BT21605 (2x16)
+// LCD-Definition
+LCD_Col: 16
+LCD_Row:  2
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol: FFFFFF (WHITE)
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 3
+PlaceBetV: 10
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: BT22005 (2x20)
+// LCD-Definition
+LCD_Col: 20
+LCD_Row:  2
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol: FFFFFF (WHITE)
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 3
+PlaceBetV: 10
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: BT22405 (2x24)
+// LCD-Definition
+LCD_Col: 24
+LCD_Row:  2
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol: FFFFFF (WHITE)
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 3
+PlaceBetV: 10
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: BT24005 (2x40)
+// LCD-Definition
+LCD_Col: 40
+LCD_Row:  2
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol: FFFFFF (WHITE)
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 3
+PlaceBetV: 10
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: BT41605 (4x16)
+// LCD-Definition
+LCD_Col: 16
+LCD_Row:  4
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol: FFFFFF (WHITE)
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 3
+PlaceBetV: 10
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: BT42003 (4x20)
+// LCD-Definition
+LCD_Col: 20
+LCD_Row:  4
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: NO
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 3
+PlaceBetV: 10
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   3
+PixWidth:  3
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: BT42005 (4x20)
+// LCD-Definition
+LCD_Col: 20
+LCD_Row:  4
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol: FFFFFF (WHITE)
+
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 3
+PlaceBetV: 10
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   4
+PixWidth:  4
+PixBetH:   1
+PixBetV:   1
+
+OrderNr: BT11608 (1x16)
+// LCD-Definition
+LCD_Col: 16
+LCD_Row:  1
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol: FFFFFF (WHITE)
+
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 5
+PlaceBetV: 5
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   5
+PixWidth:  5
+PixBetH:   2
+PixBetV:   2
+
+OrderNr: BT12008 (1x20)
+// LCD-Definition
+LCD_Col: 20
+LCD_Row:  1
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol: FFFFFF (WHITE)
+
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 5
+PlaceBetV: 5
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   5
+PixWidth:  5
+PixBetH:   2
+PixBetV:   2
+
+OrderNr: BT21608 (2x16)
+// LCD-Definition
+LCD_Col: 16
+LCD_Row:  2
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol: FFFFFF (WHITE)
+
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 5
+PlaceBetV: 5
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   5
+PixWidth:  5
+PixBetH:   2
+PixBetV:   2
+
+OrderNr: BT10809 (1x8)
+// LCD-Definition
+LCD_Col:  8
+LCD_Row:  1
+BackCol:  FFFFFF (WHITE)
+FrontCol: 000000 (BLACK)
+LCD_LIGHT: YES
+LightCol: FFFFFF (WHITE)
+
+// LCD-Timing in 탎ec (max. Timing)
+ClearDisplay:      1640
+CursorAtHome:      1640
+EntryModeSet:        40
+DisplayOnOff:        40
+CursorDisplayShift:  40
+FunctionSet:         40
+CGRamAddressSet:     40
+DDRamAddressSet:     40
+BusyFlagRead:         0
+CGRamDDRamDataWrite: 40
+CGRamDDRamDataRead:  40
+// LCD Segment Format
+PlaceBetH: 5
+PlaceBetV: 5
+PixCountH: 5 
+PixCountV: 8 
+// LCD Pixel Format
+PixHigh:   5
+PixWidth:  5
+PixBetH:   2
+PixBetV:   2

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ====================================================================== 
+     Apr 15, 2016 4:58:53 PM                                                        
+
+     project    
+     description
+                   
+     huangye                                                                
+     ====================================================================== -->
+<project name="hello" default="junitgui" basedir=".">
+    <description>
+            description
+    </description>
+	
+	<property name="junitJar" value="/usr/share/eclipse/dropins/jdt/plugins/org.junit_3.8.2.dist/junit.jar"/>
+	<property name="src.dir" value="${basedir}/src"/>
+	<property name="build.dir" value="${basedir}/classes"/>
+	
+	<path id="classpath">
+		<pathelement location="${junitJar}"/>
+		<pathelement location="${build.dir}"/>
+	</path>
+	
+	
+    <target name="init">
+    	<mkdir dir="${build.dir}"/>
+    </target>
+	
+    <target name="build" depends="init" description="build all">
+    	<javac 
+    		srcdir="${src.dir}" destdir="${build.dir}"
+    		source="${ant.java.version}"
+    		deprecation="on" debug="on" includeAntRuntime="no">
+    		<classpath refid="classpath" />
+    	</javac>
+    </target>
+
+    <!-- ================================= 
+          target: junitgui              
+         ================================= -->
+    <target name="junitgui" depends="build" description="run junitgui">
+        <java classname="junit.swingui.TestRunner" fork="yes">
+        	<arg value="sis.AllTests" />
+        	<classpath refid="classpath"/>
+        </java>
+    </target>
+
+    <target name="clean">
+    	<delete dir="${build.dir}" />
+    </target>
+	
+	<target name="rebuildAll" depends="clean,build" description="rebuild all"/>
+	
+
+</project>

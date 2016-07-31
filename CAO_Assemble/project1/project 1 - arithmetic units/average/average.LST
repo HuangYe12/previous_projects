@@ -1,0 +1,216 @@
+A51 MACRO ASSEMBLER  AVERAGE                                                              11/11/2014 17:38:54 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.02b
+OBJECT MODULE PLACED IN average.OBJ
+ASSEMBLER INVOKED BY: C:\Keil_v5\C51\BIN\A51.EXE average.a51 SET(SMALL) DEBUG EP
+
+LOC  OBJ            LINE     SOURCE
+
+                       1     ; Computer structure and organization
+                       2     ; Project 1: arithmetic units
+                       3     ; Copyright 2008 by Parallele Systeme, Universität Stuttgart
+                       4     
+                       5     NAME AVERAGE_DEMO
+                       6     
+                       7     ;DATA1          EQU 08899h
+                       8     ;DATA2          EQU 0AABBh
+                       9     ;DATA3          EQU 0CCDDh
+                      10     ;DATA4          EQU 0EEFFh
+                      11     
+  ADED                12     DATA1           EQU 0ADEDh
+  BEEF                13     DATA2           EQU 0BEEFh
+  FEED                14     DATA3           EQU 0FEEDh
+  ABBA                15     DATA4           EQU 0ABBAh
+                      16     
+  0031                17     MULDATA         EQU 031h        ; address of the LSB of the input for MUL16
+  0054                18     RESULTLSB       EQU 054h        ; area to store the final result
+  0050                19     RESULTMSB       EQU 050h
+                      20     
+0000                  21                             ORG     0
+                      22     
+                      23                             ; clear result space
+0000 7854             24                             MOV R0, #RESULTLSB
+0002 7600             25     CLEAR:          MOV @R0, #0
+0004 18               26                             DEC R0
+0005 B84FFA           27                             CJNE R0, #RESULTMSB-1, CLEAR
+                      28     
+                      29                             ; compute and sum up the squares of DATA1 to DATA4
+                      30                             ; use R6 and R7 to transfer the data to the subroutine
+                      31     
+                      32                             ; DATA1
+0008 7EAD             33                             MOV R6, #HIGH DATA1
+000A 7FED             34                             MOV R7, #LOW DATA1
+000C 1131             35                             CALL SUMUP
+                      36     
+                      37                             ; DATA2
+000E 7EBE             38                             MOV R6, #HIGH DATA2
+0010 7FEF             39                             MOV R7, #LOW DATA2
+0012 1131             40                             CALL SUMUP
+                      41     
+                      42                             ; DATA3
+0014 7EFE             43                             MOV R6, #HIGH DATA3
+0016 7FED             44                             MOV R7, #LOW DATA3
+0018 1131             45                             CALL SUMUP
+                      46     
+                      47                             ; DATA4
+001A 7EAB             48                             MOV R6, #HIGH DATA4
+001C 7FBA             49                             MOV R7, #LOW DATA4
+001E 1131             50                             CALL SUMUP
+                      51     
+                      52                             ; divide the result by 4
+0020 7A02             53                             MOV R2, #02h ; repeat twice, because every shift is division by 2
+0022 7905             54     AVERAGE:        MOV R1, #RESULTLSB-RESULTMSB+1
+0024 7850             55                             MOV R0, #RESULTMSB
+0026 C3               56                             CLR C
+0027 E6               57     SHIFT:          MOV A, @R0
+0028 13               58                             RRC A
+A51 MACRO ASSEMBLER  AVERAGE                                                              11/11/2014 17:38:54 PAGE     2
+
+0029 F6               59                             MOV @R0, A
+002A 08               60                             INC R0
+002B D9FA             61                             DJNZ R1, SHIFT
+002D DAF3             62                             DJNZ R2, AVERAGE
+                      63     
+                      64                             ; The result is now in RESULTMSB+1 to RESULTLSB and 32-bits long
+                      65     
+                      66     
+002F 80FE             67     FINAL:          JMP FINAL
+                      68     
+0031                  69     SUMUP:
+                      70                             ; compute the square
+0031 8E30             71                             MOV MULDATA-1, R6
+0033 8F31             72                             MOV MULDATA, R7
+0035 7831             73                             MOV R0, #MULDATA
+0037 7931             74                             MOV R1, #MULDATA
+0039 1151             75                             CALL MUL16
+                      76     
+                      77                             ; add the square to the sum
+003B 7854             78                             MOV R0, #RESULTLSB      ; Summand1: current val of total sum of squ
+                             ares
+003D 7943             79                             MOV R1, #E0                     ; Summand2: result of the multiplic
+                             ation
+003F 1146             80                             CALL ADD32
+                      81                             ; don't forget to take care of carry signals
+0041 5002             82                             JNC NOCARRY
+0043 0550             83                             INC RESULTMSB
+0045 22               84     NOCARRY:        RET
+                      85     
+                      86     
+                      87     ;$include (ADD32.INC)
+                +1    88     ; Computer structure and organization
+                +1    89     ; Project 1: arithmetic units
+                +1    90     ; Copyright 2008 by Parallele Systeme, Universität Stuttgart
+                +1    91     
+                +1    92     
+0046            +1    93     ADD32:
+0046 7A04       +1    94                     MOV R2, #04h
+0048 C3         +1    95                     CLR C
+0049 E6         +1    96     ALOOP:  MOV A, @R0
+004A 37         +1    97                     ADDC A, @R1
+004B F6         +1    98                     MOV @R0, A
+004C 18         +1    99                     DEC R0
+004D 19         +1   100                     DEC R1
+004E DAF9       +1   101                     DJNZ R2, ALOOP
+                +1   102     
+0050 22         +1   103                     RET
+                     104     
+                     105     ;$include (MUL16.INC)
+                +1   106     ; Computer structure and organization
+                +1   107     ; Project 1: arithmetic units
+                +1   108     ; Copyright 2008 by Parallele Systeme, Universität Stuttgart
+                +1   109     
+                +1   110     
+  0043          +1   111     E0              EQU 043h
+  0042          +1   112     E1              EQU 042h
+  0041          +1   113     E2              EQU 041h
+  0040          +1   114     E3              EQU 040h
+                +1   115     
+0051            +1   116     MUL16:
+0051 754300     +1   117                     MOV E0, #0   ; zero the result space
+0054 754200     +1   118                     MOV E1, #0
+0057 754100     +1   119                     MOV E2, #0
+005A 754000     +1   120                     MOV E3, #0
+005D E6         +1   121                     MOV A, @R0      ; load the first pair of 8-bit numbers
+005E 87F0       +1   122                     MOV B, @R1
+A51 MACRO ASSEMBLER  AVERAGE                                                              11/11/2014 17:38:54 PAGE     3
+
+0060 A4         +1   123                     MUL AB          ; perform the 8-bit multiplication
+0061 F543       +1   124                     MOV E0, A       ; store the first partial product in E0/E1              
+0063 85F042     +1   125                     MOV E1, B               
+                +1   126                                             ; compute the second partial product
+0066 19         +1   127                     DEC R1
+0067 E6         +1   128                     MOV A, @R0
+0068 87F0       +1   129                     MOV B, @R1
+006A A4         +1   130                     MUL AB
+006B 2542       +1   131                     ADD A, E1
+006D F542       +1   132                     MOV E1, A
+006F C5F0       +1   133                     XCH A, B
+0071 3541       +1   134                     ADDC A, E2
+0073 F541       +1   135                     MOV E2, A
+0075 5002       +1   136                     JNC PROD3
+0077 0540       +1   137                     INC E3
+0079 09         +1   138     PROD3:  INC R1
+007A 18         +1   139                     DEC R0
+007B E6         +1   140                     MOV A, @R0
+007C 87F0       +1   141                     MOV B, @R1
+007E A4         +1   142                     MUL AB
+007F 2542       +1   143                     ADD A, E1
+0081 F542       +1   144                     MOV E1, A
+0083 C5F0       +1   145                     XCH A, B
+0085 3541       +1   146                     ADDC A, E2
+0087 F541       +1   147                     MOV E2, A
+0089 5002       +1   148                     JNC PROD4
+008B 0540       +1   149                     INC E3
+008D 19         +1   150     PROD4:  DEC R1
+008E E6         +1   151                     MOV A, @R0
+008F 87F0       +1   152                     MOV B, @R1
+0091 A4         +1   153                     MUL AB
+0092 2541       +1   154                     ADD A, E2
+0094 F541       +1   155                     MOV E2, A
+0096 C5F0       +1   156                     XCH A, B
+0098 3540       +1   157                     ADDC A, E3
+009A F540       +1   158                     MOV E3, A
+                +1   159     
+009C 22         +1   160                     RET
+                     161     
+                     162     
+                     163             END
+A51 MACRO ASSEMBLER  AVERAGE                                                              11/11/2014 17:38:54 PAGE     4
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+ADD32. . . . . . .  C ADDR   0046H   A   
+ALOOP. . . . . . .  C ADDR   0049H   A   
+AVERAGE. . . . . .  C ADDR   0022H   A   
+AVERAGE_DEMO . . .  N NUMB   -----       
+B. . . . . . . . .  D ADDR   00F0H   A   
+CLEAR. . . . . . .  C ADDR   0002H   A   
+DATA1. . . . . . .  N NUMB   ADEDH   A   
+DATA2. . . . . . .  N NUMB   BEEFH   A   
+DATA3. . . . . . .  N NUMB   FEEDH   A   
+DATA4. . . . . . .  N NUMB   ABBAH   A   
+E0 . . . . . . . .  N NUMB   0043H   A   
+E1 . . . . . . . .  N NUMB   0042H   A   
+E2 . . . . . . . .  N NUMB   0041H   A   
+E3 . . . . . . . .  N NUMB   0040H   A   
+FINAL. . . . . . .  C ADDR   002FH   A   
+MUL16. . . . . . .  C ADDR   0051H   A   
+MULDATA. . . . . .  N NUMB   0031H   A   
+NOCARRY. . . . . .  C ADDR   0045H   A   
+PROD3. . . . . . .  C ADDR   0079H   A   
+PROD4. . . . . . .  C ADDR   008DH   A   
+RESULTLSB. . . . .  N NUMB   0054H   A   
+RESULTMSB. . . . .  N NUMB   0050H   A   
+SHIFT. . . . . . .  C ADDR   0027H   A   
+SUMUP. . . . . . .  C ADDR   0031H   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 0 ERROR(S)

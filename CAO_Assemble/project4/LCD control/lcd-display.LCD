@@ -1,0 +1,17 @@
+[Version]
+Version=0.2
+[LCD_0]
+Manufacturer=BATRON
+OrderNr=BT21605 (2x16)
+PortWidth=4
+D0_NAME=
+D1_NAME=
+D2_NAME=
+D3_NAME=
+D4_NAME=P1^3
+D5_NAME=
+D6_NAME=
+D7_NAME=
+RS_NAME=
+RW_NAME=
+EN_NAME=

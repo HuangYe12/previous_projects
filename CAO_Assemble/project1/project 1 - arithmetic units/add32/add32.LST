@@ -1,0 +1,147 @@
+A51 MACRO ASSEMBLER  ADD32                                                                11/10/2014 20:33:05 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.02b
+OBJECT MODULE PLACED IN add32.OBJ
+ASSEMBLER INVOKED BY: C:\Keil_v5\C51\BIN\A51.EXE add32.a51 SET(SMALL) DEBUG EP
+
+LOC  OBJ            LINE     SOURCE
+
+                       1     ; Computer structure and organization
+                       2     ; Project 1: arithmetic units
+                       3     ; Copyright 2008 by Parallele Systeme, Universität Stuttgart
+                       4     
+                       5     NAME ADD32_DEMO
+                       6     
+0000                   7                     ORG     0
+                       8     
+                       9     ; TASK=1: fixed address
+                      10     ; TASK=2: variable address
+                      11     ; TASK=3: packaging
+                      12     $set  (TASK=3)
+                      13     
+                      14     ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+                      15     $if  TASK = 1
+                             SUM1    EQU 043h
+                             SUM2    EQU     053h
+                             
+                                             MOV SUM1-3, #11h
+                                             MOV SUM1-2, #22h
+                                             MOV SUM1-1, #33h
+                                             MOV SUM1, #44h
+                                             
+                                             MOV SUM2-3, #0CCh
+                                             MOV SUM2-2, #0DDh
+                                             MOV SUM2-1, #0EEh
+                                             MOV SUM2, #0FFh
+                                                     
+                                             MOV A, SUM1 ; copy contents of the cell at address SUM1
+                                                                     ; (43h in this case) to the accumulator
+                                             ADD A, SUM2     ; add the contents of the cell at address
+                                                                     ; SUM2 to the accumulator                       
+                                             MOV SUM1, A     ; store the result back in SUM1
+                             
+                                             MOV A, SUM1-1   ; copy contents of the cell at address SUM1-1
+                                                                             ; (42h in this case) to the accumulator
+                                             ADDC A, SUM2-1
+                                             MOV SUM1-1, A
+                             
+                                             MOV A, SUM1-2
+                                             ADDC A, SUM2-2
+                                             MOV SUM1-2, A
+                                             MOV A, SUM1-3
+                                             ADDC A, SUM2-3
+                                             MOV SUM1-3, A
+                             
+                             FINAL:  JMP FINAL
+                             
+                             
+                             ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+                             $elseif  TASK = 2
+                             SUM1    EQU 043h
+                             SUM2    EQU     053h
+                             
+                                             MOV SUM1-3, #11h
+                                             MOV SUM1-2, #22h
+                                             MOV SUM1-1, #33h
+                                             MOV SUM1, #44h
+A51 MACRO ASSEMBLER  ADD32                                                                11/10/2014 20:33:05 PAGE     2
+
+                                             
+                                             MOV SUM2-3, #0CCh
+                                             MOV SUM2-2, #0DDh
+                                             MOV SUM2-1, #0EEh
+                                             MOV SUM2, #0FFh
+                             
+                                             MOV R0, #SUM1
+                                             MOV R1, #SUM2
+                             
+                                             MOV R2, #04h
+                                             CLR C
+                             LOOP:   MOV A, @R0
+                                             ADDC A, @R1
+                                             MOV @R0, A
+                                             DEC R0
+                                             DEC R1
+                                             DJNZ R2, LOOP
+                             
+                             FINAL:  JMP FINAL
+                             
+                             ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+                             $else   ; TASK=3
+                      81     
+  0033                82     SUM1    EQU 033h
+  0066                83     SUM2    EQU     066h
+                      84     
+0000 7530FE           85                     MOV SUM1-3, #0FEh
+0003 7531ED           86                     MOV SUM1-2, #0EDh
+0006 7532BE           87                     MOV SUM1-1, #0BEh
+0009 7533EF           88                     MOV SUM1, #0EFh
+                      89                     
+000C 7563AB           90                     MOV SUM2-3, #0ABh
+000F 7564BA           91                     MOV SUM2-2, #0BAh
+0012 7565DE           92                     MOV SUM2-1, #0DEh
+0015 7566AD           93                     MOV SUM2, #0ADh
+                      94     
+0018 7833             95                     MOV R0, #SUM1
+001A 7966             96                     MOV R1, #SUM2
+001C 1120             97                     CALL ADD32
+                      98     
+                      99     
+001E 80FE            100     FINAL:  JMP FINAL
+                     101     
+0020                 102     ADD32:
+0020 7A04            103                     MOV R2, #04h
+0022 C3              104                     CLR C
+0023 E6              105     LOOP:   MOV A, @R0
+0024 37              106                     ADDC A, @R1
+0025 F6              107                     MOV @R0, A
+0026 18              108                     DEC R0
+0027 19              109                     DEc R1
+0028 DAF9            110                     DJNZ R2, LOOP
+                     111     
+002A 22              112                     RET
+                     113     
+                     114     $endif 
+                     115     
+                     116                     END
+A51 MACRO ASSEMBLER  ADD32                                                                11/10/2014 20:33:05 PAGE     3
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+ADD32. . . . . . .  C ADDR   0020H   A   
+ADD32_DEMO . . . .  N NUMB   -----       
+FINAL. . . . . . .  C ADDR   001EH   A   
+LOOP . . . . . . .  C ADDR   0023H   A   
+SUM1 . . . . . . .  N NUMB   0033H   A   
+SUM2 . . . . . . .  N NUMB   0066H   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 0 ERROR(S)

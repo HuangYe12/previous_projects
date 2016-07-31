@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment5</string>
+    <string name="action_scan">Start Scan</string>
+    <string name="ble_not_supported">No support for BLE</string>
+    <string name="ble_supported">BLE is supported!</string>
+    <string name="found_new_device">Found new device: </string>
+    <string name="title_activity_location">Location</string>
+</resources>

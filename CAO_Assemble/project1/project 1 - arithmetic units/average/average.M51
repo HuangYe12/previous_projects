@@ -1,0 +1,104 @@
+BL51 BANKED LINKER/LOCATER V6.22                                                        11/11/2014  17:38:54  PAGE 1
+
+
+BL51 BANKED LINKER/LOCATER V6.22, INVOKED BY:
+C:\KEIL_V5\C51\BIN\BL51.EXE average.obj TO average
+
+
+INPUT MODULES INCLUDED:
+  average.obj (AVERAGE_DEMO)
+
+
+LINK MAP OF MODULE:  average (AVERAGE_DEMO)
+
+
+            TYPE    BASE      LENGTH    RELOCATION   SEGMENT NAME
+            -----------------------------------------------------
+
+            * * * * * * *   D A T A   M E M O R Y   * * * * * * *
+            REG     0000H     0008H     ABSOLUTE     "REG BANK 0"
+
+            * * * * * * *   C O D E   M E M O R Y   * * * * * * *
+            CODE    0000H     009DH     ABSOLUTE     
+
+
+
+SYMBOL TABLE OF MODULE:  average (AVERAGE_DEMO)
+
+  VALUE           TYPE          NAME
+  ----------------------------------
+
+  -------         MODULE        AVERAGE_DEMO
+  C:0046H         SYMBOL        ADD32
+  C:0049H         SYMBOL        ALOOP
+  C:0022H         SYMBOL        AVERAGE
+  N:0000H         SYMBOL        AVERAGE_DEMO
+  D:00F0H         SYMBOL        B
+  C:0002H         SYMBOL        CLEAR
+  N:ADEDH         SYMBOL        DATA1
+  N:BEEFH         SYMBOL        DATA2
+  N:FEEDH         SYMBOL        DATA3
+  N:ABBAH         SYMBOL        DATA4
+  N:0043H         SYMBOL        E0
+  N:0042H         SYMBOL        E1
+  N:0041H         SYMBOL        E2
+  N:0040H         SYMBOL        E3
+  C:002FH         SYMBOL        FINAL
+  C:0051H         SYMBOL        MUL16
+  N:0031H         SYMBOL        MULDATA
+  C:0045H         SYMBOL        NOCARRY
+  C:0079H         SYMBOL        PROD3
+  C:008DH         SYMBOL        PROD4
+  N:0054H         SYMBOL        RESULTLSB
+  N:0050H         SYMBOL        RESULTMSB
+  C:0027H         SYMBOL        SHIFT
+  C:0031H         SYMBOL        SUMUP
+  C:0000H         LINE#         24
+  C:0002H         LINE#         25
+  C:0004H         LINE#         26
+  C:0005H         LINE#         27
+  C:0008H         LINE#         33
+  C:000AH         LINE#         34
+BL51 BANKED LINKER/LOCATER V6.22                                                      11/11/2014  17:38:54  PAGE 2
+
+
+  C:000CH         LINE#         35
+  C:000EH         LINE#         38
+  C:0010H         LINE#         39
+  C:0012H         LINE#         40
+  C:0014H         LINE#         43
+  C:0016H         LINE#         44
+  C:0018H         LINE#         45
+  C:001AH         LINE#         48
+  C:001CH         LINE#         49
+  C:001EH         LINE#         50
+  C:0020H         LINE#         53
+  C:0022H         LINE#         54
+  C:0024H         LINE#         55
+  C:0026H         LINE#         56
+  C:0027H         LINE#         57
+  C:0028H         LINE#         58
+  C:0029H         LINE#         59
+  C:002AH         LINE#         60
+  C:002BH         LINE#         61
+  C:002DH         LINE#         62
+  C:002FH         LINE#         67
+  C:0031H         LINE#         71
+  C:0033H         LINE#         72
+  C:0035H         LINE#         73
+  C:0037H         LINE#         74
+  C:0039H         LINE#         75
+  C:003BH         LINE#         78
+  C:003DH         LINE#         79
+  C:003FH         LINE#         80
+  C:0041H         LINE#         82
+  C:0043H         LINE#         83
+  C:0045H         LINE#         84
+  -------         ENDMOD        AVERAGE_DEMO
+
+******************************************************************************
+* RESTRICTED VERSION WITH 0800H BYTE CODE SIZE LIMIT; USED: 009DH BYTE ( 7%) *
+******************************************************************************
+
+Program Size: data=8.0 xdata=0 code=157
+LINK/LOCATE RUN COMPLETE.  0 WARNING(S),  0 ERROR(S)

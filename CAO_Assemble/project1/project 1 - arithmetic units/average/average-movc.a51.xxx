@@ -1,0 +1,40 @@
+; Computer structure and organization
+; Project 1: arithmetic units
+; Copyright 2008 by Parallele Systeme, Universit<E4>t Stuttgart
+
+NAME ADD32_DEMO
+
+			ORG     0
+
+			MOV R7, #COUNT
+			MOV A, R7
+			RL A
+			DEC A
+			ADD A, #COPYADD
+			MOV R0, A
+			DEC R7
+COPY:		MOV A, R7
+			RL A
+			MOV B, A
+			INC A
+			MOV DPL, LOW INPUTS
+			MOV DPH, HIGH INPUTS
+			MOVC A, @A+DPTR
+			MOV @R0, A
+			DEC R0
+			MOV A, B
+			MOVC A, @A+DPTR
+			MOV @R0, A
+			DEC R0
+			DJNZ R7, COPY
+
+FINAL:		JMP FINAL
+
+$INCLUDE (ADD32.INC)
+$INCLUDE (MUL16.INC)
+
+INPUTS: 	DW 08899h, 0AABBh, 0CCDDh, 0EEFFh
+COUNT		EQU 04h
+COPYADD		EQU 040h
+
+	END

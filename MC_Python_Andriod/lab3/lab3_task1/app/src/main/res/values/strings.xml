@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">team05_Lab3_task1</string>
+    <string name="action_settings">Scan</string>
+    <string name="ble_not_supported">No support for BLE</string>
+    <string name="ble_supported">BLE is supported!</string>
+</resources>

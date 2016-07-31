@@ -1,0 +1,106 @@
+A51 MACRO ASSEMBLER  LEDBUSY                                                              12/06/2011 08:53:42 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.02a
+NO OBJECT MODULE REQUESTED
+ASSEMBLER INVOKED BY: C:\Keil\C51\BIN\A51.EXE LEDbusy.a51 SET(SMALL) DEBUG EP
+
+LOC  OBJ            LINE     SOURCE
+
+                       1     ; Hardwarenahe Programmierung
+                       2     ; Project 3: LED blink
+                       3     ; Copyright 2009 by Parallele Systeme, Universität Stuttgart
+                       4     ; Author: Marek Wroblewski
+                       5     
+                       6     NAME    LED_BUSY
+                       7     
+                       8     ; TASK=1: toggle port P1
+                       9     ; TASK=2: generate PWM signal
+                      10     $set  (TASK=1)
+                      11     
+                      12     ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+                      13     $if  TASK = 1
+0000 7590AA           14                     MOV P1, #0AAh
+0003 7BB9             15                     MOV     R3,     #0B9h
+0005 7C9E             16                     MOV     R4,     #09Eh
+0007                  17     START1:
+0007 7D32             18                     MOV R5, #032h   
+0009 6390FF           19                     XRL P1, #0FFh
+000C 1112             20     WT:             CALL WAIT
+000E DDFC             21                     DJNZ R5, WT
+0010 80F5             22                     JMP START1
+                      23     
+                      24       ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+                      25     $elseif  TASK = 2
+                                             MOV P1, #0h     ; clear P1
+                                             MOV P2, #0h     ; clear P2
+                             START2: MOV A, P2       ; read the value of P2 to A
+                                             ANL A, #0Fh     ; get the 4 lower bits of P2
+                                             MOV R1, A       ; and store it to R1 for the time with high voltage
+                                             MOV A, #0Fh
+                                             CLR C    
+                                             SUBB A, R1      ; get the difference for the time with low voltage
+                                             MOV R2, A
+                                             CJNE R1, #0h, HIGH_V ; if R1 is not equal to 0, set high voltage
+                                             JMP LOW_V
+                             HIGH_V: SETB P1.0
+                             WAIT_H: CALL WAIT
+                                             DJNZ R1, WAIT_H
+                                             CJNE R2, #0h, LOW_V     ; if R2 is not equal to 0, set low voltage
+                                             JMP START2
+                             LOW_V:  CLR P1.0
+                             WAIT_L: CALL WAIT
+                                             DJNZ R2, WAIT_L         
+                                             JMP START2
+                                             
+                             $endif 
+                      48     
+0012                  49     WAIT:
+0012                  50                     PUSH R3
+*** ______________________________________________^
+*** ERROR #A22 IN 50 (LEDbusy.a51, LINE 50): EXPRESSION TYPE DOES NOT MATCH INSTRUCTION
+0012                  51                     PUSH R4
+*** ______________________________________________^
+*** ERROR #A22 IN 51 (LEDbusy.a51, LINE 51): EXPRESSION TYPE DOES NOT MATCH INSTRUCTION
+0012 7B04             52                     MOV R3, #04h
+0014 7CFF             53                     MOV R4, #0FFh
+0016 00               54     LOOP:   NOP
+A51 MACRO ASSEMBLER  LEDBUSY                                                              12/06/2011 08:53:42 PAGE     2
+
+0017 00               55                     NOP
+0018 00               56                     NOP
+0019 00               57                     NOP
+001A 00               58                     NOP
+001B 00               59                     NOP
+001C 00               60                     NOP
+001D DCF7             61                     DJNZ R4, LOOP
+001F DBF5             62                     DJNZ R3, LOOP
+0021                  63                     POP R4
+*** _____________________________________________^
+*** ERROR #A22 IN 63 (LEDbusy.a51, LINE 63): EXPRESSION TYPE DOES NOT MATCH INSTRUCTION
+0021                  64                     POP R3
+*** _____________________________________________^
+*** ERROR #A22 IN 64 (LEDbusy.a51, LINE 64): EXPRESSION TYPE DOES NOT MATCH INSTRUCTION
+0021 22               65                     RET
+                      66     
+                      67     END
+A51 MACRO ASSEMBLER  LEDBUSY                                                              12/06/2011 08:53:42 PAGE     3
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+LED_BUSY . . . . .  N NUMB   -----       
+LOOP . . . . . . .  C ADDR   0016H   A   
+P1 . . . . . . . .  D ADDR   0090H   A   
+START1 . . . . . .  C ADDR   0007H   A   
+WAIT . . . . . . .  C ADDR   0012H   A   
+WT . . . . . . . .  C ADDR   000CH   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 4 ERROR(S)

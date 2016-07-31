@@ -1,0 +1,69 @@
+BL51 BANKED LINKER/LOCATER V6.22                                                        11/10/2014  20:33:05  PAGE 1
+
+
+BL51 BANKED LINKER/LOCATER V6.22, INVOKED BY:
+C:\KEIL_V5\C51\BIN\BL51.EXE add32.obj TO add32
+
+
+INPUT MODULES INCLUDED:
+  add32.obj (ADD32_DEMO)
+
+
+LINK MAP OF MODULE:  add32 (ADD32_DEMO)
+
+
+            TYPE    BASE      LENGTH    RELOCATION   SEGMENT NAME
+            -----------------------------------------------------
+
+            * * * * * * *   D A T A   M E M O R Y   * * * * * * *
+            REG     0000H     0008H     ABSOLUTE     "REG BANK 0"
+
+            * * * * * * *   C O D E   M E M O R Y   * * * * * * *
+            CODE    0000H     002BH     ABSOLUTE     
+
+
+
+SYMBOL TABLE OF MODULE:  add32 (ADD32_DEMO)
+
+  VALUE           TYPE          NAME
+  ----------------------------------
+
+  -------         MODULE        ADD32_DEMO
+  C:0020H         SYMBOL        ADD32
+  N:0000H         SYMBOL        ADD32_DEMO
+  C:001EH         SYMBOL        FINAL
+  C:0023H         SYMBOL        LOOP
+  N:0033H         SYMBOL        SUM1
+  N:0066H         SYMBOL        SUM2
+  C:0000H         LINE#         85
+  C:0003H         LINE#         86
+  C:0006H         LINE#         87
+  C:0009H         LINE#         88
+  C:000CH         LINE#         90
+  C:000FH         LINE#         91
+  C:0012H         LINE#         92
+  C:0015H         LINE#         93
+  C:0018H         LINE#         95
+  C:001AH         LINE#         96
+  C:001CH         LINE#         97
+  C:001EH         LINE#         100
+  C:0020H         LINE#         103
+  C:0022H         LINE#         104
+  C:0023H         LINE#         105
+  C:0024H         LINE#         106
+  C:0025H         LINE#         107
+  C:0026H         LINE#         108
+  C:0027H         LINE#         109
+  C:0028H         LINE#         110
+  C:002AH         LINE#         112
+  -------         ENDMOD        ADD32_DEMO
+
+******************************************************************************
+BL51 BANKED LINKER/LOCATER V6.22                                                      11/10/2014  20:33:05  PAGE 2
+
+
+* RESTRICTED VERSION WITH 0800H BYTE CODE SIZE LIMIT; USED: 002BH BYTE ( 2%) *
+******************************************************************************
+
+Program Size: data=8.0 xdata=0 code=43
+LINK/LOCATE RUN COMPLETE.  0 WARNING(S),  0 ERROR(S)

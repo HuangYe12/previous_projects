@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">McLabApp</string>
+    <string name="action_scan">ScanBLE</string>
+    <string name="ready_text">Ready for starting scanning.</string>
+    <string name="scan_text">Scanning...</string>
+    <string name="unknown_device">UNKNOWN</string>
+    <string name="ok_button">Ok</string>
+    <string name="weather_name">Weather App</string>
+    <string name="fan_name">Fan Control App</string>
+    <string name="weather_text">Searching Weather Data...</string>
+    <string name="fan_waiting">Waiting for connecting...</string>
+    <string name="fan_connected">Fan control ready.</string>
+</resources>

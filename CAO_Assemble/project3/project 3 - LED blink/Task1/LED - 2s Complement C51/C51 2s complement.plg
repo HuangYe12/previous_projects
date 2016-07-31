@@ -1,0 +1,22 @@
+<html>
+<body>
+<pre>
+<h1>µVision3 Build Log</h1>
+<h2>Project:</h2>
+Z:\lehre\uebungen\CAO\projects\project 3 - LED blink\solutions\Task1\LED - 2s Complement C51\C51 2s complement.uv2
+Project File Date:  11/26/2010
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling 2s Complement C51.C...
+linking...
+Program Size: data=9.0 xdata=0 code=48
+"C51 2s complement" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling 2s Complement C51.C...
+linking...
+Program Size: data=9.0 xdata=0 code=58
+"C51 2s complement" - 0 Error(s), 0 Warning(s).
+</pre>
+</body>
+</html>

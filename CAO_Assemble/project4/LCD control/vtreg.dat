@@ -1,0 +1,11 @@
+       PPAGE:  ulong, value = 0xFFFFFFFF
+       XPAGE:  ulong, value = 0xFFFFFFFF
+        XTAL:  ulong, value = 0x00B71B00
+       CLOCK:  ulong, value = 0x000F4240
+       PORT0:  uchar, value = 0xFF
+       PORT1:  uchar, value = 0xFF
+       PORT2:  uchar, value = 0xFF
+       PORT3:  uchar, value = 0xFF
+         SIN:   uint, value = 0x0000
+        SOUT:   uint, value = 0x0000
+       STIME:  uchar, value = 0x01

@@ -1,0 +1,3 @@
+"main.obj",
+"cao_memset.obj" 
+TO "memset-from-c" 

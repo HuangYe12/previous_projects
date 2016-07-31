@@ -1,0 +1,4 @@
+"LCDcontrol.obj",
+"LCDcomm.obj",
+"wait.obj" 
+TO "LCDcontrol" 

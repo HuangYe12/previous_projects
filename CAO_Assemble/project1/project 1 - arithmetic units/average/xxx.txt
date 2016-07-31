@@ -1,0 +1,60 @@
+; Computer structure and organization
+; Project 1: arithmetic units
+; Copyright 2008 by Parallele Systeme, Universität Stuttgart
+
+NAME AVERAGE_DEMO
+
+DATA1 	EQU 0ADEDh
+DATA2	EQU 0BEEFh
+DATA3	EQU 0FEEDh
+DATA4	EQU 0ABBAh
+
+MULDATA	  EQU 031h	; address of the LSB of the input for MUL16
+RESULTLSB EQU 054h	; area to store the final result
+RESULTMSB EQU 050h
+
+			; clear result space
+	MOV R0, #RESULTLSB
+CLEAR:	MOV @R0, #0
+	DEC R0
+	CJNE R0, #RESULTMSB-1, CLEAR
+
+	; compute and sum up the squares of DATA1 to DATA4
+	; use R6 and R7 to transfer the data to the subroutine
+
+	; DATA1
+	MOV R6, #HIGH DATA1
+	MOV R7, #LOW DATA1
+	CALL SUMUP
+
+	; DATA2
+	...
+
+
+	; divide the result by 4
+	...
+	RRC A
+	...
+
+FINAL:		JMP FINAL
+
+SUMUP:
+	; compute the square
+	MOV MULDATA-1, R6
+	MOV MULDATA, R7
+	MOV R0, #MULDATA
+	MOV R1, #MULDATA
+	CALL MUL16
+
+	; add the square to the sum
+	MOV R0, ... ; Summand1: current val of total sum of squares
+	MOV R1, ... ; Summand2: result of the multiplication
+	CALL ADD32
+	; don't forget to take care of carry signals
+	JNC NOCARRY
+	INC RESULTMSB
+NOCARRY:	RET
+
+$INCLUDE (ADD32.INC)
+$INCLUDE (MUL16.INC)
+
